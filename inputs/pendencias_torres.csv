@@ -1,0 +1,1510 @@
+TME COD.;Criticidade;Identificação Falha;Categoria Pendência;Descrição Falha;Data Inicio;Data Fim;Dias Em Falha;Status Falha
+PBA01;Urgente;13/12/2022;Falha de Comunicação;Atraso de coleta. Último dado recebido dia 12/12/2022.;12/12/2022;28/12/2022;16;Normalizada
+AS403;Urgente;14/12/2022;Falha de Comunicação;Atraso de coleta.;13/12/2022;02/01/2023;20;Normalizada
+PBA01;Baixa;01/01/2023;Sensores / DataLogger;Desalinhamento entre WVs de aprox. 12 graus;;15/03/2024;0;Normalizada
+PBA01;Media;12/08/2022;Sensores / DataLogger;Um dos paines solares apresenta falha na trilha e precisa ser substituído;;;0;Normalizada
+DT304;Baixa;21/12/2022;Sensores / DataLogger;Substituir caixa da bateria do sistema principal;21/12/2022;23/06/2023;184;Normalizada
+DT308;Alta;19/12/2022;Sensores / DataLogger;Falha de Alimentação no Sistema de Comunicação.;18/12/2022;;1191;Normalizada
+DT501;Baixa;21/12/2022;Sensores / DataLogger;Substituir balizamento intermediario;;08/07/2024;0;Normalizada
+AS505;Alta;28/11/2022;Sensores / DataLogger;Barômetro apresentando ruído. Em 06/01/22, a falha foi minimizada após verificação, porém voltou a impactar as medições no início de fevereiro.;15/11/2022;19/04/2023;155;Normalizada
+AS402;Alta;13/06/2022;Sensores / DataLogger;Necessário finalizar o aterramento, cabo solto na base da torre. Aguardando relatório.;16/06/2022;;1376;Normalizada
+AS406;Alta;21/11/2022;Sensores / DataLogger;Barometro em falha;16/11/2022;28/12/2022;42;Normalizada
+AS406;Alta;25/11/2022;Sensores / DataLogger;Windvane 1 em falha;22/11/2022;28/12/2022;36;Normalizada
+AS506;Urgente;07/11/2022;Falha de Comunicação;"Falha de comunicação
+Problema no sw da AS406, onde é feita a integração entre os links de rádio que passam pela torre.";29/10/2022;03/01/2023;66;Normalizada
+ASD09;Urgente;06/12/2022;Falha de Comunicação;Pendente da instalação do modem bgan para comunicação remota;06/12/2022;28/12/2022;22;Normalizada
+ASD12;Alta;08/03/2022;Sensores / DataLogger;Pireliômetro e ambas as Células Calibradas apresentam um offset de aprox. 30 W/m² e 10 W/m² respectivamente, durante o período noturno. Sensores apresentam leve divergência em relação ao Piranômetro 1.;;01/03/2024;0;Normalizada
+ASU04;Urgente;10/06/2022;Sensores / DataLogger;"Reincidência de falha para Anemômetros. Medições apresentam falhas intermitentes, possivelmente associadas ao DPS.
+Dados ONS impactados.";09/05/2022;;1414;Normalizada
+ASU05;Baixa;30/07/2022;Sensores / DataLogger;Refazer o cabo de aterramento do datalogger, Substituir filtro do Barômetro e Realizar a retirada dos cabos de instrumentação soltos na torre e Limpar paineis solares sujos de tinta;30/07/2022;;1332;Normalizada
+CPS01;Urgente;08/11/2021;Sensores / DataLogger;WV1 apresentando falhas intermitentes. Sinal ruidoso (pode ser observado pela direção mínima e Desvio Padrão). Baixo impacto sobre a medição;03/11/2021;17/03/2023;499;Normalizada
+DIA02;Baixa;06/09/2022;Sensores / DataLogger;Instalar filtro equalizador no Barômetro;06/09/2022;03/10/2024;758;Normalizada
+DIA02;Media;06/09/2022;Sensores / DataLogger;"refixar cabos dos instrumentos na torre;  Nivelar haste do windvane inferior; limpar respingos de tinta dos paineis solares";;01/07/2024;0;Normalizada
+DIA03;Baixa;22/12/2022;Sensores / DataLogger;Limpar respingos de tinta dos paineis solares;;;0;Normalizada
+DIA03;Urgente;31/10/2022;Sensores / DataLogger;Falha da temperatura;24/10/2022;22/12/2022;59;Normalizada
+LAJ01;Baixa;22/12/2022;Sensores / DataLogger;Limpar respingos de tinta dos paineis solares e Refixar cabos de instrumentos na torre próximo ao anti-torção;;;0;Normalizada
+LAJ03;Media;22/12/2022;Sensores / DataLogger;Desalinhamento entre Wind Vanes;;;0;Normalizada
+LAJ09;Urgente;18/12/2022;Falha de Comunicação;Falha de comunicação. Aero desligado devido a uma manutenção na PA;17/12/2022;;1192;Normalizada
+CER18;Urgente;20/12/2019;Falha de Comunicação;"COMUNICAÇÃO PAUSADA DEVIDO A NECESSIDADE DE INSTALAÇÃO DE RADIO COMUNICADOR.
+27/12: No dia da instalação do Radio, conseguimos acessar o logger, mas sem acesso posterior.";19/12/2022;03/01/2023;15;Normalizada
+ASD13;Urgente;26/12/2022;Sensores / DataLogger;Falha para canal de umidade relativa do sensor PTH. Aguardando instalação do novo sensor PTH.;16/12/2022;09/05/2023;144;Normalizada
+HER28;Alta;21/10/2022;Sensores / DataLogger;Falha para Termo-Higrômetro. Após atendimento em 20/03, falha retornou em 5 dias.;20/10/2022;20/04/2023;182;Normalizada
+HER30;Alta;19/12/2022;Falha de Comunicação;Falha de comunicação.;16/12/2022;16/01/2023;31;Normalizada
+GER01;Urgente;16/12/2022;Falha de Comunicação;Falha de comunicação.;15/12/2022;10/01/2023;26;Normalizada
+CHU04;Media;31/01/2022;Sensores / DataLogger;"Substituir cabo de descida do aterramento do datalogger.
+Falha normalizada após a substituição dos equipamentos e estrutura.";;09/11/2024;0;Normalizada
+CHU04;Media;17/02/2022;Sensores / DataLogger;Thermo-higômetro apresentando sinais fisicos de oxidação severa na carcaça;;01/10/2024;0;Normalizada
+CHU04;Alta;04/11/2022;Sensores / DataLogger;Thermo-higômetro apresentando ruído na medição, correlacionado a tensão de alimentação do Data Logger.;31/10/2022;;1239;Normalizada
+CHU06;Urgente;01/11/2022;Falha de Comunicação;Falha de comunicação (fibra). Atraso de Coleta;29/10/2022;29/11/2023;396;Normalizada
+CHU07;Baixa;12/12/2022;Sensores / DataLogger;Desalinhamento entre Wind Vanes. Aprox. 10°;;15/11/2024;0;Normalizada
+CHU07;Alta;12/12/2022;Sensores / DataLogger;Falha para Termo-Higrômetro.;11/12/2022;06/01/2023;26;Normalizada
+CHU01;Urgente;16/12/2022;Falha de Comunicação;Falha de comunicação (fibra). Atraso de Coleta;15/12/2022;19/04/2023;125;Normalizada
+GER10;Baixa;16/02/2022;Sensores / DataLogger;Retirar cabos que não estão sendo utilizados;;;12;Falha Ativa
+GER10;Alta;25/11/2022;Sensores / DataLogger;Falha geral para ANM 1;17/11/2022;04/03/2023;107;Normalizada
+GER09;Alta;14/11/2022;Sensores / DataLogger;Barômetro apresentando ruído intenso na medição.;08/11/2022;15/02/2023;99;Normalizada
+GER09;Urgente;17/11/2022;Falha de Comunicação;Atraso de Coleta;16/11/2022;04/01/2023;49;Normalizada
+GER02;Urgente;27/06/2022;Sensores / DataLogger;Atraso de coleta recorrente, devido ao travamento do programa do datalogger (flag Watchdog).;27/06/2022;14/01/2023;201;Normalizada
+GER07;Urgente;28/10/2022;Falha de Comunicação;Falha de comunicação (GPRS). Atraso de Coleta;27/10/2022;17/05/2023;202;Normalizada
+GER05;Alta;29/12/2021;Sensores / DataLogger;Canal de Temperatura do Termo-Higrômetro registrando sinal ruidoso. Falhas acontecem quando a tensão de alimentação está acima de 13V. Apesar da inconsistência, os dados apresentam boa correlação e não estão sendo descartados.;29/12/2021;;1545;Normalizada
+GER04;Alta;19/09/2022;Sensores / DataLogger;Falha para WV1 e inconsistências intermitentes para ANMs;18/09/2022;05/01/2023;109;Normalizada
+GER02;Urgente;13/12/2022;Falha de Comunicação;Falha de comunicação (GPRS). Atraso de Coleta;12/12/2022;14/01/2023;33;Normalizada
+GER03;Urgente;17/12/2022;Falha de Comunicação;Atraso de Coleta;12/12/2022;10/01/2023;29;Normalizada
+GER08;Urgente;17/12/2022;Falha de Comunicação;Atraso de Coleta;16/12/2022;11/01/2023;26;Normalizada
+CHU09;Alta;18/09/2022;Sensores / DataLogger;Falha para ANM 3 e WV 2. Anemômetro apresenta divergência acima do esperado em relação aos sensores próximos e Wind Vane registra máxima e mínima fora do esperado.;24/12/2021;;1550;Normalizada
+CER19;Urgente;20/12/2022;Falha de Comunicação;Falha de comunicação devido a raio. Necessario a troca do moden BGAN;20/12/2022;28/12/2022;8;Normalizada
+DT602;Media;28/12/2022;Sensores / DataLogger;Painel solar com trilha rompida.;28/12/2022;09/09/2023;255;Normalizada
+DT303;Urgente;29/12/2022;Comunicação SCADA;Comunicação com SCADA Intermitente - Comunicação voltou com o RESET do Logger;;;0;Normalizada
+DT307;Urgente;29/12/2022;Comunicação SCADA;Comunicação com SCADA Intermitente - Comunicação foi reestabelecida após RESET remoto;;;0;Normalizada
+DT301;Urgente;29/12/2022;Comunicação SCADA;Sem comunicação com SCADA - Pendente Instalação de METMAST;;;0;Normalizada
+DT306;Urgente;29/12/2022;Comunicação SCADA;Sem comunicação com SCADA - Pendente Instalação de METMAST;;;0;Normalizada
+DT701;Urgente;29/12/2022;Comunicação SCADA;Pressão não chegando no SCADA - Pendente resolução da FABRICANTE;;12/01/2023;0;Normalizada
+DT702;Urgente;29/12/2022;Comunicação SCADA;Pressão não chegando no SCADA - Pendente resolução da FABRICANTE;;12/01/2023;0;Normalizada
+DT801;Urgente;29/12/2022;Comunicação SCADA;Pressão não chegando no SCADA - Pendente resolução da FABRICANTE;;;0;Normalizada
+CHU02;Urgente;29/12/2022;Comunicação SCADA;Sem comunicação com ONS;;31/07/2023;0;Normalizada
+CHU09;Urgente;29/12/2022;Comunicação SCADA;Não identificado onde chega a FIBRA da TME na Subestação;;;0;Normalizada
+GER04;Urgente;29/12/2022;Comunicação SCADA;Variáveis no SAGE zeradas - provável comunicação até o conversor de mídea da TME;;;0;Normalizada
+GER07;Urgente;29/12/2022;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Identificação e uso da fibra do Fabricante
+2. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+GER08;Urgente;29/12/2022;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Compra e instalação NL
+2. Compra e substituição do Painel Solar da comunicação
+3. Identificação e uso da fibra do Fabricante
+4. Alterar a comunicação da porta COM para porta 502";29/12/2022;01/12/2023;337;Normalizada
+GER10;Urgente;29/12/2022;Comunicação SCADA;"Sem comunicação com a ONS. Pendente
+1. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+HER30;Urgente;29/12/2022;Comunicação SCADA;"Sem comunicação com ONS. Pendente:
+1. Refazer a fibra entre o Aero e a Torre";29/12/2022;01/12/2023;337;Normalizada
+DT301;Urgente;29/12/2022;Sensores / DataLogger;Falha para Termo-Higrômetro. Canal de umidade registrando valores muito acima do esperado.;23/12/2022;10/01/2023;18;Normalizada
+HER31;Urgente;29/12/2022;Comunicação SCADA;Variáveis Travadas de tempo Real;;;0;Normalizada
+HER28;Urgente;21/11/2022;Sensores / DataLogger;Ninho de Passaros impedindo a escalada da torre;;;0;Normalizada
+GER10;Urgente;28/12/2022;Sensores / DataLogger;Ninho de Passaros impossibilitando a escalada da torre.;;;0;Normalizada
+HER31;Urgente;20/12/2022;Sensores / DataLogger;Ninho de Passaros impossibilitando a escalada da torre;;;0;Normalizada
+CHU01;Media;09/11/2022;Sensores / DataLogger;Balizamento intermediário queimado;;09/07/2024;0;Normalizada
+GER05;Media;09/11/2022;Sensores / DataLogger;Balizamentos queimados;;;88;Falha Ativa
+AS505;Media;29/12/2022;Sensores / DataLogger;Instalar mais uma bateria para os radios e instalar um temporizador para os radios que comunicam com ASR6;;;0;Normalizada
+DT801;Urgente;30/12/2022;Sensores / DataLogger;Bateria do SCADA descarregando durante a noite. Realizar a troca para não impactar o envio de dados para ONS;09/12/2022;03/02/2023;56;Normalizada
+DT502;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+DT304;Urgente;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA. Torres visinhas apresentando falhas de bateria.;;;0;Normalizada
+DT308;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+DT602;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+DT701;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;01/03/2023;0;Normalizada
+DT702;Urgente;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+AS401;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+AS402;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+AS403;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+AS404;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+AS406;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+ASU04;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+ASU02;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;02/03/2023;0;Normalizada
+ASU02;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+ASU03;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+ASU04;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+ASU05;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+ASU07;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+ASU07;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+AS502;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+AS503;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+AS504;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+AS505;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+LAJ01;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+LAJ02;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA.;;10/10/2024;0;Normalizada
+LAJ03;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+LAJ03;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+LAJ05;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+LAJ09;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+LAJ09;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+CPS01;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+CPS02;Media;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;30/12/2022;07/08/2023;220;Normalizada
+CPS02;Media;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+DIA02;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+DIA03;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+DIA03;Baixa;30/12/2022;Comunicação SCADA;"Instalar Monitor de Tensão de Bateria do SCADA. Validar se o programa está correto, pois o canal ""Battery_2"" não aparece nos dados brutos.";;;0;Normalizada
+CAP03;Baixa;30/12/2022;Comunicação SCADA;Instalar Monitor de Tensão de Bateria do SCADA;;;0;Normalizada
+CAP03;Baixa;30/12/2022;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+ASU02;Baixa;30/12/2022;Sensores / DataLogger;Remover Termohigrometro 137702, windvane 01180010 @ 73,7m e antena Iridium uma vez que não estão sendo usados;;16/10/2025;0;Normalizada
+ASU02;Urgente;06/07/2022;Sensores / DataLogger;Caixa do Datalogger quebrada, necessário a substituição;;02/03/2023;0;Normalizada
+ASU02;Media;06/07/2022;Sensores / DataLogger;Limpeza do Painel Solar;;;0;Normalizada
+DT701;Baixa;02/01/2023;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+DT702;Baixa;02/01/2023;Sensores / DataLogger;Instalar Placa de Identificação;;;0;Normalizada
+DT801;Baixa;02/01/2023;Sensores / DataLogger;Instalar Placa de Identificação;;05/05/2023;0;Normalizada
+ASD09;Alta;03/01/2023;Falha de Comunicação;Realizar coleta de dados. Dados faltantes de 14 a 21 de dezembro e de 27 a 30 de dezembro;14/12/2022;30/12/2022;16;Normalizada
+AS401;Urgente;04/01/2023;Falha de Comunicação;Moxa de comunicação RS232 nao responde. Coleta Atrasada;03/01/2023;06/01/2023;3;Normalizada
+DT305;Alta;05/01/2023;Comunicação SCADA;Pressão e Temperatura não estão sendo lidas pelo SCADA.;05/01/2023;01/02/2023;27;Normalizada
+AS403;Urgente;06/01/2023;Falha de Comunicação;Logger nao comunica.;05/01/2023;06/01/2023;1;Normalizada
+LAJ09;Urgente;04/01/2023;Falha de Comunicação;Falha de comunicação. Atraso de coleta.;03/01/2023;09/01/2023;6;Normalizada
+LAJ03;Urgente;04/01/2023;Falha de Comunicação;Falha de comunicação. Atraso de coleta.;03/01/2023;09/01/2023;6;Normalizada
+ASU04;Urgente;09/01/2023;Falha de Comunicação;Falha de comunicação. Atraso de coleta.;08/01/2023;09/01/2023;1;Normalizada
+GER06;Urgente;10/01/2023;Sensores / DataLogger;Falha de alimentação, com queda progressiva na tensão de alimentação do Data Logger.;13/12/2022;15/03/2023;92;Normalizada
+ASD11;Urgente;05/12/2022;Sensores / DataLogger;"Wind Vane apresentando medições ""espelhadas"" em relação às torres próximas.
+Verificar instalação elétrica do sensor, checando se houve inversão entre cabos que justifique a divergência.";04/08/2022;03/03/2023;211;Normalizada
+AS402;Alta;15/12/2022;Falha de Comunicação;Realizar coleta manual dos dados para preenchimento de lacuna entre 05/12 e 14/12.;05/12/2022;;1204;Normalizada
+GER08;Urgente;11/01/2023;Sensores / DataLogger;Wind Vane Superior em falha total.;20/12/2022;12/01/2023;23;Normalizada
+ASD08;Urgente;12/01/2023;Sensores / DataLogger;Falha geral para termo-higrômetro e barômetro. Torre desativada.;01/12/2022;19/07/2023;230;Normalizada
+AS403;Alta;13/01/2023;Sensores / DataLogger;"Desalinhamento entre WV. WV Inferior aprox. 20° abaixo do ângulo esperado.
+Verificar alinhamento da torre, braço e sensor. Realizar o georreferenciamento dos braços.";01/11/2022;12/04/2023;162;Normalizada
+CER18;Urgente;13/01/2023;Sensores / DataLogger;"Falha de alimentação/Atraso de Coleta. Queda progressiva na tensão de alimentação, causando desligamentos e atraso de coleta.
+Aparentemente, sistema de rádio está ligado ininterruptamente, causando a descarga acelerada da bateria.";02/01/2023;09/02/2023;38;Normalizada
+GER07;Urgente;16/01/2023;Sensores / DataLogger;Barômetro em falha total.;19/10/2022;14/04/2023;177;Normalizada
+DT601;Alta;16/01/2023;Sensores / DataLogger;Ruído nas medições do TH e Barômetro. Verificar sistema de alimentação.;05/12/2022;05/07/2023;212;Normalizada
+AS502;Alta;18/01/2023;Sensores / DataLogger;Instalar monitor de tensão da bateria SCADA.;21/12/2022;14/05/2024;510;Normalizada
+AS504;Alta;18/01/2023;Sensores / DataLogger;Instalar monitor de tensão da bateria SCADA.;09/01/2023;30/04/2024;477;Normalizada
+CER18;Urgente;19/01/2023;Falha de Comunicação;"Falha de alimentação/Atraso de Coleta. Queda progressiva na tensão de alimentação, causando desligamentos e atraso de coleta.
+Aparentemente, sistema de rádio está ligado ininterruptamente, causando a descarga acelerada da bateria.";17/01/2022;09/02/2023;388;Normalizada
+CER06;Urgente;19/01/2023;Falha de Comunicação;Falha de comunicação intermitente (BGAN). Atraso de Coleta.;15/01/2023;06/02/2023;22;Normalizada
+AS502;Urgente;11/01/2023;Falha de Comunicação;Falha de comunicação. Relé de alimentação do sistema de rádios não funcionando.;11/01/2023;24/02/2023;44;Normalizada
+AS504;Urgente;11/01/2023;Falha de Comunicação;Falha de comunicação. Relé de alimentação do sistema de rádios não funcionando.;11/01/2023;24/02/2023;44;Normalizada
+GER06;Urgente;13/01/2023;Falha de Comunicação;Falha de comunicação (fibra). Atraso de Coleta;11/01/2023;15/03/2023;63;Normalizada
+HER29;Urgente;31/12/2022;Falha de Comunicação;Falha de comunicação (fibra fabricante). Atraso de Coleta;03/01/2023;;1175;Normalizada
+TBR03;Urgente;23/01/2023;Sensores / DataLogger;Barômetro em falha geral. Medições inconsistentes.;20/01/2023;25/01/2023;5;Normalizada
+DT305;Urgente;11/01/2023;Comunicação SCADA;Após troca do DL pelo modelo Orbit 360, as tags do MODBUS mudaram, e por isso a torre não está sendo lida pelo SCADA do fabricante.;11/01/2023;01/02/2023;21;Normalizada
+DIA02;Urgente;23/01/2023;Sensores / DataLogger;Barômetro apresentou mudança brusca no patamar das medições (aprox. 26 hPa de amplitude).;21/01/2023;21/01/2023;0;Normalizada
+DT307;Alta;26/01/2023;Falha de Comunicação;Alimentação do sistema de comunicação apresentando desligamentos devido a afundamento na tensão da bateria.;21/01/2023;;1157;Normalizada
+DT308;Urgente;26/01/2023;Sensores / DataLogger;"Higrômetro apresentando valores acima das torres próximas quando umidade está acima dos 90%.
+Verificar funcionamento e realizar limpeza do termo-higrômetro.";16/01/2023;04/04/2023;78;Normalizada
+ART02;Urgente;26/01/2023;Sensores / DataLogger;Falha de medição na Célula Calibrada Limpa (tanto canal de temperatura quanto irradiância).;25/01/2023;14/02/2023;20;Normalizada
+AS403;Urgente;26/01/2023;Falha de Comunicação;Falha de comunicação intermitente (fibra). Comunicação SCADA funciona normalmente, porém comunicação com escritório segue falhando.;25/01/2023;;1153;Normalizada
+ASU07;Urgente;26/01/2023;Falha de Comunicação;Falha de comunicação. Atraso de coleta.;24/01/2023;30/01/2023;6;Normalizada
+DT801;Urgente;31/01/2023;Falha de Comunicação;Falha de Comunicação. Ultima coleta em 30/01. Conversor de Midia não responde a ping.;30/01/2023;30/01/2023;0;Normalizada
+DT304;Urgente;01/02/2023;Falha de Comunicação;Comunicação Intermitente, conversor de midia travando. Favor instalar um monitor de tensão na entrada do conversor de midia para monitorar a tensão do conversor;30/01/2023;;1148;Normalizada
+DT701;Urgente;01/02/2023;Falha de Comunicação;Conversor de midia nao respondendo, instalar um monitor de tensao na alimentação do conversor de midia;30/01/2023;01/02/2023;2;Normalizada
+DT303;Alta;01/02/2023;Sensores / DataLogger;Cartao SD com erro;01/02/2023;24/02/2023;23;Normalizada
+ASD13;Baixa;07/02/2023;Sensores / DataLogger;Fazer a transferencia de titularidade do reboque de ASR5 para Nova OD;;;0;Normalizada
+AS506;Alta;08/02/2023;Falha de Comunicação;Comunicação sem funcionar durante a noite. Precisa aumentar as baterias da torre.;;;0;Normalizada
+GER08;Alta;09/02/2023;Sensores / DataLogger;Barômetro em falha total.;07/02/2023;13/02/2023;6;Normalizada
+ASD06;Urgente;10/09/2023;Falha de Comunicação;Torre não está respondendo ao ping. Foi possível estabelecer comunicação até o radio client dela;09/02/2023;10/09/2023;213;Normalizada
+AS404;Alta;13/02/2023;Sensores / DataLogger;Realizar o georreferenciamento dos braços de Wind Vane.;;;0;Normalizada
+AS406;Alta;13/02/2023;Sensores / DataLogger;Realizar o georreferenciamento dos braços de Wind Vane.;;;0;Normalizada
+GER02;Alta;14/02/2023;Sensores / DataLogger;Barômetro apresentando ruído na medição.;20/12/2022;27/11/2023;342;Normalizada
+ASD08;Alta;15/02/2023;Falha de Comunicação;Coleta de Dados - Coleta Manual. Torre desativada.;;19/07/2023;0;Normalizada
+ASD13;Baixa;15/02/2023;Sensores / DataLogger;até 30/04/2023 fazer o licenciamento do reboque;;;0;Normalizada
+CER19;Urgente;15/02/2023;Falha de Comunicação;Falha de comunicação. Coleta atrasada;09/02/2023;01/03/2023;20;Normalizada
+HER31;Media;17/02/2023;Sensores / DataLogger;Ruído nas medições do termo-higrômetro, principalmente no canal de temperatura.;;;0;Normalizada
+HER34;Urgente;17/02/2023;Sensores / DataLogger;Falhas intermitentes na medição do Anemômetro 2 (intermediário).;17/02/2023;31/07/2023;164;Normalizada
+ASD05;Urgente;22/02/2023;Sensores / DataLogger;Windvane de topo apresentando valores inconsistentes.;21/02/2023;16/03/2023;23;Normalizada
+DT301;Media;22/02/2023;Comunicação SCADA;Sistema de alimentação do SCADA apresentando quedas de tensão. Valores chegando a 11.1V;20/02/2023;01/03/2023;9;Normalizada
+DT302;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação do SCADA apresentando quedas de tensão. Sistema desligando durante a noite;20/02/2023;24/02/2023;4;Normalizada
+DT303;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação do SCADA apresentando quedas de tensão. Sistema desligando durante a noite;20/02/2023;28/02/2023;8;Normalizada
+DT307;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação do SCADA apresentando quedas de tensão. Sistema desligando durante a noite;17/02/2023;11/07/2023;144;Normalizada
+DT306;Urgente;22/02/2023;Comunicação SCADA;Alimentação do sistema SCADA abaixo dos 12Volts.;17/08/2022;15/06/2023;302;Normalizada
+DT308;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação SCADA com falha.;;;0;Normalizada
+DT501;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação SCADA com quedas de tensão;17/02/2023;;1130;Normalizada
+DT502;Urgente;22/02/2023;Comunicação SCADA;Sistema de alimentação SCADA com quedas de tensão. Valores próximos a 11Volts;17/02/2023;;1130;Normalizada
+DT301;Urgente;22/02/2023;Sensores / DataLogger;Após troca do Datalogger, comunicação não foi estabelecida.;22/02/2023;28/02/2023;6;Normalizada
+DT702;Urgente;24/02/2023;Falha de Comunicação;Coleta atrasada. Conversor de midia nao responde a ping;22/02/2023;01/03/2023;7;Normalizada
+AS402;Urgente;27/02/2023;Falha de Comunicação;Torre sem comunicação. Conversores do SCADA e Coleta não respondem.;26/02/2023;;1121;Normalizada
+PDD01;Media;27/02/2023;Sensores / DataLogger;"Barômetro apresentando oscilações no patamar das medições de forma intermitente.
+Verificar funcionamento do sensor.";27/02/2023;29/02/2024;367;Normalizada
+ASU04;Urgente;27/02/2023;Sensores / DataLogger;Após atualização de Programa, todos os anemômetros pararam de medir.;27/02/2023;27/02/2023;0;Normalizada
+AS402;Urgente;28/02/2023;Sensores / DataLogger;Falha geral para todos os Anemômetros e Barômetro.;26/02/2023;;1121;Normalizada
+AS503;Alta;02/03/2023;Sensores / DataLogger;Instalar monitor de tensão da bateria SCADA.;22/02/2023;09/05/2024;442;Normalizada
+AS503;Urgente;23/02/2023;Sensores / DataLogger;Barômetro em falha desde a instalação.;22/02/2023;04/04/2023;41;Normalizada
+AS503;Alta;02/03/2023;Sensores / DataLogger;Fazer georreferenciamento da direção dos sensores;02/03/2023;29/01/2024;333;Normalizada
+AS502;Alta;02/03/2023;Sensores / DataLogger;Fazer georreferenciamento da direção dos sensores.;;;0;Normalizada
+AS504;Alta;02/03/2023;Sensores / DataLogger;Fazer georreferenciamento da direção dos sensores;;;0;Normalizada
+ASD05;Baixa;02/03/2023;Sensores / DataLogger;ligar o monitor de tensão da bateria;02/03/2023;18/11/2024;627;Normalizada
+ASD06;Baixa;02/03/2023;Sensores / DataLogger;Ligar o monitor de tensão da bateria;02/03/2023;11/10/2024;589;Normalizada
+ASD10;Alta;02/03/2023;Sensores / DataLogger;Ligar o monitor de tensão;;29/05/2024;0;Normalizada
+ASU02;Alta;02/03/2023;Sensores / DataLogger;Atualizar o sistema operacional do logger para de 28.02 para OS 32.XX;;;0;Normalizada
+LAJ03;Media;02/03/2023;Sensores / DataLogger;GPS com falha;;;0;Normalizada
+DT501;Urgente;02/03/2023;Sensores / DataLogger;Falha intermitente para Barômetro e Termo-Higrômetro. Verificar borneira dos sensores.;01/03/2023;12/05/2023;72;Normalizada
+PBA01;Alta;07/03/2023;Sensores / DataLogger;GPS com erro e precisa ser trocado;05/03/2023;;1114;Normalizada
+AS504;Alta;07/03/2023;Sensores / DataLogger;Barômetro apresentando ruído.;19/02/2023;20/04/2023;60;Normalizada
+PPA01;Media;08/03/2023;Comunicação SCADA;Instalar um switch na torre para que a comunicação MODBUS e com escritório chegue na subestação.;;17/03/2023;0;Normalizada
+TBR01;Media;08/03/2023;Comunicação SCADA;Instalar um switch na torre para que a comunicação MODBUS e com escritório chegue na subestação.;;16/03/2023;0;Normalizada
+GER02;Urgente;06/03/2013;Falha de Comunicação;Torre nao comunica. coleta atrasada;04/03/2023;01/04/2023;28;Normalizada
+ASD08;Alta;10/03/2023;Falha de Comunicação;Realizar coleta de dados. Torre desativada.;10/01/2023;19/07/2023;190;Normalizada
+ASU05;Urgente;14/03/2023;Sensores / DataLogger;Falha total para Wind Vane Superior.;06/03/2023;22/03/2023;16;Normalizada
+DT702;Urgente;14/03/2023;Comunicação SCADA;Falha de alimentação no Sistema SCADA.;28/02/2023;31/07/2023;153;Normalizada
+DT308;Urgente;16/03/2023;Sensores / DataLogger;Falha para Termo-Higrômetro. Verificar cabeamento e sensor.;14/03/2023;04/04/2023;21;Normalizada
+DT701;Alta;20/03/2023;Sensores / DataLogger;Falha de alimentação do Sistema SCADA.;17/03/2023;31/07/2023;136;Normalizada
+CPS01;Alta;20/03/2023;Sensores / DataLogger;Monitor de tensão registrando valores muito acima do esperado. Verificar programação da aquisição de dados e, se necessário, a instalação física do medidor.;17/03/2023;;1102;Normalizada
+PBA01;Alta;20/03/2023;Sensores / DataLogger;Torre com baixa disponibilidade de dados durante a noite. Verificar todo o sistema de alimentação.;06/03/2023;;1113;Normalizada
+PPA01;Alta;20/03/2023;Sensores / DataLogger;Torre com baixa disponibilidade de dados durante a noite. Verificar todo o sistema de alimentação.;10/03/2023;17/03/2023;7;Normalizada
+PSA01;Alta;20/03/2023;Sensores / DataLogger;Torre com baixa disponibilidade de dados durante a noite. Verificar todo o sistema de alimentação.;16/03/2023;17/05/2023;62;Normalizada
+DIA03;Alta;20/03/2023;Sensores / DataLogger;Ruído nas medições do Termo-Higrômetro.;16/03/2023;13/04/2023;28;Normalizada
+AS504;Urgente;20/03/2023;Falha de Comunicação;Torre não comunica. Pendente envio de dados para ONS;18/03/2023;;1101;Normalizada
+CER19;Urgente;21/03/2023;Falha de Comunicação;Coleta atrasada, provável pacote BGAN mal dimensionado.;14/03/2023;01/04/2023;18;Normalizada
+ART02;Urgente;23/03/2023;Sensores / DataLogger;Piranômetro 1 em falha total.;21/03/2023;04/04/2023;14;Normalizada
+CER06;Baixa;28/03/2023;Falha de Comunicação;Por favor, realizar a coleta manual dos dados do dia 23/03/2023.;23/03/2023;24/03/2023;1;Normalizada
+AS503;Alta;30/03/2023;Sensores / DataLogger;Anemômetros apresentando valores fora do esperado de forma intermitente (semelhante às falhas de ASU04).;13/03/2023;;1106;Normalizada
+ASU05;Alta;05/04/2023;Sensores / DataLogger;Desalinhamento entre Wind Vanes, após intervenção realizada em 22/03/23. Foi identificada torção da estrutura, impactando no desvio dos WVs.;22/03/2023;05/08/2024;502;Normalizada
+CHU01;Alta;05/04/2023;Sensores / DataLogger;Falha para WV Superior.;25/03/2023;19/04/2023;25;Normalizada
+GER10;Urgente;10/04/2023;Sensores / DataLogger;Anemômetro de topo apresentando falha;26/03/2023;17/04/2023;22;Normalizada
+HER27;Alta;20/02/2023;Sensores / DataLogger;Verificar o OFFSET das WINDVANES;;;0;Normalizada
+AS501;Urgente;11/04/2023;Sensores / DataLogger;Barometro apresentando falhas;07/04/2023;05/05/2023;28;Normalizada
+GER10;Urgente;14/04/2023;Sensores / DataLogger;Anemômetros de backup e inferior zerados.;14/04/2023;17/04/2023;3;Normalizada
+CPS01;Urgente;17/04/2023;Sensores / DataLogger;Barometro apresentando ruídos nos dados.;07/04/2023;;1081;Normalizada
+DT601;Alta;17/04/2023;Sensores / DataLogger;Barometro om comportamento Estranho, parece ruido.;03/02/2023;05/07/2023;152;Normalizada
+CER19;Urgente;18/04/2023;Falha de Comunicação;Coleta atrasada, pacote do BGAN insuficiente. Precisa ir na torre e reconfigura-la para não enviar emails, deixar apenas o envio de dados para o AmmonitOR;15/04/2023;;1073;Normalizada
+CPS01;Alta;19/04/2023;Sensores / DataLogger;bateria recebendo baixa carga do painel solar. precisa verificar todo o sistema de alimentação;;;0;Normalizada
+ASU03;Alta;18/04/2023;Sensores / DataLogger;Monitor de tensão com valores inconsistentes. Medição do sensor está apresentando forte correlação com o sinal de umidade do termo-higrômetro.;18/04/2023;06/05/2024;384;Normalizada
+AS406;Media;24/04/2023;Sensores / DataLogger;Wind vane de topo está inconsistente. é como se a windvane tivesse girado no suporte.;22/04/2023;09/05/2023;17;Normalizada
+DT307;Urgente;24/04/2023;Sensores / DataLogger;Barometro em falha;24/04/2023;02/05/2023;8;Normalizada
+ASD09;Urgente;26/04/2023;Sensores / DataLogger;Bateria do Logger não carregando.;22/04/2023;05/05/2023;13;Normalizada
+CER18;Urgente;26/04/2023;Sensores / DataLogger;Anemômetro 2 apresentando falha geral.;23/04/2023;26/05/2023;33;Normalizada
+DT501;Alta;26/04/2023;Sensores / DataLogger;Temperatura com funcionamento estranho.;24/04/2023;02/05/2023;8;Normalizada
+PDD01;Media;26/04/2023;Sensores / DataLogger;Bateria do sistema de comunicação arriando;24/04/2023;28/04/2023;4;Normalizada
+TBR03;Urgente;27/04/2023;Sensores / DataLogger;"Barômetro medindo fora do esperado.
+Após a troca do sensor em 10/05/23 (sensor analógico para digital), medições voltaram ao patamar esperado, porém estão apresentando lacunas.";27/04/2023;10/05/2023;13;Normalizada
+AS403;Urgente;28/04/2023;Falha de Comunicação;Coleta atrasada. Conversor de mídia de Dados não conecta. Sugestão trocar o cabo entre o logger e o conversor de mídia NPORT 5100;28/04/2023;03/05/2023;5;Normalizada
+AS404;Urgente;28/04/2023;Falha de Comunicação;Torre sem comunicação. Conversores de mídia (dados + SCADA) não respondem.;28/04/2023;03/05/2023;5;Normalizada
+AS402;Urgente;17/04/2023;Falha de Comunicação;Torre não comunica;17/04/2023;02/05/2023;15;Normalizada
+CHU02;Urgente;18/04/2023;Falha de Comunicação;Coleta Atrasada;18/04/2023;20/07/2023;93;Normalizada
+GER09;Media;02/05/2023;Sensores / DataLogger;Barômetro com Ruído;21/04/2023;18/05/2023;27;Normalizada
+ASU03;Urgente;03/05/2023;Sensores / DataLogger;Retornar o Data Logger CR1000 instalado na torre anteriormente.;27/01/2023;19/09/2023;235;Normalizada
+ASU07;Urgente;03/05/2023;Sensores / DataLogger;Retornar o Data Logger CR1000 instalado na torre anteriormente.;27/01/2023;19/09/2023;235;Normalizada
+GER02;Urgente;04/05/2023;Sensores / DataLogger;Anemômetro 2 com valores inconsistentes. Aparentemente cabo com mal contato.;29/04/2023;05/07/2023;67;Normalizada
+GER02;Baixa;04/05/2023;Sensores / DataLogger;Pressão, temperatura e umidade com leves ruídos.;29/04/2023;;1059;Normalizada
+GER08;Alta;05/05/2023;Sensores / DataLogger;WV superior apresentando divergência em relação ao sensor inferior e torres próximas. Diferença é maior para ângulos maiores, portanto problema pode ser físico ou de configuração incorreta do Slope no programa.;01/04/2023;16/01/2024;290;Normalizada
+DIA02;Alta;05/05/2023;Falha de Comunicação;torre comunicando via radio e precisa voltar para fibra;;;0;Normalizada
+HER29;Alta;27/04/2023;Falha de Comunicação;Torre não enviando dados para ONS.;26/04/2023;19/05/2023;23;Normalizada
+AS406;Urgente;08/05/2023;Sensores / DataLogger;Anemômetro 4 com falha.;05/05/2023;09/05/2023;4;Normalizada
+DT501;Alta;09/05/2023;Sensores / DataLogger;Barômetro com falhas intermitentes;24/04/2023;12/05/2023;18;Normalizada
+GER09;Alta;09/05/2023;Sensores / DataLogger;Barometro com Ruidos;05/05/2023;18/05/2023;13;Normalizada
+ASU04;Alta;10/05/2023;Sensores / DataLogger;Anemometro 2 apresentando falhas intermitentes, valor igual a zero;09/05/2023;31/07/2023;83;Normalizada
+CER19;Urgente;10/05/2023;Sensores / DataLogger;Alimentação insuficiente. ocorreu perda de dados.;09/05/2023;09/05/2023;0;Normalizada
+CHU02;Urgente;18/04/2023;Falha de Comunicação;Coleta atrasada;18/04/2023;20/07/2023;93;Normalizada
+HER26;Urgente;10/05/2023;Falha de Comunicação;Sem comunicação devido a rompimento de fibra;;02/08/2023;0;Normalizada
+TBR01;Alta;24/02/2024;Sensores / DataLogger;"Ambos os Wind Vanes estão divergindo das torres próximas. Início da falha após troca para DL Campbell.
+Medição compensada através de slope.";27/04/2023;;1061;Normalizada
+ASU04;Alta;12/05/2023;Sensores / DataLogger;Anemometro 1 apresentando falhas esporádicas;10/05/2023;31/07/2023;82;Normalizada
+LAJ03;Alta;15/05/2023;Sensores / DataLogger;Bateria do SCADA apresentando queda brusca de tensão;14/05/2023;15/05/2023;1;Normalizada
+DT302;Urgente;08/05/2023;Comunicação SCADA;Torre sem comunicação com a ONS.;08/05/2023;23/05/2023;15;Normalizada
+DT305;Urgente;08/05/2023;Comunicação SCADA;Torre sem comunicação com a ONS;08/05/2023;19/05/2023;11;Normalizada
+DT306;Urgente;08/05/2023;Comunicação SCADA;Torre sem comunicação com a ONS.;08/05/2023;31/07/2023;84;Normalizada
+LAJ03;Urgente;19/05/2023;Sensores / DataLogger;Barômetro Inconsistente.;15/05/2023;03/06/2023;19;Normalizada
+CER19;Alta;22/05/2023;Falha de Comunicação;Coleta atrasada, pacote do BGAN insuficiente. Precisa ir na torre e reconfigura-la para não enviar emails, deixar apenas o envio de dados para o AmmonitOR;19/05/2023;11/09/2023;115;Normalizada
+CER06;Alta;22/05/2023;Falha de Comunicação;Coleta atrasada;17/05/2023;31/07/2023;75;Normalizada
+GER07;Alta;22/05/2023;Falha de Comunicação;Falha de Comunicação;19/05/2023;31/07/2023;73;Normalizada
+AS503;Alta;22/05/2023;Sensores / DataLogger;Anemômetro 1 apresentando valores fora do esperado de forma intermitente (semelhante às falhas de ASU04).;16/05/2023;29/06/2023;44;Normalizada
+HER29;Urgente;22/05/2023;Sensores / DataLogger;Barômetro parou de funcionar;20/05/2023;30/05/2023;10;Normalizada
+DT304;Urgente;22/05/2023;Sensores / DataLogger;Bateria principal apresentando quedas de tensões bruscas.;19/05/2023;23/06/2023;35;Normalizada
+DT305;Media;22/05/2023;Sensores / DataLogger;Umidade apresentando valores divergentes das demais torres.;06/04/2023;24/05/2023;48;Normalizada
+GER02;Alta;03/05/2023;Falha de Comunicação;Coleta atrasada.;01/05/2023;02/06/2023;32;Normalizada
+LAJ03;Urgente;23/05/2023;Sensores / DataLogger;Barômetro medindo fora do esperado, necessário troca;19/05/2023;03/06/2023;15;Normalizada
+LAJ03;Urgente;25/05/2023;Sensores / DataLogger;Sistema de alimentação arriando;25/05/2023;26/06/2023;32;Normalizada
+LAJ03;Urgente;05/06/2023;Sensores / DataLogger;Wind vane 1 em falha geral;03/06/2023;05/06/2023;2;Normalizada
+HER29;Urgente;07/06/2023;Comunicação SCADA;Comunicação SCADA não funcionando. Pendente manutenção no conversor de mídia da SUB GE;01/06/2023;27/06/2024;392;Normalizada
+DT801;Urgente;09/06/2023;Sensores / DataLogger;Bateria arriando.;07/06/2023;19/07/2023;42;Normalizada
+LAJ03;Alta;12/06/2023;Sensores / DataLogger;Barometro com medições inconsistentes e intermitentes.;10/06/2023;26/06/2023;16;Normalizada
+ART03;Alta;12/06/2023;Sensores / DataLogger;Falha de medição para Célula Calibrada Limpa.;06/06/2023;15/07/2023;39;Normalizada
+PDD01;Media;28/04/2023;Sensores / DataLogger;Cabo de descido do para-raios rompido;28/04/2023;06/02/2026;1015;Normalizada
+DT601;Media;15/06/2023;Sensores / DataLogger;TH com comportamento estranho, valores inconsistentes de max e min;;;0;Normalizada
+GER05;Alta;15/06/2023;Sensores / DataLogger;Ruido nos valores de Máx do Temperatura;01/06/2023;08/09/2023;99;Normalizada
+HER31;Alta;15/06/2023;Sensores / DataLogger;Ruido nos valores de Máx/Min do Temperatura;;01/02/2024;0;Normalizada
+CPS02;Media;11/07/2023;Sensores / DataLogger;Temperatura com Ruido;03/06/2023;14/07/2023;41;Normalizada
+ART01;Media;19/06/2023;Sensores / DataLogger;Anemômetro apresentando congelamento;;;0;Normalizada
+DT308;Media;19/06/2023;Sensores / DataLogger;Bateria com valores menores que 12 volts;20/05/2023;04/07/2023;45;Normalizada
+TBR03;Media;19/06/2023;Sensores / DataLogger;Queda brusca de tensão. temperatura afetado. data 18/06 das 03h até as 07h;18/06/2023;11/08/2023;54;Normalizada
+AS402;Media;17/03/2023;Sensores / DataLogger;Anemômetro Vertical com valores acima do esperado. Devido a alta correlação com torres próximas, tudo indica que o sensor esteja funcionando corretamente, porém a configuração de Slope esteja errada no programa do CR1000.;17/03/2023;19/10/2023;216;Normalizada
+AS501;Media;21/06/2023;Sensores / DataLogger;Barômetro com ruido leve.;19/06/2023;27/02/2024;253;Normalizada
+ASU04;Media;23/06/2023;Sensores / DataLogger;Barômetro com Ruídos;23/06/2023;14/11/2023;144;Normalizada
+HER31;Urgente;26/06/2023;Sensores / DataLogger;Falha severa no sistema de alimentação, causando desligamentos recorrentes do Data Logger.;24/06/2023;25/09/2023;93;Normalizada
+HER25;Urgente;26/06/2023;Sensores / DataLogger;Anemômetro 2 em falha;25/06/2023;04/07/2023;9;Normalizada
+GER01;Urgente;21/06/2023;Falha de Comunicação;Falha de Comunicação;20/06/2023;16/08/2023;57;Normalizada
+GER02;Urgente;02/06/2023;Falha de Comunicação;Falha de Comunicação;01/06/2023;09/11/2023;161;Normalizada
+GER03;Urgente;21/06/2023;Falha de Comunicação;Falha de Comunicação;20/06/2023;16/08/2023;57;Normalizada
+GER07;Urgente;20/06/2023;Falha de Comunicação;Falha de Comunicação;19/06/2023;31/07/2023;42;Normalizada
+GER08;Urgente;21/06/2023;Falha de Comunicação;Falha de Comunicação;20/06/2023;17/08/2023;58;Normalizada
+HER29;Urgente;21/06/2023;Falha de Comunicação;Falha de Comunicação;20/06/2023;16/08/2023;57;Normalizada
+HER30;Urgente;21/06/2023;Falha de Comunicação;Falha de Comunicação;20/06/2023;16/08/2023;57;Normalizada
+CER06;Urgente;07/06/2023;Falha de Comunicação;Falha de Comunicação.;06/06/2023;31/07/2023;55;Normalizada
+CER19;Urgente;13/06/2023;Falha de Comunicação;Falha de Comunicação;12/06/2023;11/09/2023;91;Normalizada
+HER25;Urgente;26/06/2023;Sensores / DataLogger;Anemômetro 2 em falha geral;25/06/2023;04/07/2023;9;Normalizada
+DIA02;Urgente;03/07/2023;Sensores / DataLogger;Windvane apresentando valores inconsistentes.;02/07/2023;13/07/2023;11;Normalizada
+CHU02;Urgente;05/07/2023;Falha de Comunicação;Comunicação intermitente;04/07/2023;20/07/2023;16;Normalizada
+HER25;Urgente;25/06/2023;Sensores / DataLogger;Anemômetro 2 em falha;25/06/2023;05/07/2023;10;Normalizada
+ART03;Urgente;05/07/2023;Sensores / DataLogger;Celula Calibrada com defeito;03/07/2023;15/07/2023;12;Normalizada
+CHU02;Media;06/07/2023;Sensores / DataLogger;Termohigrômetro apresentando ruído, principalmente no canal de temperatura, durante períodos em que o nível de tensão da bateria está acima de 13V.;01/04/2023;;1087;Normalizada
+CER05;Alta;07/07/2023;Sensores / DataLogger;Fazer Georreferenciamento da torre;07/05/2022;12/06/2024;767;Normalizada
+HER27;Urgente;07/07/2023;Sensores / DataLogger;Anemômetro 3 com falha geral;07/07/2023;27/07/2023;20;Normalizada
+ASD11;Alta;10/07/2023;Sensores / DataLogger;Temperatura e Barômetro com picos inconsistentes nos valores mínimos;29/05/2023;06/09/2023;100;Normalizada
+DT307;Alta;10/07/2023;Sensores / DataLogger;Sistema de alimentação de comunicação desligando a noite;02/07/2023;11/07/2023;9;Normalizada
+DT601;Alta;10/07/2023;Sensores / DataLogger;Barômetro com muito ruído.;05/07/2023;09/09/2024;432;Normalizada
+GER04;Alta;11/07/2023;Falha de Comunicação;Torre desligando a noite, provável falha no sistema de alimentação;10/07/2023;09/09/2023;61;Normalizada
+GER05;Alta;11/07/2023;Falha de Comunicação;Torre desligando a noite, provável falha do sistema de alimentação;10/07/2023;03/08/2023;24;Normalizada
+GER10;Urgente;11/07/2023;Falha de Comunicação;Torre desligando a comunicação SCADA durante a noite;10/07/2023;01/12/2023;144;Normalizada
+PSA01;Media;14/07/2023;Sensores / DataLogger;Sensor de temperatura teve valor de máximo e mínimo (como se tivesse travado) entre 04:00 e 05:50 no valor de 24,7ºC;14/07/2023;;983;Normalizada
+ASD13;Urgente;17/07/2023;Falha de Comunicação;LIDAR sem comunicação. Link rompido no ultimo enlace.;15/07/2023;19/07/2023;4;Normalizada
+DT601;Urgente;17/07/2023;Sensores / DataLogger;Bateria do sistema principal com queda de tensão < 12 volts, chegando a 10 volts;15/07/2023;05/07/2023;-10;Normalizada
+GER05;Media;19/07/2023;Sensores / DataLogger;Trocar bateria de líthium do datalogger;19/07/2023;08/07/2025;720;Normalizada
+TBR03;Alta;19/07/2023;Sensores / DataLogger;Temperatura com ruidos;01/07/2023;11/08/2023;41;Normalizada
+AS501;Media;20/07/2023;Sensores / DataLogger;Verificar alinhamento de Windvane, diferença maior que 10 graus. A partir de 17/05/2024, desalinhamento foi normalizado. Falta fazer o georreferenciamento.;05/05/2023;16/07/2024;438;Normalizada
+AS406;Alta;24/07/2023;Sensores / DataLogger;Wind Vane 3 apresentando desalinhamento em relação aos demais.;22/07/2023;15/08/2023;24;Normalizada
+AS504;Alta;24/07/2023;Sensores / DataLogger;Falha de alimentação. Queda progressiva na tensão da bateria;24/07/2023;27/07/2023;3;Normalizada
+CHU06;Urgente;24/07/2023;Sensores / DataLogger;Falha de alimentação. Queda progressiva na tensão da bateria. Torre está apresentando desligamentos recorrentes no período noturno.;01/06/2023;28/11/2023;180;Normalizada
+AS404;Alta;25/07/2023;Sensores / DataLogger;Anemômetro vertical em falha geral;19/04/2023;04/11/2023;199;Normalizada
+CER18;Urgente;26/07/2023;Sensores / DataLogger;Anemômetro 2 em falha geral;24/07/2023;09/08/2023;16;Normalizada
+GER01;Urgente;31/07/2023;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Compra e instalação NL
+2. Identificação e uso da fibra do Fabricante
+3. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+GER02;Urgente;31/07/2023;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Compra e instalação NL
+2. Identificação e uso da fibra do Fabricante
+3. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+GER03;Urgente;31/07/2023;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Compra e instalação NL
+2. Identificação e uso da fibra do Fabricante
+3. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+GER05;Urgente;31/07/2023;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Alterar a comunicação da porta COM para porta 502";;01/12/2023;0;Normalizada
+GER07;Urgente;20/05/2023;Falha de Comunicação;Falha de Coleta;19/05/2023;24/08/2023;97;Normalizada
+GER09;Urgente;31/07/2023;Comunicação SCADA;"Sem Comunicação com ONS. Pendentes:
+1. Compra e instalação NL
+2. Compra e substituição do Painel Solar da comunicação
+3. Identificação e uso da fibra do Fabricante
+4. Alterar a comunicação da porta COM para porta 502";01/01/2023;01/12/2023;334;Normalizada
+CHU01;Urgente;03/08/2023;Falha de Comunicação;Coleta atrasada.;02/08/2023;22/11/2023;112;Normalizada
+CPS02;Urgente;04/08/2023;Comunicação SCADA;Torre desligando a noite;02/08/2023;07/08/2023;5;Normalizada
+GER05;Urgente;04/08/2023;Comunicação SCADA;Torre desligando a comunicação SCADA durante a noite;03/08/2023;08/09/2023;36;Normalizada
+ASD13;Urgente;04/08/2023;Falha de Comunicação;Atraso de Coleta devido ao travamento do radio wi-fi da torre ASD06;03/08/2023;07/08/2023;4;Normalizada
+ASD06;Urgente;04/08/2023;Falha de Comunicação;Atraso de coleta devido ao travamento do radio client;03/08/2023;07/08/2023;4;Normalizada
+ASD11;Media;07/08/2023;Sensores / DataLogger;Barômetro está travando em um mesmo valor, devido a baixa resolução de leitura do sensor. Sugestão de substituição do sensor.;07/08/2023;06/09/2023;30;Normalizada
+DIA02;Urgente;09/08/2023;Falha de Comunicação;Sem Comunicação;09/08/2023;09/08/2023;0;Normalizada
+TBR03;Urgente;09/08/2023;Falha de Comunicação;Torre sem comunicação;09/08/2023;11/08/2023;2;Normalizada
+ASU03;Media;10/08/2023;Sensores / DataLogger;Termo higrômetro e barômetro  apresentando picos esporádicos. Dados sendo descartados.;08/08/2023;11/09/2023;34;Normalizada
+CPS01;Alta;10/08/2023;Sensores / DataLogger;Barômetro com ruído intenso;09/08/2023;14/12/2023;127;Normalizada
+TBR03;Urgente;10/08/2023;Sensores / DataLogger;Devido a uma falha no sistema de alimentação, as medições do TH estão implausíveis.;04/08/2023;11/08/2023;7;Normalizada
+CPS02;Media;15/08/2023;Sensores / DataLogger;Temperatura e Umidade  com ruídos, dados sendo removidos;13/08/2023;15/12/2023;124;Normalizada
+DIA03;Baixa;16/08/2023;Sensores / DataLogger;"Anemômetro de topo com valores implausíveis, valor = 0 
+ocorrência única";05/08/2023;05/08/2023;0;Normalizada
+HER29;Urgente;16/08/2023;Sensores / DataLogger;temperatura em falha total;03/08/2023;23/09/2023;51;Normalizada
+DIA02;Baixa;13/07/2023;Sensores / DataLogger;Substituição do cabo da windvane de topo que foi emendado durante a substituição do sensor;13/07/2023;03/09/2025;783;Normalizada
+CPS02;Baixa;14/07/2023;Sensores / DataLogger;Troca do cabo do TH que após a substituição do sensor foi emendado;14/07/2023;15/12/2023;154;Normalizada
+PBA01;Urgente;17/08/2023;Falha de Comunicação;Torre sem comunicação - Conversor de mídia não responde a teste de ping.;17/08/2023;17/08/2023;0;Normalizada
+HER25;Urgente;18/08/2023;Sensores / DataLogger;Anemômetro 3 em falha;17/08/2023;11/09/2023;25;Normalizada
+GER02;Urgente;04/08/2023;Sensores / DataLogger;Falha geral em todos os sensores e no Data Logger. Torre não comunica, apresenta lacunas extensas, falhas de alimentação e falha nas medições de todos os sensores.;20/04/2023;23/11/2023;217;Normalizada
+GER05;Urgente;21/08/2023;Sensores / DataLogger;Barometro em falha total;19/08/2023;08/09/2023;20;Normalizada
+HER31;Urgente;21/08/2023;Sensores / DataLogger;Falha geral para Wind Vane Superior. Falha pode estar correlacionada com a falha de alimentação do DL.;19/08/2023;25/09/2023;37;Normalizada
+DT304;Alta;21/08/2023;Sensores / DataLogger;Medições de temperatura coerentes, porém maior que as torres próximas. Revisar configuração aplicada e instalação do sensor.;23/06/2023;07/12/2023;167;Normalizada
+DT306;Urgente;21/08/2023;Falha de Comunicação;Torre sem comunicação.;19/08/2023;29/08/2023;10;Normalizada
+DT502;Urgente;21/08/2023;Falha de Comunicação;Torre sem comunicação;20/08/2023;29/08/2023;9;Normalizada
+CHU07;Alta;22/08/2023;Sensores / DataLogger;Umidade com valores inconsistentes, muito ruido;20/08/2023;28/11/2023;100;Normalizada
+LAJ02;Alta;22/08/2023;Sensores / DataLogger;"Termômetro com ruído. Intensidade do ruído aumentando no início de fevereiro/24, com indícios de relação com o sistema de alimentação.
+14/02: intensificação do ruido com exclusão de dados";20/08/2023;27/02/2024;191;Normalizada
+CHU02;Urgente;23/08/2023;Sensores / DataLogger;"Perda de dados devido a queda de tensão do logger. Precisa revisar o sistema de alimentação e aumentar se necessário;";18/07/2023;18/09/2023;62;Normalizada
+GER05;Urgente;23/08/2023;Sensores / DataLogger;TH e Baro não funcionando após intervenção da MKS;23/08/2023;08/09/2023;16;Normalizada
+CER06;Urgente;25/08/2023;Sensores / DataLogger;"Bateria do sistema de alimentação com valores menores que 12 volts com perdas recorrentes de dados
+sem recorrencia";16/08/2023;15/03/2024;212;Normalizada
+CER18;Urgente;28/08/2023;Sensores / DataLogger;"Bateria do sistema de alimentação com valores menores que 12 volts com perdas recorrentes de dados a partir de 19/11.
+intervenção em 07/02 com adição de bateria e mesmo assim a tensão não passa dos 12V
+10/02: apos bateria carregar completamente, tensão normalizou";09/08/2023;07/02/2024;182;Normalizada
+ASD09;Alta;04/09/2023;Falha de Comunicação;Realizar coleta manual, dados do dia 02/09/2023 não recebidos por e-mail;02/09/2023;13/12/2023;102;Normalizada
+CHU04;Alta;04/09/2023;Comunicação SCADA;Torre desligando a comunicação durante a noite.;03/07/2023;30/09/2023;89;Normalizada
+CPS02;Urgente;04/09/2023;Falha de Comunicação;Torre sem comunicação. Comunicação de dados com o ONS também afetada.;01/09/2023;05/09/2023;4;Normalizada
+GER05;Urgente;04/09/2023;Falha de Comunicação;Torre sem comunicação;03/09/2023;08/09/2023;5;Normalizada
+GER10;Urgente;04/09/2023;Falha de Comunicação;Torre sem comunicação;03/09/2023;06/09/2023;3;Normalizada
+HER35;Alta;04/09/2023;Falha de Comunicação;Torre sem comunicação durante a noite, provável falha do sistema de alimentação;03/09/2023;05/10/2023;32;Normalizada
+GND03;Media;04/09/2023;Sensores / DataLogger;The Thermometer 1 is presenting intermitent noise.;07/04/2023;13/10/2023;189;Normalizada
+CHU07;Media;06/09/2023;Sensores / DataLogger;Barômetro com valores inconsistentes (valores mínimos = OFFSET);01/09/2023;28/11/2023;88;Normalizada
+CHU09;Urgente;06/09/2023;Sensores / DataLogger;TH parou de funcionar.;04/09/2023;14/09/2023;10;Normalizada
+CHU09;Urgente;06/09/2023;Sensores / DataLogger;Barômetro parou de funcionar;04/09/2023;14/09/2023;10;Normalizada
+GER05;Urgente;06/09/2023;Sensores / DataLogger;TH em falha total;23/08/2023;08/09/2023;16;Normalizada
+GER05;Urgente;06/09/2023;Sensores / DataLogger;Bateria em Falha total;04/09/2023;08/09/2023;4;Normalizada
+GER05;Urgente;06/09/2023;Sensores / DataLogger;Windvane 2 em falha;04/09/2023;08/09/2023;4;Normalizada
+GER05;Urgente;06/09/2023;Sensores / DataLogger;Windvane1 com valores inconsistentes;04/09/2023;08/09/2023;4;Normalizada
+HER36;Alta;06/09/2023;Sensores / DataLogger;Sistema de alimentação arriando com perda de dados;05/09/2023;30/11/2023;86;Normalizada
+CHU05;Urgente;08/09/2023;Falha de Comunicação;Torre sem comunicação, devido a cabo de fibra óptica rompido na saída do DIO da caixa (identificado em visita no dia 07/11/2023).;07/09/2023;27/11/2023;81;Normalizada
+CHU09;Urgente;08/09/2023;Falha de Comunicação;Torre sem comunicação;08/09/2023;14/09/2023;6;Normalizada
+HER35;Urgente;08/09/2023;Falha de Comunicação;Torre sem comunicação;06/09/2023;04/10/2023;28;Normalizada
+CHU09;Alta;11/09/2023;Sensores / DataLogger;Falha para ambos os Wind Vanes. Tensão de alimentação também apresenta sinal incoerente, zerado.;04/09/2023;14/09/2023;10;Normalizada
+GER03;Alta;11/09/2023;Sensores / DataLogger;Falha para TH após intervenção.;09/09/2023;25/11/2023;77;Normalizada
+GER05;Urgente;11/09/2023;Falha de Comunicação;Falha de comunicação após intervenção. Torre com coleta atrasada.;08/09/2023;12/09/2023;4;Normalizada
+GER06;Media;11/09/2023;Sensores / DataLogger;"Ruído nas medições do TH e barômetro.
+Normalizado por falta de recorrência";01/05/2023;19/03/2024;323;Normalizada
+HER35;Media;11/09/2023;Sensores / DataLogger;Ruído nas medições do termômetro. Baixo impacto sobre a média.;01/05/2023;;1057;Normalizada
+CHU04;Alta;20/09/2023;Sensores / DataLogger;Anemômetro 3 apresentando falhas esporádicas, valores iguais a zero, normalizou sozinho;19/09/2023;20/09/2023;1;Normalizada
+AS504;Alta;21/09/2023;Falha de Comunicação;Torre desligando a comunicação a noite.;19/09/2023;01/12/2023;73;Normalizada
+GER05;Urgente;25/09/2023;Sensores / DataLogger;TH parou de funcionar;23/09/2023;26/11/2023;64;Normalizada
+CHU07;Urgente;27/09/2023;Sensores / DataLogger;Perda de dados sem motivos;10/09/2023;28/11/2023;79;Normalizada
+CHU09;Alta;27/09/2023;Sensores / DataLogger;Sensor de umidade com medição inconsistente, valores não diminuem a 60%;14/09/2023;23/01/2024;131;Normalizada
+GER01;Urgente;08/09/2023;Falha de Comunicação;Torre sem comunicação;07/09/2023;09/11/2023;63;Normalizada
+GER01;Media;27/09/2023;Sensores / DataLogger;Temperatura com ruídos;05/09/2023;17/06/2024;286;Normalizada
+GER04;Urgente;27/09/2023;Sensores / DataLogger;Barômetro não está funcionando;01/09/2023;28/09/2023;27;Normalizada
+GER04;Media;27/09/2023;Sensores / DataLogger;Trocar Bateria de Líthium do Logger;27/09/2023;24/04/2024;210;Normalizada
+GER07;Urgente;12/09/2023;Falha de Comunicação;Torre sem comunicação;11/09/2023;23/11/2023;73;Normalizada
+GER09;Media;29/07/2023;Sensores / DataLogger;TH com ruidos;05/09/2023;24/06/2024;293;Normalizada
+ASD07;Alta;28/09/2023;Sensores / DataLogger;"Sistema de alimentação com picos de baixa tensão afetando a medição do TH e Baro
+repetiu em 12/10/2023";27/09/2023;26/10/2023;29;Normalizada
+DT308;Alta;03/10/2023;Comunicação SCADA;Falha de alimentação no sistema de comunicação. Ocorrências entre 02/10 e 06/10, e entre 12/10 e 14/10.;02/10/2023;15/11/2023;44;Normalizada
+DT308;Urgente;04/10/2023;Falha de Comunicação;Comunicação intermitente com a torre.;04/10/2023;15/11/2023;42;Normalizada
+LAJ03;Urgente;12/09/2023;Sensores / DataLogger;Barômetro com ruido intenso. Possivelmente ruído devido a alimentação 220 V da torre. Falha passou a se agravar em meados de janeiro/24.;11/09/2023;15/02/2024;157;Normalizada
+GND02;Media;05/10/2023;Sensores / DataLogger;The Pyranometer sensor is registering values lower than expected and should be removed.;25/05/2023;28/10/2023;156;Normalizada
+GND07;Alta;05/10/2023;Sensores / DataLogger;The power supply of the communication system is presenting low values and may cause the tower to get offline.;01/10/2023;15/10/2023;14;Normalizada
+GER05;Urgente;05/10/2023;Sensores / DataLogger;Falha para Barômetro e Wind Vanes.;03/10/2023;01/11/2023;29;Normalizada
+AS405;Urgente;06/10/2023;Sensores / DataLogger;Anemômetro 4 e TH pararam de funcionar após a preventiva da MKS;05/10/2023;09/10/2023;4;Normalizada
+AS406;Urgente;06/10/2023;Sensores / DataLogger;Barômetro parou de funcionar após a manutenção preventiva;06/10/2023;10/10/2023;4;Normalizada
+ASU04;Alta;11/10/2023;Sensores / DataLogger;"Anemômetro 1 ou 2 apresentando falhas esporádicas 
+incidência aumentando em 11/03/2024";27/09/2023;03/10/2023;6;Normalizada
+CHU07;Media;09/10/2023;Sensores / DataLogger;Valores de tensão baixo dos 12 Volts;07/10/2023;28/11/2023;52;Normalizada
+CHU07;Urgente;08/10/2023;Falha de Comunicação;Torre sem comunicação;08/10/2023;10/10/2023;2;Normalizada
+GER04;Urgente;02/10/2023;Falha de Comunicação;Torre sem comunicação;01/10/2023;26/10/2023;25;Normalizada
+AS404;Urgente;11/10/2023;Sensores / DataLogger;Termo-higrômetro em falha total;10/10/2023;31/10/2023;21;Normalizada
+AS504;Alta;10/10/2023;Sensores / DataLogger;Barômetro com início de ruido. Em 05/11/2023 o sensor passou de ruído para falha geral, logo após desligamento do Data Logger entre 04/11/2023 e 05/11/2023.;09/10/2023;24/11/2023;46;Normalizada
+CPS02;Alta;13/10/2023;Sensores / DataLogger;Umidade com valores inconsistentes;12/10/2023;13/10/2023;1;Normalizada
+CHU07;Alta;13/10/2023;Sensores / DataLogger;Anemômetro 3 com falha;11/10/2023;28/11/2023;48;Normalizada
+GND03;Media;16/10/2023;Sensores / DataLogger;Abnormal readings for the Anemometer 2.;13/10/2023;13/10/2023;0;Normalizada
+DT307;Alta;16/10/2023;Falha de Comunicação;Alimentação do sistema de comunicação apresentando afundamento na tensão.;14/10/2023;;891;Normalizada
+CHU02;Urgente;16/10/2023;Falha de Comunicação;Coleta Atrasada.;11/10/2023;30/10/2023;19;Normalizada
+HER29;Media;16/10/2023;Sensores / DataLogger;Ruído intenso no Termo-Higrômetro.;15/10/2023;28/10/2023;13;Normalizada
+ASD11;Alta;24/10/2023;Sensores / DataLogger;Wind Vane apresentando medições de máxima e mínima incompatíveis com a média. Direção média apresenta boa correlação às torres próximas. Problema acontecendo em todas as TMSs com Data Logger Kintech. Validar se a configuração e instalação do sensor está correta, pois não aparenta ser falha do sensor.;01/09/2022;01/06/2024;639;Normalizada
+ASD12;Alta;24/10/2023;Sensores / DataLogger;Wind Vane apresentando medições de máxima e mínima incompatíveis com a média. Direção média apresenta boa correlação às torres próximas. Problema acontecendo em todas as TMSs com Data Logger Kintech. Validar se a configuração e instalação do sensor está correta, pois não aparenta ser falha do sensor.;08/11/2022;01/03/2024;479;Normalizada
+ASD12;Alta;24/10/2023;Sensores / DataLogger;Possível sombreamento parcial dos sensores de irradiância, principalmente no período entre 10h e 12h. Verificar alinhamento, orientação e possíveis causas de sombreamento entre sensores, estrutura e vegetação para piranômetros, albedômetros, pireliômetros e células calibradas.;10/10/2023;01/03/2024;143;Normalizada
+AS405;Media;20/10/2023;Sensores / DataLogger;Termo-higrômetro apresentando ruído após a preventiva da MKS. Entre 05/10 e 09/10 houve uma falha mais intensa, normalizada, porém na sequência teve início este ruído.;17/10/2023;31/10/2023;14;Normalizada
+GND04;Urgente;13/10/2023;Falha de Comunicação;Communication failure. Data Logger is not being able to connect or send e-mails.;12/10/2023;02/11/2023;21;Normalizada
+CHU09;Alta;24/10/2023;Sensores / DataLogger;Anemômetro superior em falha. Sensor apresentando valores acima do esperado para velocidades do vento baixas, com congelamento nos valores de máxima acima do esperado.;22/10/2023;23/01/2024;93;Normalizada
+HER27;Media;24/10/2023;Sensores / DataLogger;Canal de umidade do TH registrando valores acima de 110%, porém com boa correlação às torres próximas.;03/10/2023;16/11/2023;44;Normalizada
+HER28;Alta;24/10/2023;Sensores / DataLogger;"Ruído e falhas intermitentes para termo-higrômetro. Indícios de falha de cabo.
+Sensor passou a apresentar falha total.";21/10/2023;19/03/2024;150;Normalizada
+HER29;Media;24/10/2023;Sensores / DataLogger;Ruído nas medições de ambos os Wind Vanes. Valor da média apresenta boa correlação, porém máxima e mínima apresentam ruído forte.;02/10/2023;;200;Falha Ativa
+AS504;Alta;30/10/2023;Sensores / DataLogger;Possível problema no sistema de alimentação principal do Data Logger.;25/10/2023;28/10/2023;3;Normalizada
+DT801;Alta;03/11/2023;Falha de Comunicação;Bateria do sistema de comunicação apresentando afundamentos.;28/10/2023;17/11/2023;20;Normalizada
+ASD10;Alta;03/11/2023;Sensores / DataLogger;Wind Vane Inferior em falha total.;02/11/2023;10/11/2023;8;Normalizada
+CHU02;Alta;06/11/2023;Sensores / DataLogger;Possível falha de alimentação com perda de dados.;02/11/2023;28/11/2023;26;Normalizada
+CHU05;Alta;08/11/2023;Sensores / DataLogger;Falha geral para Anemômetro Intermediário.;18/10/2023;06/06/2025;597;Normalizada
+ASD07;Media;09/11/2023;Sensores / DataLogger;"Pico de queda de tensão refletindo em todas as medidas. Falha muito esporádica e com baixo impacto sobre disponibilidade de dados.
+Normalizado por não ter recorrencia";07/11/2023;14/02/2024;99;Normalizada
+GNW01;Baixa;27/10/2023;Sensores / DataLogger;Identificado que a orientação do painel solar está incorreta;27/10/2023;07/11/2023;11;Normalizada
+ASD07;Alta;10/11/2023;Sensores / DataLogger;"Anemômetro de topo e intermediário apresentando inconsistências esporádicas.
+Normalizada por nao ter recorrencia";27/10/2023;14/02/2024;110;Normalizada
+ASU07;Baixa;13/11/2023;Sensores / DataLogger;"Ruido no Temperatura
+01/03: Sem novas incidências";10/11/2023;01/03/2024;112;Normalizada
+LAJ02;Baixa;13/11/2023;Sensores / DataLogger;"Perfil da Alimentação do LOGGER inconsistente. Bateria não recebendo carga corretamente durante o dia. 
+sem recorrencia";09/11/2023;14/02/2024;97;Normalizada
+GER05;Alta;23/09/2023;Sensores / DataLogger;TH em Falha Total;22/09/2023;26/11/2023;65;Normalizada
+TBR01;Media;24/11/2023;Falha de Comunicação;Falha nas trilhas do painel solar de comunicação.;09/11/2023;;865;Normalizada
+CPS01;Alta;16/11/2023;Comunicação SCADA;Bateria da comunicação com valores menores que 12 V. fortes indícios que a bateria não está sendo carregada.;15/11/2023;22/11/2023;7;Normalizada
+AS503;Media;17/11/2023;Sensores / DataLogger;"Anemômetro 2 apresentando quedas repentinas, valores = zero
+normalizou sozinho";16/11/2023;14/02/2024;90;Normalizada
+DT302;Media;17/11/2023;Falha de Comunicação;Bateria do sistema de comunicação com valores zerados podendo impactar na comunicação com o ONS;16/11/2023;20/04/2024;156;Normalizada
+DT303;Alta;17/11/2023;Sensores / DataLogger;Falha para anemômetro 3. valores iguais a zero.;16/11/2023;17/11/2023;1;Normalizada
+GER06;Media;21/11/2023;Sensores / DataLogger;"Anemômetro 3 com falhas esporádicas. 
+19/03 normalizada por falta de recorrência";17/11/2023;19/03/2024;123;Normalizada
+DT307;Media;21/11/2023;Falha de Comunicação;Bateria principal apresentando quedas de tensão.;19/11/2023;07/12/2023;18;Normalizada
+DT502;Urgente;21/11/2023;Sensores / DataLogger;Bateria principal com quedas de tensão;19/11/2023;07/12/2023;18;Normalizada
+DT701;Alta;21/11/2023;Comunicação SCADA;Bateria de comunicação SCADA com valores menores que 12V;17/11/2023;08/12/2023;21;Normalizada
+GND03;Baixa;21/11/2023;Sensores / DataLogger;"Abnormal readings for the Anemometer 2.
+08/03/2024";20/11/2023;30/05/2024;192;Normalizada
+GER10;Urgente;22/11/2023;Sensores / DataLogger;Trocar Bateria de Lithium;22/11/2023;01/11/2024;345;Normalizada
+DT702;Alta;22/11/2023;Falha de Comunicação;Tensão da bateria do sistema de comunicação apresentando afundamento.;16/11/2023;07/12/2023;21;Normalizada
+DT306;Urgente;23/11/2023;Falha de Comunicação;Torre sem comunicação e conversor não responde a ping;21/11/2023;06/12/2023;15;Normalizada
+CPS02;Media;23/11/2023;Sensores / DataLogger;Umidade com ruído intenso.;22/11/2023;15/12/2023;23;Normalizada
+AS401;Alta;27/11/2023;Sensores / DataLogger;"AN1 com falhas esporádicas (valores mínimos = 0)
+Normalizada em 01/03 devido a falta de reincidência";21/10/2023;01/03/2024;132;Normalizada
+AS503;Media;27/11/2023;Sensores / DataLogger;Barômetro em falha geral.;25/11/2023;28/11/2023;3;Normalizada
+ASU05;Media;27/11/2023;Comunicação SCADA;Bateria do sistema scada abaixo de 12 volts;24/11/2023;15/01/2024;52;Normalizada
+CPS02;Urgente;27/11/2023;Sensores / DataLogger;Falha no sistema de alimentação com perda de dados;26/11/2023;07/12/2023;11;Normalizada
+CHU05;Media;28/11/2023;Sensores / DataLogger;Umidade com valores inconsistentes.;27/11/2023;23/04/2024;148;Normalizada
+ASD05;Media;30/11/2023;Sensores / DataLogger;Barômetro apresentando ruído.;29/11/2023;11/12/2023;12;Normalizada
+CER19;Urgente;21/11/2023;Falha de Comunicação;Falha de comunicação via rádio.;18/11/2023;12/12/2023;24;Normalizada
+CER06;Urgente;10/11/2023;Falha de Comunicação;Falha de comunicação via rádio.;06/11/2023;12/12/2023;36;Normalizada
+AS402;Urgente;27/11/2023;Falha de Comunicação;Falha de comunicação.;24/11/2023;30/11/2023;6;Normalizada
+HER27;Alta;30/11/2023;Sensores / DataLogger;Falha de alimentação. Tensão da bateria principal caindo abaixo de 12 V.;28/11/2023;20/01/2024;53;Normalizada
+CHU06;Alta;01/12/2023;Sensores / DataLogger;Falha para anemômetro inferior;30/11/2023;24/04/2024;146;Normalizada
+TBR01;Media;04/12/2023;Comunicação SCADA;Bateria do SCADA apresentando início de quedas (valores < 12V);04/12/2023;22/12/2023;18;Normalizada
+CHU01;Media;05/12/2023;Sensores / DataLogger;Higrômetro apresentando medições menores que os sensores próximos quando umidade fica abaixo de 60% rh.;01/05/2023;09/07/2024;435;Normalizada
+CHU01;Media;05/12/2023;Sensores / DataLogger;Ruído na tensão de alimentação do Data Logger. intervenção feita em 24/04/24.;01/10/2023;24/04/2024;206;Normalizada
+DT801;Alta;06/12/2023;Comunicação SCADA;Comunicação SCADA intermitente.;02/12/2023;29/04/2024;149;Normalizada
+DT701;Alta;06/12/2023;Comunicação SCADA;Sem comunicação com SCADA;29/11/2023;07/12/2023;8;Normalizada
+DT702;Alta;06/12/2023;Comunicação SCADA;Sem comunicação com SCADA;02/12/2023;07/12/2023;5;Normalizada
+CPS01;Alta;06/12/2023;Comunicação SCADA;Sistema de alimentação da comunicação com queda expressiva da bateria.;05/12/2023;15/12/2023;10;Normalizada
+GER05;Media;26/11/2023;Sensores / DataLogger;cabo de alimentação do datalogger está com emenda. Recomenda-se o ajuste do cabo.;;;415;Falha Ativa
+ASD13;Urgente;07/12/2023;Falha de Comunicação;LIDAR sem comunicação. Radio Client não responde a ping;06/12/2023;13/12/2023;7;Normalizada
+DT502;Media;11/12/2023;Comunicação SCADA;Bateria do sistema de comunicação com queda de tensão;11/12/2023;22/12/2023;11;Normalizada
+DT702;Alta;11/12/2023;Falha de Comunicação;Torre sem comunicação. Conversor de mídia não responde a ping.;11/12/2023;15/12/2023;4;Normalizada
+CAP03;Urgente;11/12/2023;Falha de Comunicação;Torre sem comunicação;11/12/2023;13/12/2023;2;Normalizada
+DT701;Alta;12/12/2023;Comunicação SCADA;Falha de alimentação do Sistema SCADA.;12/12/2023;25/01/2024;44;Normalizada
+ASD07;Alta;13/12/2023;Falha de Comunicação;Torre sem comunicação, Radio AP da ASD10 não responde a ping;12/11/2023;14/12/2023;32;Normalizada
+AS506;Urgente;13/12/2023;Sensores / DataLogger;Torre sem comunicação. Datalogger travou após tentativa de atualização de Firmware;13/12/2023;14/12/2023;1;Normalizada
+CER06;Alta;15/12/2023;Falha de Comunicação;Falha de comunicação, Radio Client entre ASD05/CER06 não responde a ping.;13/12/2023;18/12/2023;5;Normalizada
+CER19;Alta;15/12/2023;Falha de Comunicação;Falha de comunicação, Radio Client entre ASD05/CER06 não responde a ping.;13/12/2023;16/12/2023;3;Normalizada
+AS403;Alta;18/12/2023;Falha de Comunicação;Torre não baixa dados ou conecta. Acesso ao moxa OK;17/12/2023;26/12/2023;9;Normalizada
+AS505;Urgente;18/12/2023;Falha de Comunicação;Comunicação intermitente, com quedas no link de radio entre AS405 e AS505.;16/12/2023;18/12/2023;2;Normalizada
+GND07;Alta;18/12/2023;Sensores / DataLogger;Piranometro não está funcionando adequadamente;16/12/2023;22/12/2023;6;Normalizada
+DT306;Alta;19/12/2023;Comunicação SCADA;Bateria do sistema de comunicação apresentando quedas de tensão.;19/12/2023;05/03/2024;77;Normalizada
+HER30;Alta;21/12/2023;Sensores / DataLogger;"Anemômetro Intermediário em falha total.
+Falha normalizada após a substituição dos equipamentos.";20/12/2023;10/11/2024;326;Normalizada
+HER36;Alta;21/12/2023;Falha de Comunicação;Torre sem comunicação;20/12/2023;18/01/2024;29;Normalizada
+ASD13;Urgente;17/12/2023;Falha de Comunicação;Sem comunicação;17/12/2023;09/01/2024;23;Normalizada
+AS403;Media;26/12/2023;Sensores / DataLogger;Desalinhamento entre Wind Vanes. WV Inferior aproximadamente 13° acima do esperado.;;26/02/2024;0;Normalizada
+GND01;Alta;26/12/2023;Sensores / DataLogger;Hygrometer failure.;14/12/2023;22/12/2023;8;Normalizada
+VDB09;Media;26/12/2023;Sensores / DataLogger;Ruído para Termo-Higrômetro.;;;0;Normalizada
+VDB23;Media;26/12/2023;Sensores / DataLogger;Pluviômetro registrando valores acima do esperado, porém coerentes com o perfil esperado de chuva. Revisar configuração do Data Logger.;;;0;Normalizada
+VDB23;Media;26/12/2023;Sensores / DataLogger;Anemômetro Vertical apresentando offset fora do esperado. Revisar configuração do Data Logger.;;;0;Normalizada
+VDB14;Media;26/12/2023;Sensores / DataLogger;Anemômetro Vertical apresentando offset fora do esperado. Revisar configuração do Data Logger.;;;0;Normalizada
+VDB14;Media;26/12/2023;Sensores / DataLogger;Pluviômetro não funcionando.;;11/12/2024;0;Normalizada
+DT502;Alta;29/12/2023;Sensores / DataLogger;Sistema de alimentação da comunicação apresentando afundamentos intermitentes na tensão da bateria.;22/12/2023;15/07/2024;206;Normalizada
+COL01;Alta;29/12/2023;Sensores / DataLogger;Afundamento na tensão de alimentação principal do Data Logger, com risco de desligamento.;22/12/2023;13/01/2024;22;Normalizada
+AS505;Media;02/01/2023;Falha de Comunicação;Afundamento da tensão abaixo de 12V para o sistema de comunicação. Risco de perda de comunicação.;01/01/2024;29/01/2024;28;Normalizada
+ASD06;Urgente;27/12/2023;Falha de Comunicação;Falha de comunicação. Rádio client instalado na torre não responde ao ping.;25/12/2023;05/01/2024;11;Normalizada
+BVI01;Alta;10/12/2023;Falha de Comunicação;Falha de comunicação.;08/12/2023;02/04/2024;116;Normalizada
+CER18;Urgente;27/12/2023;Falha de Comunicação;Falha de comunicação.;26/12/2023;11/01/2024;16;Normalizada
+GND01;Alta;02/01/2024;Falha de Comunicação;Communication failure.;01/01/2024;03/01/2024;2;Normalizada
+PDD01;Urgente;02/01/2024;Falha de Comunicação;Falha de comunicação.;29/12/2023;10/01/2024;12;Normalizada
+DT307;Urgente;26/12/2023;Comunicação SCADA;Comunicação SCADA travada.;17/12/2023;24/05/2024;159;Normalizada
+DT302;Urgente;26/12/2023;Comunicação SCADA;Comunicação SCADA travada.;17/12/2023;24/05/2024;159;Normalizada
+VDB13;Alta;02/01/2024;Sensores / DataLogger;Afundamento da tensão de alimentação principal do Data Logger com perdas de dados;30/12/2023;04/04/2024;96;Normalizada
+GND07;Alta;02/01/2024;Sensores / DataLogger;The power supply of the communication system is presenting lower values.;27/12/2023;08/01/2024;12;Normalizada
+AS502;Alta;05/01/2024;Sensores / DataLogger;"Falha para barômetro e termo-higrômetro. Medições apresentaram descolamento das torres próximas.
+Nova ocorrência em 28/02/2024, 11/04, 24/04";04/01/2024;14/05/2024;131;Normalizada
+DIA02;Alta;05/01/2024;Sensores / DataLogger;"Afundamento da tensão do sistema de comunicação. Risco de perda da comunicação.
+sem recorrencia";02/01/2024;14/02/2024;43;Normalizada
+ASU02;Alta;08/01/2024;Falha de Comunicação;Sistema de alimentação com queda de tensão e perda de dados;07/01/2024;30/01/2024;23;Normalizada
+DT303;Urgente;08/01/2024;Sensores / DataLogger;"Sistema de alimentação principal com quedas de alimentação. 
+25/02: Queda afetando as medições do TH, Baro e WVs";06/01/2024;05/03/2024;59;Normalizada
+ASD13;Urgente;09/01/2023;Sensores / DataLogger;Perda de dados intermitente.;17/12/2023;09/01/2024;23;Normalizada
+DT502;Alta;10/01/2024;Sensores / DataLogger;GPS com falha gerando inconsistência de dados;09/01/2023;05/03/2024;421;Normalizada
+ART02;Baixa;10/01/2024;Sensores / DataLogger;"GPS com consumo excessivo de energia e gerando variação de tensão.
+problema permanece mesmo com a troca do sensor em 11/04/2024";10/01/2024;12/06/2024;154;Normalizada
+AS405;Alta;10/01/2024;Sensores / DataLogger;TH com valores zerados. Indícios de falha no cabo;10/01/2024;28/02/2024;49;Normalizada
+HER34;Media;10/01/2024;Sensores / DataLogger;Falha para Umidade com impacto na medida de temperatura;08/01/2024;12/01/2024;4;Normalizada
+CAP03;Baixa;10/01/2024;Sensores / DataLogger;Atualizar firmware do logger de CR1000.Std.28.02 para CR1000.Std.32.06;10/01/2024;26/04/2024;107;Normalizada
+DIA03;Baixa;10/01/2024;Sensores / DataLogger;Atualizar firmware do logger de CR1000.Std.28.02 para CR1000.Std.32.06;10/01/2024;10/06/2024;152;Normalizada
+LAJ02;Baixa;10/01/2024;Sensores / DataLogger;Atualizar firmware do logger de CR1000.Std.27.05 para CR1000.Std.32.06;10/01/2024;27/02/2024;48;Normalizada
+LAJ05;Baixa;10/01/2024;Sensores / DataLogger;Atualizar firmware do logger de CR1000.Std.27.05 para CR1000.Std.32.05;10/01/2024;22/04/2024;103;Normalizada
+ASU03;Urgente;12/01/2024;Sensores / DataLogger;Anemômetro 2 em falha total;11/01/2024;18/01/2024;7;Normalizada
+HER27;Alta;12/01/2024;Sensores / DataLogger;Anemômetro 3 em falha intermitente;11/01/2024;20/01/2024;9;Normalizada
+ASD13;Urgente;15/01/2024;Falha de Comunicação;LIDAR sem comunicação.;12/01/2024;21/02/2024;40;Normalizada
+AS402;Urgente;12/01/2024;Falha de Comunicação;Torre sem comunicação;11/01/2024;16/01/2024;5;Normalizada
+AS403;Urgente;15/01/2024;Falha de Comunicação;Torre sem comunicação;14/01/2024;16/01/2024;2;Normalizada
+ASU05;Urgente;15/01/2024;Falha de Comunicação;Torre sem comunicação;12/01/2024;15/01/2024;3;Normalizada
+DT308;Urgente;15/01/2024;Falha de Comunicação;Torre sem comunicação;12/01/2024;23/01/2024;11;Normalizada
+ABO01;Alta;15/01/2024;Falha de Comunicação;Torre sem comunicação;11/01/2024;02/04/2024;82;Normalizada
+COL01;Alta;15/01/2024;Falha de Comunicação;Torre sem comunicação;11/01/2024;02/04/2024;82;Normalizada
+VDB03;Alta;15/01/2024;Falha de Comunicação;Torre sem comunicação;11/01/2024;16/01/2024;5;Normalizada
+VDB23;Alta;15/01/2024;Falha de Comunicação;Torre sem comunicação;13/01/2024;03/04/2024;81;Normalizada
+DT306;Alta;15/01/2024;Comunicação SCADA;Sem comunicação com SCADA;10/01/2024;23/05/2024;134;Normalizada
+DT308;Alta;15/01/2024;Comunicação SCADA;Sem comunicação com SCADA;08/01/2024;23/01/2024;15;Normalizada
+TBR01;Alta;15/01/2024;Comunicação SCADA;Sistema de alimentação da comunicação com valores menores que 12 volts. Impacto no DASH da Serena;13/01/2024;;800;Normalizada
+VDB09;Media;17/01/2024;Sensores / DataLogger;Temperatura 1 com falha geral;15/01/2024;18/01/2024;3;Normalizada
+HER34;Media;18/01/2024;Sensores / DataLogger;"Falhas de medições para ANE2 para valores menores que 2, o valor é igual a zero
+14/02: sem recorrência de falha";07/01/2024;14/02/2024;38;Normalizada
+HER31;Alta;18/01/2024;Sensores / DataLogger;WV1 apresentando valores inconsistentes, dados sendo removidos;01/01/2024;19/01/2024;18;Normalizada
+LAJ03;Urgente;19/01/2024;Falha de Comunicação;Torre sem comunicação;18/01/2024;19/01/2024;1;Normalizada
+LAJ09;Baixa;19/01/2024;Sensores / DataLogger;Atualizar o firmware do logger para 32.07;19/01/2024;30/07/2024;193;Normalizada
+ASU02;Urgente;22/01/2024;Falha de Comunicação;Torre sem comunicação;21/01/2024;31/01/2024;10;Normalizada
+HER27;Urgente;22/01/2024;Falha de Comunicação;Torre sem comunicação;20/01/2024;22/01/2024;2;Normalizada
+AS404;Urgente;22/01/2024;Falha de Comunicação;"Torre sem comunicação. Conversor de protocolo nao responde a ping. 
+Conversor de protocolo do SCADA está OK.";20/01/2024;31/01/2024;11;Normalizada
+PBA01;Urgente;22/01/2024;Falha de Comunicação;Torre sem comunicação. Conversor não responde a ping.;20/01/2024;08/03/2024;48;Normalizada
+ASD13;Media;24/01/2024;Sensores / DataLogger;Atualizar firmware do LIDAR conforme solicitado pela VAISALA;24/01/2024;21/02/2024;28;Normalizada
+AS403;Alta;24/01/2024;Falha de Comunicação;Torre sem comunicação;23/01/2024;26/02/2024;34;Normalizada
+AS505;Urgente;24/01/2024;Falha de Comunicação;Torre sem comunicação, falha no link de radio entre AS405 e AS505. afentando todas as torres de ASR6;23/01/2024;29/01/2024;6;Normalizada
+AS506;Alta;24/01/2024;Falha de Comunicação;Torre sem comunicação. Link de radio entre a torre AS404 e AS506 inoperante;23/01/2024;01/02/2024;9;Normalizada
+AS406;Media;24/01/2024;Sensores / DataLogger;"Falha esporádica para ANEMO2. Valor =0
+recorrência em 19/03, 10/04. Finalizada  por falta de recorrência";22/01/2024;10/04/2024;79;Normalizada
+HER27;Media;24/01/2024;Sensores / DataLogger;"Falha de alimentação. Tensão da bateria principal abaixo dos 12V.
+MKS realizou inspeção em 22/01/2024, porém não identificaram a falha e ela seguiu ocorrendo, principalmente no período noturno.
+bateria substituída em 24/04/2024";01/12/2023;24/04/2024;145;Normalizada
+ASD12;Alta;26/01/2024;Sensores / DataLogger;Falha de medição na Célula Calibrada Suja.;22/01/2024;01/03/2024;39;Normalizada
+DT308;Alta;23/01/2024;Comunicação SCADA;Devido a troca do logger, a GE precisa fazer a revisão do mapeamento MODBUS. Solicitação com a GE criada em 23/01/2024;23/01/2024;24/05/2024;122;Normalizada
+AS402;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação;24/01/2024;01/02/2024;8;Normalizada
+ASD06;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação, link entre AS404 e AS505 inoperante;24/01/2024;29/01/2024;5;Normalizada
+ASD05;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação, Link de radio entre AS404 e AS505 inoperante;24/01/2024;29/01/2024;5;Normalizada
+ASD07;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação. Link de radio entre AS404 e AS505 inoperante;24/01/2024;29/01/2024;5;Normalizada
+ASD08;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação. Link de radio entre AS404 e AS505 inoperante;24/01/2024;29/01/2024;5;Normalizada
+CER06;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação. Link entre AS405 e AS05 inoperante;24/01/2024;29/01/2024;5;Normalizada
+CER18;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação. Link entre AS405 e AS05 inoperante;24/01/2024;07/02/2024;14;Normalizada
+CER19;Urgente;29/01/2024;Falha de Comunicação;Torre sem comunicação. Link entre AS405 e AS05 inoperante;24/01/2024;29/01/2024;5;Normalizada
+CHU02;Alta;29/01/2024;Falha de Comunicação;Torre sem comunicação;25/01/2024;30/01/2024;5;Normalizada
+CHU06;Alta;29/01/2024;Falha de Comunicação;Torre sem comunicação;23/01/2024;04/03/2024;41;Normalizada
+AS503;Urgente;25/01/2024;Falha de Comunicação;Torre sem comunicação;23/01/2024;29/01/2024;6;Normalizada
+GND01;Media;27/10/2023;Sensores / DataLogger;Incorrect orientation for the solar panel;27/10/2023;07/11/2023;11;Normalizada
+AS404;Alta;31/01/2024;Sensores / DataLogger;WVs não registrando valores maiores que 180 graus e anemômetro vertical registrando fora do esperado;20/01/2024;31/01/2024;11;Normalizada
+CER06;Alta;31/01/2024;Sensores / DataLogger;anemômetro 3 em falha geral;30/01/2024;14/03/2024;44;Normalizada
+DT308;Alta;31/01/2024;Sensores / DataLogger;Anemômetro 1 com falha pontual em 29/01 10h30 e 15h;29/01/2024;29/01/2024;0;Normalizada
+PDD01;Media;31/01/2024;Sensores / DataLogger;Alimentação principal com valores abaixo de 12 Volts com risco de perda de dados;29/01/2024;07/02/2024;9;Normalizada
+VDB27;Urgente;29/01/2024;Sensores / DataLogger;Anemo 1, 2, 4, WV1 e WV2 em falha total;23/01/2024;05/02/2024;13;Normalizada
+VDB23;Urgente;31/01/2024;Sensores / DataLogger;TH e Baro com medições inconsistentes;29/01/2024;31/01/2024;2;Normalizada
+AS401;Urgente;02/02/2024;Sensores / DataLogger;Anemômetro 1 com falha geral;31/01/2024;05/02/2024;5;Normalizada
+AS401;Alta;02/01/2024;Sensores / DataLogger;GPS em falha;02/02/2024;03/02/2024;1;Normalizada
+ASD12;Alta;02/02/2024;Sensores / DataLogger;Bateria do sistema principal com queda de tensão, risco de perda de dados;01/02/2024;01/03/2024;29;Normalizada
+AS402;Urgente;05/02/2024;Falha de Comunicação;Torre sem comunicação.;01/02/2024;05/02/2024;4;Normalizada
+VDB01;Urgente;05/02/2024;Falha de Comunicação;Torre sem comunicação.;31/01/2024;07/02/2024;7;Normalizada
+VDB03;Urgente;05/02/2024;Falha de Comunicação;Torre sem comunicação.;02/02/2024;07/02/2024;5;Normalizada
+VDB09;Urgente;05/02/2024;Falha de Comunicação;Torre sem comunicação.;31/01/2024;07/02/2024;7;Normalizada
+VDB18;Urgente;05/02/2024;Falha de Comunicação;Torre sem comunicação.;31/01/2024;07/02/2024;7;Normalizada
+PDD01;Urgente;05/02/2024;Sensores / DataLogger;Desligamento geral da torre, devido a falha de alimentação.;04/02/2024;07/02/2024;3;Normalizada
+VDB01;Alta;19/01/2024;Sensores / DataLogger;WV2 em falha;17/01/2024;29/01/2024;12;Normalizada
+GER08;Alta;07/02/2024;Sensores / DataLogger;"Anemo 2 com falhas esporádicas, 
+recorrência em 07/05, 02/06";03/02/2024;05/07/2024;153;Normalizada
+CER18;Alta;09/02/2023;Sensores / DataLogger;Anem3 com falha intermitente;07/02/2024;16/02/2024;9;Normalizada
+GER02;Alta;09/02/2024;Sensores / DataLogger;Barômetro em falha geral.;05/02/2024;11/07/2024;157;Normalizada
+AS501;Urgente;09/02/2024;Sensores / DataLogger;Anemo1 em falha geral;09/02/2024;27/02/2024;18;Normalizada
+ASU05;Urgente;14/03/2024;Falha de Comunicação;Torre sem comunicação. Aero onde torre é conectada está desligado;13/02/2024;26/02/2024;13;Normalizada
+ART02;Alta;16/02/2024;Sensores / DataLogger;Falha geral na célula calibrada suja.;15/02/2024;11/04/2024;56;Normalizada
+ASD09;Alta;19/02/2024;Sensores / DataLogger;Falha geral para Anemômetros e Barômetro.;18/02/2024;06/03/2024;17;Normalizada
+CHU01;Alta;19/02/2024;Sensores / DataLogger;"Ruído nas medições do barômetro. Em 29/03/2024, falha evoluiu para falha total das medições do barômetro.
+em 23/04 foi identificado que o sensor encontrava-se em curto";19/02/2024;24/04/2024;65;Normalizada
+CHU02;Media;19/02/2024;Sensores / DataLogger;Ruído nas medições do barômetro.;19/02/2024;;763;Normalizada
+VDB09;Alta;19/02/2024;Sensores / DataLogger;Falha geral para termo-higrômetro.;17/02/2024;16/04/2024;59;Normalizada
+CHU04;Media;21/02/2024;Falha de Comunicação;Torre perdendo a comunicação durante a noite. Gerando impacto no envio de dados para ONS;21/02/2024;23/08/2024;184;Normalizada
+AS402;Alta;21/02/2024;Falha de Comunicação;Torre sem comunicação, Link de Radio entre AS401 e AS504 inoperante.;20/02/2024;21/02/2023;-364;Normalizada
+AS504;Alta;21/02/2024;Falha de Comunicação;Torre sem comunicação, Link de Radio entre AS401 e AS504 inoperante.;20/01/2024;21/02/2024;32;Normalizada
+PDD01;Alta;21/02/2024;Sensores / DataLogger;TH com falha geral;20/01/2024;;793;Normalizada
+CER18;Media;22/02/2022;Sensores / DataLogger;Corrigir o aterramento do datalogger. Está ligado na descida do para-raios e precisa ser ligado diretamente na hástia de aterramento;22/02/2024;17/09/2024;208;Normalizada
+ASD07;Baixa;26/02/2024;Sensores / DataLogger;"Falha esporádica de Alimentação, TH, Baro e AN2. Dados descartados. Recorrência em 08/04, 24/04, 09/05, 15/05, 17/05, 18/05, 24/06, 10/07, 13/08, 24/08, 05/09. 06/09, 09/09, 08/11, 28/11,06/12,09/12,10/12,21/12,10/01, 25/02, 03/03, 17/03, 27/03, 03/04, 18/04.
+Intervenção realizada em 08/04/2025, monitorar para validar se há recorrência após esta data.";24/02/2024;08/04/2025;409;Normalizada
+VDB18;Media;26/02/2024;Sensores / DataLogger;Temperatura com pico de valor inconsistente. TH substituído em 27/03/2024.;24/02/2024;27/03/2024;32;Normalizada
+ASD07;Urgente;01/03/2024;Falha de Comunicação;Torre sem comunicação;28/02/2024;06/08/2024;160;Normalizada
+GER01;Media;05/03/2024;Sensores / DataLogger;Sistema de alimentação principal apresentando quedas de tensão.;05/03/2024;13/06/2024;100;Normalizada
+ASU07;Baixa;08/03/2024;Sensores / DataLogger;Queda de tensão principal ocorrida em 06/03/2024. Afundamento na tensão intermitente.;06/03/2024;18/04/2024;43;Normalizada
+ASD09;Media;11/03/2024;Falha de Comunicação;Realizar coleta do dia 08/03/2024, dados não foram enviados por satélite;08/03/2024;09/03/2024;1;Normalizada
+LAJ03;Alta;11/03/2024;Sensores / DataLogger;Windvane 2 em falha total.;10/03/2024;20/03/2024;10;Normalizada
+TBR01;Media;11/03/2024;Sensores / DataLogger;Bateria com queda de tensão acentuada. Reincidência para bateria SCADA a partir de 25/03/2024.;09/03/2024;13/05/2024;65;Normalizada
+GER04;Alta;12/03/2024;Falha de Comunicação;Torre sem comunicação;10/03/2024;24/04/2024;45;Normalizada
+HER36;Urgente;07/03/2024;Sensores / DataLogger;Logger travado, precisa fazer o reset in loco;07/03/2024;19/03/2024;12;Normalizada
+ASD08;Alta;12/03/2024;Falha de Comunicação;Torre sem comunicação;10/03/2024;15/03/2024;5;Normalizada
+PSA01;Urgente;12/03/2024;Falha de Comunicação;Torre sem comunicação.;11/03/2024;13/03/2024;2;Normalizada
+ASD09;Media;13/03/2024;Sensores / DataLogger;"Pico de queda de tensão afetando TH. 
+Ocorrência em 11/03 9:30";11/03/2024;11/03/2024;0;Normalizada
+ASU07;Media;13/03/2024;Sensores / DataLogger;"Anemômetro 2 com falha esporádica
+evento em 12/3/24";12/03/2024;20/03/2024;8;Normalizada
+CER06;Alta;13/03/2024;Falha de Comunicação;Torre sem comunicação;11/03/2024;15/03/2024;4;Normalizada
+ABO01;Media;13/03/2024;Sensores / DataLogger;Anemômetro 2B em falha geral. sensor desconsiderado;16/02/2024;;766;Normalizada
+BVI01;Media;15/03/2024;Sensores / DataLogger;Temperatura 2 com medição inconsistente. sensor desconsiderado;08/02/2024;;774;Normalizada
+ABO01;Media;15/03/2024;Sensores / DataLogger;Barômetro com picos esporádicos;01/02/2024;04/07/2024;154;Normalizada
+HER28;Alta;18/03/2024;Sensores / DataLogger;Sistema de alimentação com falha geral, aparentemente painel solar está desligado;16/03/2024;19/03/2024;3;Normalizada
+DT306;Media;18/03/2024;Falha de Comunicação;Sistema de alimentação da comunicação com queda de tensão;15/03/2024;28/04/2024;44;Normalizada
+LAJ05;Media;25/03/2024;Sensores / DataLogger;Bateria principal abaixo da tensão nominal.;24/03/2024;22/04/2024;29;Normalizada
+ABO01;Media;26/02/2024;Sensores / DataLogger;Caixa do datalogger está com a porta danificada.;26/02/2024;07/05/2025;436;Normalizada
+ABO01;Alta;26/02/2024;Sensores / DataLogger;Anemômetro de topo com consumo de corrente elétrica elevada.;26/02/2024;04/07/2024;129;Normalizada
+ASD12;Media;27/03/2024;Sensores / DataLogger;Divergência nas medições do pireliômetro 2 em relação às demais medições de GHI. Possível desalinhamento do sensor ou erro de calibração.;27/03/2024;22/05/2024;56;Normalizada
+GNW01;Media;27/03/2024;Sensores / DataLogger;Anemometer 1B is showing intermitent inconsistent values.;02/02/2024;;780;Normalizada
+PEC01;Baixa;27/03/2024;Sensores / DataLogger;Falha total para ANM 1B e 2, barômetro e ambos os termômetros. Em 28/03/2024 foi substituído o barômetro e instalado um novo TH, permanecendo ativas apenas as falhas de ANM. SENSORES REDUNTANTES;03/03/2024;;750;Normalizada
+CER06;Media;01/04/2024;Sensores / DataLogger;Tensão de alimentação principal do DL com valores abaixo de 12V.;27/03/2024;;726;Normalizada
+GER08;Media;01/04/2024;Sensores / DataLogger;Falha total para TH.;30/03/2024;24/04/2024;25;Normalizada
+VDB14;Baixa;01/04/2024;Sensores / DataLogger;Higrômetro 2 apresentando valores divergentes em relação as torres próximas (abaixo do esperado).;01/04/2024;;721;Normalizada
+AS402;Alta;04/04/2024;Falha de Comunicação;Torre sem comunicação.;03/04/2024;08/04/2024;5;Normalizada
+CHU01;Alta;04/04/2024;Falha de Comunicação;Torre sem comunicação.;02/04/2024;23/04/2024;21;Normalizada
+CHU05;Alta;04/04/2024;Falha de Comunicação;Torre sem comunicação.;02/04/2024;23/04/2024;21;Normalizada
+LAJ02;Baixa;05/04/2024;Sensores / DataLogger;Remover anemômetro vertical e suporte;05/04/2024;04/09/2025;517;Normalizada
+LAJ01;Baixa;06/04/2024;Sensores / DataLogger;Organizar caixa de comunicação.;;16/01/2025;0;Normalizada
+LAJ01;Media;06/04/2024;Sensores / DataLogger;Isolar com fita isolante todos os tecnil. (Evitar quebrar por resecamento);;01/05/2025;0;Normalizada
+LAJ05;Media;06/04/2024;Sensores / DataLogger;Substituir todas as fitas de amarras.;;;0;Normalizada
+LAJ05;Media;06/04/2024;Sensores / DataLogger;Realizar isolamento de todos os tecnil para evitar resecamento.;;;91;Falha Ativa
+ASU07;Media;04/04/2024;Sensores / DataLogger;Substituir caixa do datalogger.;;;6;Falha Ativa
+AS505;Media;08/04/2024;Sensores / DataLogger;WV1 desalinhada das demais. Realizar ou revisar o arquivo de georreferenciamento, pois o que está salvo na pasta da torre contém apenas as coordenadas das âncoras. Na data do dia 23-05-25 foi realizada uma preventiva e realizado a fixação do tecnill e realinhamento 180g wv1.;01/04/2024;23/05/2025;417;Normalizada
+AS505;Alta;08/04/2024;Falha de Comunicação;Bateria do sistema de comunicação com queda de tensão.;03/04/2024;22/04/2024;19;Normalizada
+LAJ02;Urgente;08/04/2024;Falha de Comunicação;Torre sem comunicação;05/04/2024;09/04/2024;4;Normalizada
+GER10;Alta;08/04/2024;Sensores / DataLogger;TH com valores inconsistentes e temperatura medindo fora;05/04/2024;08/05/2024;33;Normalizada
+VDB09;Alta;08/04/2024;Sensores / DataLogger;Windvane 2 com falha de medição.;08/04/2024;16/04/2024;8;Normalizada
+CER19;Alta;10/04/2024;Sensores / DataLogger;Barômetro em falha geral;07/04/2024;12/04/2024;5;Normalizada
+DT801;Alta;10/04/2024;Sensores / DataLogger;Bateria principal com valores < 12 Volts. Torre sem comunicação desde 12/04;10/04/2024;24/04/2024;14;Normalizada
+VDB13;Urgente;10/04/2024;Sensores / DataLogger;Datalogger com erro de CPU;07/04/2024;15/04/2024;8;Normalizada
+ASD07;Alta;10/04/2024;Falha de Comunicação;Torre sem comunicação;09/04/2024;12/04/2024;3;Normalizada
+CER18;Alta;09/04/2024;Falha de Comunicação;Torre com comunicação falha. Comunica esporadicamente.;08/04/2024;24/05/2024;46;Normalizada
+CHU06;Alta;08/04/2024;Falha de Comunicação;Torre sem comunicação;06/04/2024;24/04/2024;18;Normalizada
+HER36;Alta;08/04/2024;Falha de Comunicação;Torre sem comunicação;07/04/2024;18/04/2024;11;Normalizada
+ART03;Alta;15/04/2024;Sensores / DataLogger;anemômetro com valores inconsistentes;12/04/2024;11/06/2024;60;Normalizada
+ABO01;Baixa;02/04/2024;Sensores / DataLogger;Remover o PERLE e MICRO SWITCH.;;07/05/2025;0;Normalizada
+CPS02;Media;16/04/2024;Sensores / DataLogger;Desalinhamento de ambos os Wind Vanes de aproximadamente 15° em relação às torres próximas. Foi realizado o georreferenciamento e verificação de alinhamento do norte da WV com o centro da torre e observado desalinhamento estrutural.;;;0;Normalizada
+ASD12;Alta;15/04/2024;Sensores / DataLogger;Piranômetros está apresentando valores divergentes dos demais. precisa verificar o alinhamento do sensor e o amplificador;12/04/2024;22/05/2024;40;Normalizada
+PPA01;Urgente;17/04/2024;Sensores / DataLogger;Queda de tensão brusca da bateria principal. Torre parou de comunicar. Dados inválidos entre 22/04/24 e 25/04/24.;17/04/2024;25/04/2024;8;Normalizada
+VDB09;Alta;17/04/2024;Sensores / DataLogger;Ruido no UMIDADE gerando dados inconsistentes;14/04/2024;26/06/2024;73;Normalizada
+VDB13;Media;17/04/2024;Sensores / DataLogger;Afundamento na bateria principal;15/04/2024;07/05/2024;22;Normalizada
+VDB13;Media;15/04/2024;Sensores / DataLogger;Gabinete do logger com a porta caindo;;07/05/2025;0;Normalizada
+AS401;Media;19/04/2024;Sensores / DataLogger;Bateria principal com queda de tensão expressiva, risco de perda de dados.;18/04/2024;15/05/2024;27;Normalizada
+CAP03;Alta;19/04/2024;Falha de Comunicação;Torre sem comunicação;17/04/2024;26/04/2024;9;Normalizada
+DIA02;Media;22/04/2024;Sensores / DataLogger;"Anemômetro 1 apresentando falhas esporádicas
+ocorrências: 26/033, 01/04, 19/04";;07/10/2024;0;Normalizada
+CHU06;Urgente;22/04/2024;Sensores / DataLogger;Bateria com baixos níveis de tensão e perca de dados;15/04/2024;24/04/2024;9;Normalizada
+DT601;Media;22/04/2024;Sensores / DataLogger;Bateria principal com queda de tensão;17/04/2024;05/06/2024;49;Normalizada
+ART02;Media;24/04/2024;Sensores / DataLogger;"Diferença grande de irradiância para os piranômetros 2 e 3. 
+Normalizado por falta de recorrência.";22/04/2024;13/06/2024;52;Normalizada
+ASD05;Media;24/04/2024;Sensores / DataLogger;Desalinhamento da WV1 de aprox. 5° após troca do sensor, realizada pela MKS, em 13/03/23. Realizar alinhamento do norte da WV com o centro da torre.;13/03/2023;02/12/2024;630;Normalizada
+AS402;Urgente;25/04/2024;Sensores / DataLogger;Substituição do Barômetro, medições inconsistente;25/04/2024;;697;Normalizada
+VDB13;Urgente;25/04/2024;Falha de Comunicação;Torre sem comunicação;24/04/2024;30/04/2024;6;Normalizada
+ART01;Media;26/04/2024;Sensores / DataLogger;Anemômetro Inferior (AN1) apresentando medições congeladas.;23/04/2024;12/06/2024;50;Normalizada
+AS505;Media;26/04/2024;Sensores / DataLogger;Tensão de alimentação do sistema de comunicação abaixo do esperado.;23/04/2024;08/05/2024;15;Normalizada
+ASU03;Urgente;29/04/2024;Falha de Comunicação;Torre sem comunicação;25/04/2024;06/05/2024;11;Normalizada
+CPS01;Urgente;02/05/2024;Sensores / DataLogger;Falha no sistema de alimentação noturna com perdas de dados.;01/05/2024;06/05/2024;5;Normalizada
+HER35;Media;02/05/2024;Sensores / DataLogger;Pico no Baro, dado não considerado;30/04/2024;;692;Normalizada
+VDB13;Urgente;02/05/2024;Falha de Comunicação;Torre sem comunicação;01/05/2024;07/05/2024;6;Normalizada
+AS503;Media;02/05/2024;Sensores / DataLogger;Falhas esporádicas para Anemo1;06/04/2024;09/05/2024;33;Normalizada
+ASU02;Media;06/05/2024;Falha de Comunicação;Bateria do sistema de comunicação com tensões abaixo de 12V. risco de perda de comunicação com ONS;03/05/2024;19/06/2024;47;Normalizada
+GER02;Alta;06/05/2024;Falha de Comunicação;Torre sem comunicação. Comunicação intermitente, voltou sozinho;04/05/2024;16/05/2024;12;Normalizada
+CHU07;Alta;10/05/2024;Falha de Comunicação;Coleta Atrasada;08/05/2024;24/06/2024;47;Normalizada
+CHU09;Media;10/05/2024;Sensores / DataLogger;Barômetro com ruido, dados deletados;;16/08/2024;0;Normalizada
+GER01;Alta;10/05/2024;Falha de Comunicação;Coleta atrasada.;07/05/2024;13/06/2024;37;Normalizada
+GER09;Alta;10/05/2024;Falha de Comunicação;Coleta Atrasada;07/05/2024;24/06/2024;48;Normalizada
+HER26;Alta;10/05/2024;Sensores / DataLogger;Anemo 3 em falha total. normalizou sozinho;08/05/2024;27/05/2024;19;Normalizada
+AS505;Media;13/05/2024;Falha de Comunicação;Sistema de alimentação não está carregando a bateria, valores < 12V;09/05/2024;07/06/2024;29;Normalizada
+DIA03;Urgente;15/05/2024;Falha de Comunicação;Bateria principal com queda expressiva. perda de dados a partir de 08/06/2024;13/05/2024;10/06/2024;28;Normalizada
+HER29;Alta;16/05/2024;Falha de Comunicação;Coleta atrasada. Precisa reestabelecer a comunicação via fibra;14/05/2024;27/06/2024;44;Normalizada
+ASD11;Baixa;17/05/2024;Sensores / DataLogger;"Pluviômetro com comportamento estranho. sensor desinstalado em 22/05 por não estar funcionando.
+NÃO VAI TROCAR";01/05/2024;;691;Normalizada
+VDB27;Media;17/05/2024;Sensores / DataLogger;WV1 apresentando ruido nas medições;12/05/2024;10/12/2024;212;Normalizada
+CHU01;Media;17/05/2024;Sensores / DataLogger;Anemômetro 2 com medição divergente aos demais. necessário a troca;01/05/2024;09/07/2024;69;Normalizada
+HER34;Media;17/05/2024;Sensores / DataLogger;Anemo2 em falha. Não está medindo em baixas velocidades.;01/05/2024;;691;Normalizada
+VDB18;Urgente;20/05/2024;Falha de Comunicação;Perda de dados devido a baixa tensão do sistema de alimentação.;10/05/2024;28/05/2024;18;Normalizada
+PSA01;Alta;22/05/2024;Falha de Comunicação;Torre sem comunicação;22/05/2024;28/05/2028;1467;Normalizada
+ASD11;Alta;22/05/2024;Falha de Comunicação;Torre sem comunicação após equipe instalar comunicação via radio;21/05/2024;29/05/2024;8;Normalizada
+CHU05;Alta;24/05/2024;Sensores / DataLogger;Bateria principal com valores menores que 12 Vs;23/05/2024;07/07/2024;45;Normalizada
+GER02;Alta;24/05/2024;Falha de Comunicação;Torre sem comunicação;21/05/2024;27/05/2024;6;Normalizada
+HER36;Alta;24/05/2024;Falha de Comunicação;Torre sem comunicação;21/05/2024;21/06/2024;31;Normalizada
+ASD12;Baixa;27/05/2024;Sensores / DataLogger;TH 2 com funcionamento inconsistente em baixas umidades.;23/05/2024;01/07/2024;39;Normalizada
+ASD11;Alta;27/05/2024;Sensores / DataLogger;Windvane parou de funcionar. valor travado em 84 graus;23/05/2024;12/06/2024;20;Normalizada
+GER08;Baixa;27/05/2024;Sensores / DataLogger;Barômetro com ruídos;24/05/2024;05/07/2024;42;Normalizada
+VDB13;Media;27/05/2024;Sensores / DataLogger;Bateria com queda de tensão menor que 12 volts;25/05/2024;18/07/2024;54;Normalizada
+AS403;Media;29/05/2024;Sensores / DataLogger;Bateria principal com quedas de tensão < 12 volts;29/05/2024;31/05/2024;2;Normalizada
+ASU04;Media;29/05/2024;Sensores / DataLogger;"ANEMOs 1 e 2 com falhas esporádicas,
+evento em 28/05, 30/06. Finalizada por falta de recorrência";28/05/2024;30/06/2024;33;Normalizada
+GER07;Media;29/05/2024;Sensores / DataLogger;WV1 com ruido grande;26/05/2024;02/10/2024;129;Normalizada
+PSA01;Urgente;27/05/2024;Sensores / DataLogger;WV1 parou de funcionar devido a uma descarga atmosférica;23/05/2024;28/05/2024;5;Normalizada
+VDB18;Urgente;28/05/2024;Sensores / DataLogger;Após troca de datalogger, TH e Baro pararam de funcionar adequadamente.;28/05/2024;30/05/2024;2;Normalizada
+VDB23;Media;29/05/2024;Sensores / DataLogger;WV1 com muito ruido;26/05/2024;11/12/2024;199;Normalizada
+CHU01;Urgente;04/06/2024;Sensores / DataLogger;Sinal de bateria com tensão baixa. Queda geral em 06/06/2024. Bem provável perda geral de dados.;01/06/2024;19/06/2024;18;Normalizada
+AS403;Media;04/06/2024;Sensores / DataLogger;Ruído na temperatura com exclusão de dados. Baixa por falta de recorrência;03/06/2024;30/06/2024;27;Normalizada
+AS402;Media;10/06/2024;Sensores / DataLogger;Anemômetro vertical parou de funcionar. Na data do dia 06-02-2025 foi realizada o desativamento do sensor.;08/06/2024;06/02/2025;243;Normalizada
+HER34;Alta;10/06/2024;Sensores / DataLogger;"Termo-higrômetro apresentando inconsistências (temperatura acima do esperado e umidade com divergência em relação às torres próximas).
+Normalizou sozinho";08/06/2024;28/07/2024;50;Normalizada
+HER26;Alta;10/06/2024;Sensores / DataLogger;Anemo 3 em falha total.;08/06/2024;01/07/2024;23;Normalizada
+DIA03;Urgente;15/05/2024;Sensores / DataLogger;Bateria principal com queda de tensão.;13/05/2024;17/06/2024;35;Normalizada
+AS403;Media;14/06/2024;Sensores / DataLogger;"Bateria principal com queda de tensão < 12 V.
+Baixa por falta de recorrência";13/06/2024;30/06/2024;17;Normalizada
+PPA01;Alta;18/06/2024;Falha de Comunicação;"Torre sem comunicação, Dados mostram queda acentuada na tensão da bateria principal. 
+Comunicação com SCADA OK";17/06/2024;20/06/2024;3;Normalizada
+GER04;Alta;19/06/2024;Sensores / DataLogger;Anemômetro de topo parou de funcionar;18/06/2024;25/06/2024;7;Normalizada
+HER25;Media;14/06/2024;Sensores / DataLogger;Anemômetro 3 em falha intermitente;01/06/2024;28/06/2024;27;Normalizada
+ART03;Alta;14/06/2024;Sensores / DataLogger;Anemômetro com valores máximos inconsistentes;11/06/2024;07/08/2024;57;Normalizada
+ASD12;Alta;24/06/2024;Sensores / DataLogger;Piranometro 1 medindo abaixo do esperado. verificar em campo antes de aplicarmos flag de inválido;22/06/2024;10/07/2024;18;Normalizada
+ASU05;Media;20/06/2024;Falha de Comunicação;Bateria principal com queda de tensão < 12 V. Normalizada por falta de recorrência;23/06/2024;30/06/2024;7;Normalizada
+HER25;Urgente;24/06/2024;Sensores / DataLogger;WVs, TH e Baro pararam de funcionar.;19/06/2024;27/06/2024;8;Normalizada
+GER10;Alta;26/06/2024;Falha de Comunicação;Torre sem comunicação;14/06/2024;23/07/2024;39;Normalizada
+TBR01;Media;27/06/2024;Falha de Comunicação;Bateria de comunicação com valores < 12 V;26/06/2024;30/06/2024;4;Normalizada
+DIA02;Media;08/04/2024;Sensores / DataLogger;Pintar a caixa do datalogger e substituir o suporte e abraçadeiras da caixa de comunicação.;08/04/2024;03/09/2025;513;Normalizada
+AS404;Media;01/07/2024;Falha de Comunicação;Bateria da comunicação com queda de tensão < 12 V.;30/06/2024;15/07/2024;15;Normalizada
+CHU01;Alta;21/06/2024;Sensores / DataLogger;TH em falha total após intervenção da MKS;19/06/2024;09/07/2024;20;Normalizada
+GER09;Alta;21/06/2024;Sensores / DataLogger;Barômetro com ruido extremo e descarte de dados.;20/06/2024;02/07/2024;12;Normalizada
+HER36;Media;01/07/2024;Sensores / DataLogger;Falha intermitente para AN 2, valores muito inconsistentes. ocorrencia em 24/06.;24/06/2024;24/06/2024;0;Normalizada
+DT303;Alta;14/06/2024;Sensores / DataLogger;Datalogger com falha no cartão de memória, necessário formatar o cartão.;12/06/2024;25/07/2024;43;Normalizada
+VDB18;Urgente;31/05/2024;Sensores / DataLogger;Falha recorrente no sistema de alimentação, com afundamento progressivo na tensão de alimentação principal do DL.;28/05/2024;13/08/2024;77;Normalizada
+VDB23;Alta;01/07/2024;Sensores / DataLogger;Torre com perda de dado. Pode estar associado a alimentação da torre vindo do aero. Precisa verificar se a alimentação da torre esta independente;30/06/2024;01/08/2024;32;Normalizada
+HER26;Alta;01/07/2024;Sensores / DataLogger;WVs em falha total;30/03/2024;01/07/2024;93;Normalizada
+VDB13;Urgente;05/07/2024;Sensores / DataLogger;Ruído nas medições do ANM de Topo e Intermediário.;28/06/2024;26/07/2024;28;Normalizada
+GER01;Media;05/07/2024;Falha de Comunicação;Bateria principal com valores < 12V;01/07/2024;27/09/2024;88;Normalizada
+GER04;Alta;05/07/2024;Sensores / DataLogger;Windvane 1 com falha geral;01/07/2024;10/07/2024;9;Normalizada
+TBR01;Media;05/07/2024;Sensores / DataLogger;Afundamento pontual em 04/07/24 na tensão do sistema de comunicação. Reincidência em  08/07.;04/07/2024;08/07/2024;4;Normalizada
+ASD12;Alta;10/07/2024;Sensores / DataLogger;Anemômetro a 10 metros parou de medir;08/07/2024;10/07/2024;2;Normalizada
+ASU05;Urgente;15/07/2024;Sensores / DataLogger;Afundamento na tensão de alimentação principal do data logger.;14/07/2024;26/07/2024;12;Normalizada
+CHU05;Baixa;15/07/2024;Sensores / DataLogger;Ruído nas medições do barômetro e termo-higrômetro.;01/06/2024;;660;Normalizada
+GER06;Alta;15/07/2024;Falha de Comunicação;Falha de comunicação.;05/07/2024;23/07/2024;18;Normalizada
+ART02;Media;18/07/2024;Sensores / DataLogger;Piranômetro 1 (canal ANL1) apresentando divergência em relação aos outros sensores, principalmente no período da manhã. Verificar limpeza, alinhamento e possibilidade de sombreamento sobre o sensor.;15/07/2024;08/08/2024;24;Normalizada
+AS401;Alta;18/07/2024;Falha de Comunicação;Falha de comunicação após queda abrupta na tensão de alimentação do sistema de comunicação.;17/07/2024;22/07/2024;5;Normalizada
+AS401;Alta;23/07/2024;Sensores / DataLogger;Inversão dos canais do TH.;22/07/2024;23/07/2024;1;Normalizada
+ASU07;Urgente;23/07/2024;Sensores / DataLogger;Afundamento na tensão de alimentação principal do data logger. Bateria principal substituída em 01/08/2024.;22/07/2024;01/08/2024;10;Normalizada
+DT301;Media;23/07/2024;Sensores / DataLogger;Barômetro apresentando ruído.;23/07/2024;26/11/2024;126;Normalizada
+TBR01;Media;23/07/2024;Sensores / DataLogger;Ruído no barômetro.;23/07/2024;23/08/2024;31;Normalizada
+AS504;Media;26/07/2024;Sensores / DataLogger;Alimentação principal do Data Logger apresentando afundamento.;24/07/2024;29/07/2024;5;Normalizada
+ASU07;Media;26/07/2024;Sensores / DataLogger;Ruído forte nas medições de temperatura.;23/07/2024;01/08/2024;9;Normalizada
+AS506;Media;30/07/2024;Sensores / DataLogger;Anemômetro vertical com valores inconsistentes. No dia 08/10/2024 foi verificado e realizados testes na caixa do Logger e foi identificado que é o sensor! não vai ter intervenção;26/07/2024;02/04/2025;250;Normalizada
+AS504;Media;30/07/2024;Falha de Comunicação;Bateria da comunicação com valores menores que 12 volts;29/07/2024;19/08/2024;21;Normalizada
+GND01;Media;30/07/2024;Sensores / DataLogger;Anemometer 1B stop working;27/07/2024;;604;Normalizada
+HER25;Alta;30/07/2024;Sensores / DataLogger;Anemômetro 2 com falhas intermitentes. Ocorrências pontuais em 25/07 e 27/07, e ocorrência mais intensa em 05/08, 09/08, 15/08;27/07/2024;03/10/2024;68;Normalizada
+BVI01;Alta;02/08/2024;Falha de Comunicação;Falha de comunicação.;30/07/2024;08/08/2024;9;Normalizada
+VDB18;Alta;02/08/2024;Falha de Comunicação;Falha de comunicação.;01/08/2024;13/08/2024;12;Normalizada
+GER02;Alta;20/07/2024;Falha de Comunicação;Falha de comunicação.;19/07/2024;26/08/2024;38;Normalizada
+HER34;Media;10/06/2024;Sensores / DataLogger;Falhas intermitentes para TH, com mudanças bruscas no patamar das medições. Canal de umidade em falha total a partir de 02/08/24.;08/06/2024;27/09/2024;111;Normalizada
+CAP03;Urgente;05/08/2024;Falha de Comunicação;Falha de comunicação.;03/08/2024;06/08/2024;3;Normalizada
+GND07;Alta;06/08/2024;Sensores / DataLogger;Progressive decrease in voltage of the communication system supply.;06/08/2024;29/08/2024;23;Normalizada
+ART02;Baixa;13/08/2024;Sensores / DataLogger;Bateria com queda de tensão por volta das 6h.;10/08/2024;09/10/2024;60;Normalizada
+ASD12;Alta;13/08/2024;Sensores / DataLogger;Piranômetro 1 com medição inconsistente.;10/08/2024;19/08/2024;9;Normalizada
+HER28;Media;13/08/2024;Sensores / DataLogger;Ruido no barômetro, dados descartados;10/08/2024;15/09/2024;36;Normalizada
+HER34;Media;13/08/2024;Sensores / DataLogger;Bateria com tensões abaixo de 12V;11/08/2024;27/09/2024;47;Normalizada
+TBR01;Media;16/08/2024;Comunicação SCADA;Bateria de comunicação com queda de tensão acentuada.;10/08/2024;17/08/2024;7;Normalizada
+VDB18;Urgente;16/08/2024;Sensores / DataLogger;Tensão da bateria principal menor que 12V. perda de dados a partir de 21/09;13/08/2024;25/09/2024;43;Normalizada
+GER04;Alta;19/08/2024;Falha de Comunicação;Torre com falha intermitente de comunicação;18/08/2024;27/09/2024;40;Normalizada
+LAJ05;Alta;19/08/2024;Falha de Comunicação;Torre sem comunicação;19/08/2024;23/08/2024;4;Normalizada
+ASU07;Urgente;19/08/2024;Sensores / DataLogger;Anemômetro principal em falha total;18/08/2024;20/08/2024;2;Normalizada
+CHU09;Alta;20/08/2024;Sensores / DataLogger;Temperatura, Umidade e Pressão pararam de funcionar;19/08/2024;27/09/2024;39;Normalizada
+GER07;Alta;23/08/2024;Falha de Comunicação;Torre sem comunicação;20/08/2024;02/09/2024;13;Normalizada
+AS404;Baixa;23/08/2024;Comunicação SCADA;Bateria da comunicação com valores < 12V;22/08/2024;10/10/2024;49;Normalizada
+AS402;Alta;26/08/2024;Falha de Comunicação;Torre sem comunicação;25/08/2024;02/09/2024;8;Normalizada
+HER30;Media;26/08/2024;Falha de Comunicação;Torre perdendo a comunicação durante a noite.;25/08/2024;;575;Normalizada
+DIA02;Alta;27/08/2024;Sensores / DataLogger;Bateria principal abaixo dos 12V;25/08/2024;26/09/2024;32;Normalizada
+CHU04;Alta;27/08/2024;Sensores / DataLogger;"WV1 em falha total
+Falha normalizada após a substituição dos equipamentos e estrutura.";26/08/2024;09/11/2024;75;Normalizada
+GND06;Baixa;27/08/2024;Sensores / DataLogger;Anemometer 4B showing mal function;23/08/2024;23/08/2024;0;Normalizada
+CHU09;Alta;02/09/2024;Sensores / DataLogger;WVs em falha geral;19/08/2024;27/09/2024;39;Normalizada
+GND07;Urgente;27/08/2024;Sensores / DataLogger;Pyranometers show mal function after site visit.;23/08/2024;29/08/2024;6;Normalizada
+COL01;Alta;05/09/2024;Falha de Comunicação;Falha de Comunicação;03/09/2024;17/09/2024;14;Normalizada
+ASU05;Alta;06/09/2024;Falha de Comunicação;Coleta atrasada;05/09/2024;11/09/2024;6;Normalizada
+CHU04;Alta;11/09/2024;Falha de Comunicação;Torre sem comunicação;09/09/2024;29/09/2024;20;Normalizada
+CHU06;Alta;11/09/2024;Falha de Comunicação;Torre sem comunicação;09/09/2024;27/09/2024;18;Normalizada
+GER08;Urgente;11/09/2024;Sensores / DataLogger;Anemos e WV2 em falha total;07/09/2024;30/09/2024;23;Normalizada
+DT304;Media;11/09/2024;Sensores / DataLogger;Sensor de umidade com valores inconsistentes. sem recorrencia;05/09/2024;30/09/2024;25;Normalizada
+GER02;Alta;11/09/2024;Falha de Comunicação;Torre sem comunicação;09/09/2024;28/09/2024;19;Normalizada
+HER36;Alta;11/09/2024;Falha de Comunicação;Torre sem comunicação;09/09/2024;01/10/2024;22;Normalizada
+CHU09;Alta;12/09/2024;Falha de Comunicação;Torre sem comunicação.;10/09/2024;27/09/2024;17;Normalizada
+DT601;Alta;10/07/2023;Sensores / DataLogger;Termo-higrômetro com muito ruído.;05/07/2023;17/09/2024;440;Normalizada
+CER18;Media;16/09/2024;Sensores / DataLogger;Anemômetro 2 com implausibilidade intermitente.;12/09/2024;23/09/2024;11;Normalizada
+ABO01;Alta;13/09/2024;Falha de Comunicação;Torre sem comunicação;12/09/2024;17/09/2024;5;Normalizada
+CER19;Alta;13/09/2024;Falha de Comunicação;Torre sem comunicação;12/09/2024;20/09/2024;8;Normalizada
+GER07;Alta;13/09/2024;Falha de Comunicação;Torre sem comunicação;11/09/2024;02/10/2024;21;Normalizada
+GER08;Urgente;19/09/2024;Falha de Comunicação;Torre sem comunicação;14/09/2024;30/09/2024;16;Normalizada
+CAP03;Alta;18/09/2024;Falha de Comunicação;Torre sem comunicação;17/09/2024;19/09/2024;2;Normalizada
+DT601;Alta;19/09/2024;Sensores / DataLogger;Anemômetro 2 em falha intermitente, valores máximos muito maiores que os demais. Dados não considerados;18/09/2024;01/10/2024;13;Normalizada
+DT101;Alta;20/09/2024;Falha de Comunicação;torre sem comunicação. Radio Cliente não responde a ping.;19/09/2024;27/09/2024;8;Normalizada
+HER31;Urgente;23/09/2024;Sensores / DataLogger;Falha geral para WV2, Temperatura, Umidade e Pressão;20/09/2024;27/09/2024;7;Normalizada
+GER09;Alta;23/09/2024;Sensores / DataLogger;Anemo 2 em falha geral;19/09/2024;02/10/2024;13;Normalizada
+DIA02;Media;26/09/2024;Sensores / DataLogger;Ruido no Barômetro, baixo impacto sobre a média;24/09/2024;03/10/2024;9;Normalizada
+HER35;Alta;26/09/2024;Falha de Comunicação;Torre sem comunicação;24/09/2024;27/09/2024;3;Normalizada
+VDB18;Media;26/09/2024;Sensores / DataLogger;Tensão da bateria principal menor que 12V mesmo após intervenção do dia 25/09;13/08/2024;30/10/2024;78;Normalizada
+ASU04;Alta;17/09/2024;Sensores / DataLogger;Anemômetros 1 ou 2 apresentando falhas intermitentes, valor igual a zero;15/09/2024;14/01/2025;121;Normalizada
+GND03;Media;05/09/2024;Sensores / DataLogger;The Thermometer 1 is presenting intermitent noise.;20/07/2024;04/12/2024;137;Normalizada
+AS506;Alta;01/10/2024;Falha de Comunicação;Bateria principal com queda brusca de tensão. O problema pode estar afetando o pluviômetro, favor verificar.;28/09/2024;08/10/2024;10;Normalizada
+CPS02;Alta;01/10/2024;Falha de Comunicação;Torre sem comunicação;01/10/2024;02/10/2024;1;Normalizada
+AS403;Alta;06/10/2024;Comunicação SCADA;Bateria da comunicação com queda drástica de tensão;02/10/2024;08/10/2024;6;Normalizada
+HER28;Alta;07/10/2024;Falha de Comunicação;Torre sem comunicação.;04/10/2024;31/10/2024;27;Normalizada
+ASD13;Alta;07/10/2024;Falha de Comunicação;LIDAR sem comunicação. O rádio AP da torre ASD06 para o LIDAR não responde a ping.;06/10/2024;11/10/2024;5;Normalizada
+ASU04;Baixa;07/11/2024;Sensores / DataLogger;Ruido no Barômetro, ainda sem impacto na média;01/10/2024;14/10/2024;13;Normalizada
+HER24;Alta;07/10/2024;Sensores / DataLogger;Anemômetro 3 em falha intermitente;05/10/2024;16/11/2024;42;Normalizada
+PBA01;Alta;10/10/2024;Sensores / DataLogger;Bateria principal com queda brusca de tensão;09/10/2024;15/10/2024;6;Normalizada
+VDB23;Alta;10/10/2024;Sensores / DataLogger;Anemômetro 2 com medições inconsistentes. Normalizado por falta de recorrência;07/10/2024;25/11/2024;49;Normalizada
+ASU04;Alta;14/10/2024;Comunicação SCADA;Afundamento da bateria Scada, torre está sem comunicar durante a noite.;12/10/2024;25/11/2024;44;Normalizada
+DT304;Media;14/10/2024;Sensores / DataLogger;Ruido esporádico na Umidade, Dados não considerados.;12/10/2024;12/10/2024;0;Normalizada
+GER01;Alta;15/10/2024;Falha de Comunicação;Torre sem comunicação;13/10/2024;16/10/2024;3;Normalizada
+GER10;Alta;15/10/2024;Falha de Comunicação;Torre sem comunicação;13/10/2024;31/10/2024;18;Normalizada
+AS505;Urgente;14/10/2024;Falha de Comunicação;Radio AP da ASD10 em falha, não responde a ping. Torre e outro AP da ASD05 funcionando normalmente.;14/10/2024;21/10/2024;7;Normalizada
+CER06;Media;16/10/2024;Falha de Comunicação;Bateria principal com valores menores que 12 volts;16/10/2024;19/11/2024;34;Normalizada
+BVI01;Media;16/10/2024;Falha de Comunicação;Bateria com queda brusca de tensão;16/10/2024;31/10/2024;15;Normalizada
+LAJ03;Alta;17/10/2024;Falha de Comunicação;Torre sem comunicação;16/10/2024;28/10/2024;12;Normalizada
+TBR03;Media;18/10/2024;Sensores / DataLogger;Ruido na medição do TH. Dado deletado. Normalizado por falta de ocorrência;16/10/2024;;523;Normalizada
+COL01;Urgente;18/10/2024;Sensores / DataLogger;Todos Anemômetros e windvanes em falha total (aparentemente um sensor em curto);17/10/2024;29/10/2024;12;Normalizada
+AS503;Alta;21/10/2024;Falha de Comunicação;Torre sem comunicação;18/10/2024;21/10/2024;3;Normalizada
+ASD12;Alta;21/10/2024;Falha de Comunicação;Torre sem comunicação. Moxa não responde a ping.;19/10/2024;31/10/2024;12;Normalizada
+LAJ09;Alta;21/10/2024;Sensores / DataLogger;WV1 em falha total;18/10/2024;24/10/2024;6;Normalizada
+HER29;Media;21/10/2024;Sensores / DataLogger;Anemo1 e Baro com picos esporádicos, dados sendo deletados, normalizada por falta de recorrência;19/10/2024;19/10/2024;0;Normalizada
+DT702;Alta;21/10/2024;Comunicação SCADA;Bateria do sistema SCADA em falha total;21/10/2024;29/10/2024;8;Normalizada
+VDB14;Alta;21/10/2024;Falha de Comunicação;Sistema principal de alimentação com valores muito inferiores a 12V;19/10/2024;11/12/2024;53;Normalizada
+DT101;Alta;25/10/2024;Falha de Comunicação;Torre sem comunicação;25/10/2024;30/10/2024;5;Normalizada
+LAJ03;Alta;28/10/2024;Sensores / DataLogger;Trocar Bateria de Lítio do Logger;28/10/2024;29/11/2024;32;Normalizada
+PBA01;Alta;04/11/2024;Falha de Comunicação;Torre sem comunicação;03/11/2024;07/11/2024;4;Normalizada
+LAJ09;Alta;04/11/2024;Falha de Comunicação;Bateria principal com valores < 12 Volts;04/11/2024;07/11/2024;3;Normalizada
+CHU07;Alta;04/11/2024;Sensores / DataLogger;TH em falha geral;02/11/2024;16/11/2024;14;Normalizada
+HER28;Media;04/11/2024;Sensores / DataLogger;Baro com picos esporádicos. dados não considerados;01/11/2024;16/11/2024;15;Normalizada
+ASD12;Alta;08/10/2024;Sensores / DataLogger;Piranômetro 1 medindo abaixo do esperado. verificar em campo antes de aplicarmos flag de inválido;06/11/2024;21/11/2024;15;Normalizada
+DT702;Media;08/11/2024;Comunicação SCADA;Bateria de comunicação SCADA com queda de tensão.;07/11/2024;19/11/2024;12;Normalizada
+GNW01;Media;04/11/2024;Sensores / DataLogger;Anemometer 1B is showing intermitent inconsistent values.;02/11/2024;07/12/2024;35;Normalizada
+ASD07;Baixa;11/11/2024;Sensores / DataLogger;"Anemômetro 1 e 2 em falha intermitente. ocorrências em 08/11, 09/11, 18/11, 24/12, 29/12, 03/01, 04/01, 08/02, 25/02, 22/03, 15/04.
+Verificação em 08/04 constatou indícios de sujeira de aves nos braços de Anemômetros, o que pode justificar as falhas ocasionais, com aves interferindo no movimento do sensor.";08/11/2024;08/04/2025;151;Normalizada
+ASD08;Alta;11/11/2024;Sensores / DataLogger;Anemômetro 2 com falha esporádica, ocorrência em 08/11.;08/11/2024;08/11/2024;0;Normalizada
+ASU02;Media;11/11/2024;Comunicação SCADA;Bateria de comunicação com queda de tensão abrupta.;11/11/2024;;497;Normalizada
+ASD13;Alta;11/11/2024;Sensores / DataLogger;LIDAR com baixa disponibilidade de dados. Precisa verificar a limpeza da lente e o nível de agua do sistema.;10/11/2024;26/11/2024;16;Normalizada
+PBA01;Alta;11/11/2024;Sensores / DataLogger;Bateria principal com queda severa;07/11/2024;12/11/2024;5;Normalizada
+GND06;Media;11/11/2024;Sensores / DataLogger;Abnormal readings for Anemometer 4B;11/11/2024;07/12/2024;26;Normalizada
+LAJ03;Alta;12/11/2024;Falha de Comunicação;Sem comunicação.;10/11/2024;16/11/2024;6;Normalizada
+LAJ02;Alta;13/11/2024;Comunicação SCADA;Queda de tensão da bateria com falha de comunicação durante a noite;11/11/2024;21/11/2024;10;Normalizada
+DT303;Media;14/11/2024;Sensores / DataLogger;Barômetro apresentando ruído.;01/10/2024;20/03/2025;170;Normalizada
+ASD14;Alta;14/11/2024;Sensores / DataLogger;Falha na medição da Windvane 1.;12/11/2024;15/11/2024;3;Normalizada
+ASD12;Alta;18/11/2024;Falha de Comunicação;Torre sem comunicação;15/11/2024;21/11/2024;6;Normalizada
+ART01;Media;18/11/2024;Sensores / DataLogger;Piranometro 3 com medições divergente do piranômetro 1 e albedômetro.;14/11/2024;17/12/2024;33;Normalizada
+GER10;Alta;18/11/2024;Sensores / DataLogger;Temperatura medindo fora do esperado e Umidade inconsistente.  dados não considerados;17/11/2024;18/11/2024;1;Normalizada
+VDB09;Media;18/11/2024;Sensores / DataLogger;Inconsistência esporádica dos 3 anemômetros e TH. Normalizada por falta de recorrência;15/11/2024;17/12/2024;32;Normalizada
+LAJ01;Alta;19/11/2024;Falha de Comunicação;Torre sem comunicação;18/11/2024;19/11/2024;1;Normalizada
+ASD09;Alta;21/11/2024;Falha de Comunicação;Torre sem comunicação;19/11/2024;24/11/2024;5;Normalizada
+ASU04;Alta;21/11/2024;Falha de Comunicação;Torre sem comunicação;19/11/2024;25/11/2024;6;Normalizada
+ASD14;Alta;22/11/2024;Falha de Comunicação;Torre sem comunicação;21/11/2024;03/12/2024;12;Normalizada
+ASU05;Alta;21/11/2024;Sensores / DataLogger;Falha na Windvane 2;18/11/2024;22/11/2024;4;Normalizada
+AS404;Media;25/11/2024;Sensores / DataLogger;"Anemômetro 1 em falha intermitente, recorrência em 12/12, 28/12, 29/12
+Na data do dia 21-01-2025 foi realizada a verificação e substituição da DPS do sensor.";24/11/2024;21/01/2025;58;Normalizada
+ASD05;Alta;25/11/2024;Sensores / DataLogger;Anemômetro 1 em falha total;25/11/2024;02/12/2024;7;Normalizada
+ASU02;Media;25/11/2024;Sensores / DataLogger;Falha de alimentação gerando falhas no TH e Baro.;25/11/2024;20/01/2025;56;Normalizada
+LAJ02;Alta;25/11/2024;Falha de Comunicação;Torre sem comunicação;23/11/2024;29/11/2024;6;Normalizada
+LAJ03;Alta;25/11/2024;Falha de Comunicação;Torre sem comunicação;23/11/2024;29/11/2024;6;Normalizada
+COL01;Media;25/11/2024;Falha de Comunicação;Bateria principal com baixa carga e valores > 12 V;21/11/2024;10/12/2024;19;Normalizada
+ASD14;Alta;27/11/2024;Sensores / DataLogger;TH 1 com medição inconsistente intermitente;23/11/2024;13/12/2024;20;Normalizada
+CER06;Alta;25/11/2024;Falha de Comunicação;Baterias com baixa tensão, torre pode morrer a qualquer momento;23/11/2024;03/12/2024;10;Normalizada
+HER28;Alta;28/11/2024;Falha de Comunicação;Bateria principal com queda de tensão e perda de dados;28/11/2024;;480;Normalizada
+HER29;Media;28/11/2024;Sensores / DataLogger;Picos esporádicos no Baro, dados desconsiderados;25/11/2024;;483;Normalizada
+AS506;Media;02/12/2024;Sensores / DataLogger;Desalinhamento entre WindVanes 1 e 2 em relação a 3;25/11/2024;03/02/2025;70;Normalizada
+ASD12;Media;02/12/2024;Sensores / DataLogger;Afundamento do Higrômetro 2. Normalizada por falta de ocorrência;26/11/2024;17/12/2024;21;Normalizada
+PEC01;Alta;09/12/2024;Sensores / DataLogger;Divergência de medição entre WV1 e WV2. WV2 aparentemente em falha. Normalizada sem atuação.;03/12/2024;10/12/2024;7;Normalizada
+LAJ02;Alta;09/12/2024;Sensores / DataLogger;Afundamento da Bateria 1;06/12/2024;13/12/2024;7;Normalizada
+CHU02;Alta;11/12/2024;Sensores / DataLogger;Torre sem comunicação após a troca de estrutura.;13/11/2024;15/01/2025;63;Normalizada
+CHU04;Alta;11/12/2024;Sensores / DataLogger;Torre sem comunicação após a troca de estrutura.;09/11/2024;15/01/2025;67;Normalizada
+GER01;Alta;11/12/2024;Falha de Comunicação;Torre sem comunicação;06/12/2024;10/01/2025;35;Normalizada
+HER30;Alta;11/12/2024;Sensores / DataLogger;Torre sem comunicação após a troca de estrutura.;10/11/2024;15/01/2025;66;Normalizada
+LAJ03;Alta;11/12/2024;Falha de Comunicação;Torre sem comunicação;09/12/2024;13/12/2024;4;Normalizada
+AS405;Media;12/12/2024;Sensores / DataLogger;Anemômetro 1 com falha intermitente. Na data do dia 21-01-2025 foi realizada a verificação e substituição da DPS do sensor.;11/12/2024;21/01/2025;41;Normalizada
+TBR03;Baixa;12/12/2024;Sensores / DataLogger;Barômetro com ruídos.;05/12/2024;23/01/2025;49;Normalizada
+VDB23;Urgente;12/12/2024;Sensores / DataLogger;Temperatura com valores inconsistentes;11/12/2024;16/12/2024;5;Normalizada
+DT304;Alta;17/12/2024;Sensores / DataLogger;Falha Geral para TH;17/12/2024;17/12/2024;0;Normalizada
+ASD09;Baixa;17/12/2024;Sensores / DataLogger;Falha esporádica para anemômetro 1, ocorrência única em 12/12.;12/12/2024;12/12/2024;0;Normalizada
+ASU04;Media;17/12/2024;Sensores / DataLogger;Bateria principal com quedas de tensão;11/12/2024;20/12/2024;9;Normalizada
+GER04;Alta;17/12/2024;Falha de Comunicação;Torre sem comunicação;14/12/2024;;464;Normalizada
+LAJ09;Alta;18/12/2024;Falha de Comunicação;bateria com baixo nível de tensão;16/12/2024;20/12/2024;4;Normalizada
+ASU07;Alta;19/12/2024;Comunicação SCADA;Bateria do SCADA com queda de tensão;18/12/2024;23/12/2024;5;Normalizada
+LAJ01;Alta;23/12/2024;Comunicação SCADA;Bateria do sistema de comunicação valores menores que 12 volts;19/12/2024;16/01/2025;28;Normalizada
+COL01;Alta;23/12/2024;Sensores / DataLogger;Bateria principal com baixo nível de tensão;22/12/2024;14/01/2025;23;Normalizada
+LAJ03;Alta;26/12/2024;Falha de Comunicação;Torre sem comunicação;24/12/2024;26/12/2024;2;Normalizada
+LAJ03;Alta;26/12/2024;Sensores / DataLogger;WV2, Baro e Anemo3 não voltaram a funcionar após a troca do logger;26/12/2024;26/12/2024;0;Normalizada
+VDB23;Media;26/12/2024;Sensores / DataLogger;Falha Esporádica para TH. Intervenções realizadas em 12/03/2025 e 02/04/2025. Durante os dias 02 e 04/04 havia inversão nos canais de temperatura e umidade, normalizadas.;22/12/2024;04/04/2025;103;Normalizada
+DIA02;Alta;02/01/2024;Sensores / DataLogger;Anemômetro 1 com falha esporádica, ocorrência em 31/12, 31/01/25;31/12/2024;26/02/2025;57;Normalizada
+CHU02;Alta;01/01/2025;Falha de Comunicação;Bateria marcando zero, não funcionando;;;0;Normalizada
+LAJ03;Alta;10/01/2025;Sensores / DataLogger;Windvane1 em falha geral. 17/01: manutenção realizada, substituindo o cabo, que tinha uma emenda.;07/01/2025;17/01/2025;10;Normalizada
+ASU05;Alta;13/01/2025;Falha de Comunicação;Falha de coleta, falha de GRID no parque ASU05;12/01/2025;12/01/2025;0;Normalizada
+GND02;Alta;13/01/2025;Falha de Comunicação;Communication failure.;07/01/2025;;440;Normalizada
+GND04;Alta;13/01/2025;Falha de Comunicação;Communication failure.;10/01/2025;;437;Normalizada
+ASD09;Media;14/01/2025;Falha de Comunicação;Falha de comunicação. Ping falhando a partir de CER06, sem coleta.;12/01/2025;23/01/2025;11;Normalizada
+ASD12;Alta;14/01/2025;Sensores / DataLogger;Falha nas medições do Hygrometer 2, próximas de 0 com variações bruscas. Foi realizado uma intervenção em 20 e 21/01/2025 e foi ajustado o encaixe da borneira do Logger.;12/01/2025;21/01/2025;9;Normalizada
+PEC01;Alta;14/01/2025;Falha de Comunicação;Falha de comunicação. Ping não funcionando a partir dos APs de CER06;12/01/2025;23/01/2025;11;Normalizada
+TBR01;Alta;14/01/2025;Comunicação SCADA;Falha na comunicação SCADA, impactando dashboards de tempo real do cluster.;14/01/2025;18/01/2025;4;Normalizada
+LAJ01;Alta;14/01/2025;Falha de Comunicação;Falha total no Anemo3. Em 16/01, foi realizado uma verificação e a falha normalizou sozinha. Monitorar se a falha persiste.;12/01/2025;16/01/2025;4;Normalizada
+CHU06;Alta;16/01/2025;Falha de Comunicação;Falha de comunicação e atraso de coleta. 30/01: operacional verificou que o DL encontrava-se desligado, o que também tinha acontecido outras vezes no passado. Após religar, comunicação foi restabelecida.;05/01/2025;30/01/2025;25;Normalizada
+ASD12;Alta;16/01/2025;Sensores / DataLogger;Medições inconsistentes marcadas pelo Anemo2, com muitos valores próximos à 0. Foi verificado no dia 20/01/2025 que a borneira estava com folga e foi ajustada o encaixe no Logger.;11/01/2025;20/01/2025;9;Normalizada
+GER01;Alta;16/01/2025;Comunicação SCADA;Bateria marcando valores abaixo de 12v;06/12/2024;;472;Normalizada
+GER01;Alta;16/01/2025;Sensores / DataLogger;Falha total no anemo1;06/12/2024;17/01/2025;42;Normalizada
+GER01;Alta;16/01/2025;Sensores / DataLogger;Ruído e inconsistências nas medições das WVs;06/12/2024;18/01/2025;43;Normalizada
+GER04;Alta;16/01/2025;Comunicação SCADA;Bateria com voltagem abaixo de 12v;10/01/2025;29/01/2025;19;Normalizada
+LAJ01;Media;16/01/2025;Falha de Comunicação;Comunicação com a torre apresentando latência alta e perda de pacotes.;16/01/2025;12/02/2025;27;Normalizada
+LAJ03;Urgente;17/01/2025;Sensores / DataLogger;Inversão entre os canais do TH, após intervenção de 17/01/2025.;17/01/2025;20/01/2025;3;Normalizada
+HER30;Alta;21/01/2025;Sensores / DataLogger;Anemômetro 2 com variações de amplitude, ocorrência 16/01, 18/01. se tornou constante a partir de 01/02;16/01/2025;20/02/2025;35;Normalizada
+DT302;Alta;21/01/2025;Comunicação SCADA;Afundamento das medições da bateria;19/01/2025;07/02/2025;19;Normalizada
+PPA01;Alta;21/01/2025;Comunicação SCADA;Afundamento de tensão da bateria abaixo de 12v;17/01/2025;;430;Normalizada
+CHU07;Alta;21/01/2025;Falha de Comunicação;Torre sem comunicação;20/01/2025;23/01/2025;3;Normalizada
+GER09;Alta;22/01/2025;Falha de Comunicação;Torre sem comunicação.;18/01/2025;;429;Normalizada
+ASD14;Alta;22/01/2025;Falha de Comunicação;Torre sem comunicação.;12/01/2025;23/01/2025;11;Normalizada
+AS405;Media;23/01/2025;Sensores / DataLogger;Falha intermitente no anemo1, anemo vertical, termo-higromêtro e barômetro. Ocorrência dia 21/01/2025. Essa pendencia não existiu devido a intermitência ter sido uma intervenção em campo pelo time.;21/01/2025;21/01/2025;0;Normalizada
+ASU04;Alta;24/01/2025;Sensores / DataLogger;Afundamentos intermitentes nas medições do ANM 1 e ANM 2. Ocorrências em 07/01, 23/01, 30/01, 20/02, 02/03. Em 08-03-2025 identificamos que aves estão pousando em cima dos sensores fotos disponíveis em rede!;07/01/2025;08/03/2025;60;Normalizada
+GER04;Alta;28/01/2025;Falha de Comunicação;Torre sem comunicação. 29/01: operacional identificou a presença de ninhos em cima do painel solar, com presença de ovos.;23/01/2025;29/01/2025;6;Normalizada
+CER19;Urgente;28/01/2025;Sensores / DataLogger;Medições em zero no higrômetro, termômetro, barômetro, anemo2 e WVs;27/01/2025;05/02/2025;9;Normalizada
+TBR01;Alta;28/01/2025;Comunicação SCADA;Bateria abaixo de 12v;27/01/2025;;420;Normalizada
+LAJ09;Alta;30/01/2025;Sensores / DataLogger;Sistema de alimentação principal apresentando valores abaixo de 12V.;30/01/2025;;417;Normalizada
+GER07;Baixa;30/01/2025;Sensores / DataLogger;Ruído intermitente no barômetro. Ocorrências em 26/01, 29/01, 02/02, 03/02, 25/02.;26/01/2025;18/02/2025;23;Normalizada
+HER36;Alta;30/01/2025;Comunicação SCADA;Queda progressiva na tensão de alimentação do sistema de comunicação.;25/01/2025;;422;Normalizada
+DT307;Urgente;24/01/2025;Falha de Comunicação;Falha de comunicação total. Acesso ao conversor de protocolo normal, mas DL sem resposta. Intervenção programada para substituir o DL.;24/01/2025;;423;Normalizada
+DT102;Media;30/01/2025;Sensores / DataLogger;Ruído intermitente nas medições do higrômetro.;25/01/2025;26/01/2025;1;Normalizada
+GER09;Alta;03/02/2025;Sensores / DataLogger;Ruido expressivo no Barômetro;27/01/2025;18/02/2025;22;Normalizada
+LAJ05;Alta;03/02/2025;Comunicação SCADA;Bateria do sistema de comunicação com queda de tensão. Realizada a verificação sistema alimentação 12v e substituição da bateria 2 na data do dia 10-02-2025.;02/02/2025;10/02/2025;8;Normalizada
+TBR01;Media;03/02/2025;Sensores / DataLogger;Ruido com falha esporádica, valores iguais ao offset do sensor.;30/01/2025;;417;Normalizada
+GER07;Alta;05/02/2025;Falha de Comunicação;Torre sem comunicação.;03/02/2025;20/02/2025;17;Normalizada
+LAJ05;Alta;05/02/2025;Falha de Comunicação;Falha de comunicação na torre.;04/02/2025;;412;Normalizada
+AS402;Alta;07/02/2025;Sensores / DataLogger;Falha total no Anemo3 e inconsistência das medições de WV2. Na data do dia06-02-2025 foi realizado a desativação do sensor.;06/02/2025;06/02/2025;0;Normalizada
+DT304;Urgente;10/02/2025;Sensores / DataLogger;Torre com possível falha do logger ou cartão de memória. Perda geral de dados;07/02/2025;12/02/2025;5;Normalizada
+DIA03;Baixa;11/02/2025;Sensores / DataLogger;Afundamento das medições do Anemo 1. Ocorrência 07/02;07/02/2025;07/02/2025;0;Normalizada
+HER36;Alta;11/02/2025;Comunicação SCADA;Bateria marcando valores próximos de 0v;;;0;Normalizada
+GER01;Media;14/02/2025;Sensores / DataLogger;Tensão de alimentação principal apresentando queda progressiva. Valores abaixo de 12V em 13/02.;13/02/2025;;403;Normalizada
+TBR03;Baixa;14/02/2025;Sensores / DataLogger;Termômetro apresentando ruído intermitente.;14/02/2025;06/03/2025;20;Normalizada
+HER31;Alta;17/02/2025;Falha de Comunicação;Torre sem comunicação;14/02/2025;;402;Normalizada
+HER36;Alta;17/02/2025;Falha de Comunicação;Torre sem comunicação;11/02/2025;19/02/2025;8;Normalizada
+AS503;Media;21/02/2025;Sensores / DataLogger;Afundamento intermitente nas medições dos anemômetros 2 e 3. Ocorrência dia 20/02.Em 26-02-2025 identificamos que aves estão pousando em cima dos sensores fotos disponíveis em rede!;20/02/2025;26/02/2025;6;Normalizada
+DT302;Media;24/02/2025;Comunicação SCADA;Comunicação com ONS oscilando. Sinal da bateria OK, verificar controladora de carga e conversor de protocolo;19/02/2025;13/03/2025;22;Normalizada
+CPS02;Alta;25/02/2025;Sensores / DataLogger;Valores inconsistentes da WV2 em relação a WV1;19/02/2025;11/03/2025;20;Normalizada
+CHU06;Alta;26/02/2025;Falha de Comunicação;Torr sem comunicação;24/02/2025;04/03/2025;8;Normalizada
+AS505;Alta;28/02/2025;Falha de Comunicação;Tensão de alimentação do sistema de comunicação caindo progressivamente. Time esteve ao local em 01-03-2025 e identificou que a torre está sem 220.;23/02/2025;07/03/2025;12;Normalizada
+CAP03;Urgente;28/02/2025;Sensores / DataLogger;Falha geral nas medições dos ANM 3, Barômetro e TH, além da tensão de alimentação do DL.;26/02/2025;01/03/2025;3;Normalizada
+LAJ01;Urgente;28/02/2025;Sensores / DataLogger;Falha no sistema de alimentação, possivelmente a controladora de carga, causando o desligamento recorrente da torre no período noturno, gerando lacunas de dados.;23/02/2025;01/03/2025;6;Normalizada
+GER09;Alta;28/02/2025;Sensores / DataLogger;Tensão de alimentação apresentando queda progressiva.;25/02/2025;02/03/2025;5;Normalizada
+HER25;Media;28/02/2025;Sensores / DataLogger;Inconsistência nas medições do AN2, com ruído recorrente na mínima. Possível falha no cabo do sensor.;25/02/2025;10/03/2025;13;Normalizada
+GER01;Media;05/03/2025;Sensores / DataLogger;Bateria com valores menores que 12 V;05/03/2025;05/03/2025;0;Normalizada
+GER09;Media;05/03/2025;Sensores / DataLogger;Ruído no barômetro e higrômetro.;05/03/2025;03/06/2025;90;Normalizada
+HER29;Alta;05/03/2025;Sensores / DataLogger;Ruido no barômetro, dados não considerados;02/03/2025;08/03/2025;6;Normalizada
+DT304;Alta;05/03/2025;Comunicação SCADA;Bateria 2 com fortes quedas de tensão;05/03/2025;12/03/2025;7;Normalizada
+DT308;Alta;05/03/2025;Comunicação SCADA;Bateria de comunicação com queda expressiva de tensão;01/03/2025;12/03/2025;11;Normalizada
+COL01;Alta;28/02/2025;Falha de Comunicação;Torre sem comunicação devido a um rompimento de fibra;28/02/2025;12/03/2025;12;Normalizada
+CPS02;Alta;10/03/2025;Falha de Comunicação;Torre sem comunicação;07/03/2025;14/03/2025;7;Normalizada
+HER28;Alta;10/03/2025;Falha de Comunicação;Torre sem comunicação;08/03/2025;10/03/2025;2;Normalizada
+ART02;Alta;11/03/2025;Sensores / DataLogger;Medições de temperatura inconsistentes nas células calibradas (suja e limpa).;09/03/2025;01/04/2025;23;Normalizada
+AS505;Alta;11/03/2025;Comunicação SCADA;Bateria com tensão abaixo de 12v;05/03/2025;07/03/2025;2;Normalizada
+ASD08;Media;11/03/2025;Sensores / DataLogger;Falha intermitente nas medições do Anemo2. Ocorrência dia 09/03;09/03/2025;;379;Normalizada
+ASU04;Alta;11/03/2025;Sensores / DataLogger;Medições inconsistentes no Anemo 1 e 3. Ocorrência dia 08/03, 13/03, 21/03;08/03/2025;;380;Normalizada
+AS405;Baixa;14/03/2025;Sensores / DataLogger;Barômetro com comportamento inconsistente;07/03/2025;;381;Normalizada
+AS505;Media;14/03/2025;Falha de Comunicação;Bateria 2 com valores menores que 12 V;07/03/2025;28/03/2025;21;Normalizada
+DIA03;Media;14/03/2025;Comunicação SCADA;Falha no monitor de tensão. Verificação realizada no dia 31/03.;12/03/2025;31/03/2025;19;Normalizada
+GER01;Media;14/03/2025;Falha de Comunicação;Bateria principal com queda de tensão;12/03/2025;;376;Normalizada
+GER04;Media;14/03/2025;Falha de Comunicação;Bateria principal com quedas de tensão;12/03/2025;;376;Normalizada
+GND03;Media;17/03/2025;Sensores / DataLogger;Anemometer_2 showing mal function;15/03/2025;15/03/2025;0;Normalizada
+GND04;Media;17/03/2025;Sensores / DataLogger;Anemometer_1B is showing mal function;14/03/2025;;21;Falha Ativa
+CER06;Alta;17/03/2025;Falha de Comunicação;Radio Client que recebe do AP da ASD05 não responde.;15/03/2025;19/03/2025;4;Normalizada
+HER31;Alta;17/03/2025;Falha de Comunicação;Torre sem comunicação;15/03/2025;;373;Normalizada
+TBR01;Alta;19/03/2025;Falha de Comunicação;Torre sem comunicação;18/03/2025;20/03/2025;2;Normalizada
+TBR03;Alta;20/03/2025;Falha de Comunicação;Torre sem comunicação;19/03/2025;20/03/2025;1;Normalizada
+CPS02;Alta;20/03/2025;Falha de Comunicação;Torre sem comunicação;19/03/2025;21/03/2025;2;Normalizada
+DT502;Media;21/03/2025;Sensores / DataLogger;Inconsistências pontuais nas medições nos dias 19 e 21/03 em todos os sensores. Monitorar se há reincidência.;19/03/2025;;369;Normalizada
+TBR03;Alta;21/03/2025;Sensores / DataLogger;Após intervenção em 06/03/2025 para normalizar medições de temperatura, o canal de umidade passou a medir abaixo do esperado.;06/03/2025;07/07/2025;123;Normalizada
+GND03;Alta;21/03/2025;Sensores / DataLogger;Anemometer_2 showing bad function, with noise and abnormal readings.;15/03/2025;;373;Normalizada
+CER06;Alta;25/03/2025;Sensores / DataLogger;"Ruído expressivo nas medições máximas de temperatura, pressão e tensão da bateria
+Time substituiu o barômetro em 28/05 aguardando analise.";19/03/2025;;369;Normalizada
+AS503;Alta;26/03/2025;Falha de Comunicação;Torre sem comunicação / Não responde ao teste de comunicação.;24/03/2025;31/03/2025;7;Normalizada
+HER28;Alta;27/03/2025;Falha de Comunicação;Torre sem comunicação;25/03/2025;14/05/2025;50;Normalizada
+TBR03;Alta;27/03/2025;Falha de Comunicação;Torre sem comunicação;26/03/2025;;362;Normalizada
+HER26;Alta;28/03/2025;Sensores / DataLogger;Higrômetro marcando valores acima do esperado e em comparação a outras torres.;24/03/2025;;364;Normalizada
+DIA02;Media;01/04/2025;Sensores / DataLogger;Valores inconsistentes no anemômetro 1. Ocorrência dia 26/03, 29/03, 30/03, 11/04;26/03/2025;;362;Normalizada
+HER27;Alta;01/04/2025;Sensores / DataLogger;Período de falha total dos três anemômetros da torre, com oscilações bruscas nas medições;29/03/2025;14/04/2025;16;Normalizada
+HER27;Alta;01/04/2025;Comunicação SCADA;Curtos períodos de tensão abaixo de 12v;30/03/2025;;358;Normalizada
+TBR01;Baixa;01/04/2025;Sensores / DataLogger;Ruídos espaçados nas medições do barômetro 1. Em 13/06/2025 foi realizada intervenção, com troca dos terminais do sensor. Falha de baixa criticidade, pois impacta muito pouco as medições de média e de forma muito espaçada.;26/03/2025;;362;Normalizada
+DIA03;Alta;02/04/2025;Falha de Comunicação;Torre sem comunicação;01/04/2025;07/04/2025;6;Normalizada
+CAP03;Alta;04/04/2025;Sensores / DataLogger;Ruido extremo no TH e baixo nível da bateria;04/04/2025;04/04/2025;0;Normalizada
+CAP03;Alta;04/04/2025;Falha de Comunicação;Torre sem comunicação;04/04/2025;04/04/2025;0;Normalizada
+GER07;Media;04/04/2025;Sensores / DataLogger;Ruído no barômetro.;03/04/2025;25/06/2025;83;Normalizada
+GER04;Alta;09/04/2025;Sensores / DataLogger;Sistema de alimentação com baixa carga. quando não temos sol suficiente, perdendo os dados.;08/04/2025;;349;Normalizada
+DT305;Alta;09/04/2025;Sensores / DataLogger;WV1 parou de funcionar;07/04/2025;15/04/2025;8;Normalizada
+DIA02;Alta;11/04/2025;Falha de Comunicação;Coleta atrasada;10/04/2025;11/04/2025;1;Normalizada
+GER04;Alta;11/04/2025;Falha de Comunicação;Torre sem comunicação;10/04/2025;16/04/2025;6;Normalizada
+DT502;Alta;14/04/2025;Sensores / DataLogger;Controladora de carga de comunicação deixando passar pico de 15V.;10/04/2025;;347;Normalizada
+TBR03;Alta;14/04/2025;Falha de Alimentação;Controladora de carga de comunicação deixando passar pico de 15V.;10/04/2025;07/07/2025;88;Normalizada
+AS502;Alta;14/04/2025;Falha de Comunicação;Torre sem comunicação;11/04/2025;;346;Normalizada
+VDB13;Alta;14/04/2025;Falha de Comunicação;Torre sem comunicação;11/04/2025;16/04/2025;5;Normalizada
+VDB23;Alta;14/04/2025;Falha de Comunicação;Torre sem comunicação;11/04/2025;16/04/2025;5;Normalizada
+AS404;Media;15/04/2025;Sensores / DataLogger;Anemômetro 3 com falha intermitente. Ocorrência 11/04;11/04/2025;;346;Normalizada
+GER02;Media;15/04/2025;Sensores / DataLogger;Anemômetro 2 com valores inconsistentes de maneira intermitente, ocorrência 12/04;12/04/2025;;345;Normalizada
+GER01;Alta;15/04/2025;Falha de Alimentação;Bateria principal com queda de tensão;;09/07/2025;0;Normalizada
+HER25;Alta;15/04/2025;Falha de Comunicação;Anemômetro 2 com falha total;11/04/2025;17/04/2025;6;Normalizada
+HER27;Alta;15/04/2025;Sensores / DataLogger;Anemômetro 2 com falha total nas medições;09/04/2025;15/04/2025;6;Normalizada
+HER31;Alta;15/04/2025;Comunicação SCADA;Bateria 3 abaixo de 12v de tensão;13/04/2025;;344;Normalizada
+HER35;Urgente;09/04/2025;Sensores / DataLogger;Valores de máximas e mínimas inconsistentes para o anemômetro 1. Falha se intensificou no dia 11/05/25. Troca de cabo realizada no dia 22/05/25, monitorar medições após intervenção.;09/04/2025;;348;Normalizada
+ART03;Alta;22/04/2025;Comunicação SCADA;Quedas periódicas nas medições de tensão da bateria 1.;15/04/2025;;342;Normalizada
+AS405;Media;22/04/2025;Sensores / DataLogger;Anemômetro 1 e 2 com falha intermitente. Ocorrência 16/04, 27/04, 30/04;16/04/2025;;341;Normalizada
+ASD12;Media;22/04/2025;Sensores / DataLogger;Medições inconsistentes de precipitação no dia 20/04 e 24/04;20/04/2025;;337;Normalizada
+ASU04;Media;22/04/2025;Sensores / DataLogger;Medições inconsistentes de maneira intermitente no Anemômetro 1. Ocorrência 19/04, 20/04.;19/04/2025;;338;Normalizada
+GER01;Alta;22/04/2025;Falha de Comunicação;Falha de Comunicação, correlacionada com ocorrências de baixa tensão na bateria principal.;21/04/2025;16/05/2025;25;Normalizada
+GER04;Alta;22/04/2025;Sensores / DataLogger;Ruído nas medições do barômetro, correlacionado a falha de alimentação.;15/04/2025;04/06/2025;50;Normalizada
+GND02;Media;22/04/2025;Sensores / DataLogger;Anemometer 2 with inconsistent measurements;20/04/2025;03/10/2025;166;Normalizada
+VDB13;Alta;23/04/2025;Sensores / DataLogger;Windvane 1 em falha geral. Normalizada após intervenção em 25/04.;11/04/2025;25/04/2025;14;Normalizada
+HER25;Alta;25/04/2025;Sensores / DataLogger;Falha de alimentação, com queda progressiva na tensão de alimentação principal do Datalogger. Risco de desligamento da torre.;08/04/2025;14/05/2025;36;Normalizada
+HER25;Alta;28/04/2025;Falha de Comunicação;Torre sem comunicação. Não responde a ping. Em 14/05/2025 normalizou a comunicação, porém o DL estava sem o programa ou dados na memória, portanto foram perdidos os dados entre 26/04 e 14/05/2025.;26/04/2025;14/05/2025;18;Normalizada
+ART02;Alta;29/04/2025;Comunicação SCADA;Quedas periódicas nas medições de tensão da bateria 1.;22/04/2025;;335;Normalizada
+ASU04;Baixa;29/04/2025;Sensores / DataLogger;Anemômetros 1 e 2 marcando valores inconsistentes. Ocorrência 26/04, 27/04, 28/04, 30/04, 01/05. Correlacionado às aves no topo da torre.;26/04/2025;;331;Normalizada
+HER36;Alta;29/04/2025;Sensores / DataLogger;Ruídos severos no termômetro e higrômetro.;26/04/2025;19/05/2025;23;Normalizada
+HER36;Alta;02/05/2025;Sensores / DataLogger;Termo-higrômetro marcando valores inconsistentes.;30/04/2025;19/05/2025;19;Normalizada
+GND05;Alta;26/04/2025;Comunicação SCADA;Communication error. Normalized after Maurice intervention, with reset of the logger.;25/04/2025;09/05/2025;14;Normalizada
+ASD14;Baixa;06/05/2025;Sensores / DataLogger;Higrômetro 2 marcando valores acima do patamar;02/05/2025;15/09/2025;136;Normalizada
+ASU05;Baixa;06/05/2025;Sensores / DataLogger;Desalinhamento entre windvanes.;;;1002;Falha Ativa
+TBR03;Media;09/05/2025;Sensores / DataLogger;Ruído nas medições do termômetro e barômetro. Barômetro apresentando valores acima do esperado (em 21/01/2025 aumentou 4 hPa, e em 06/03/2025 aumentou 2 hPa).;21/01/2025;07/07/2025;167;Normalizada
+CER19;Alta;12/05/2025;Falha de Comunicação;A torre está comunicando, mas há falha no envio dos emails.;08/05/2025;13/05/2025;5;Normalizada
+ABO01;Alta;12/05/2025;Falha de Comunicação;Falha na comunicação da torre.;07/05/2025;23/05/2025;16;Normalizada
+GER07;Alta;12/05/2025;Falha de Comunicação;Falha de comunicação.;09/05/2025;12/05/2025;3;Normalizada
+HER24;Alta;08/05/2025;Falha de Comunicação;Falha de comunicação;07/05/2025;14/05/2025;7;Normalizada
+HER27;Alta;08/05/2025;Falha de Comunicação;Falha de comunicação;07/05/2025;14/05/2025;7;Normalizada
+GER01;Media;22/04/2025;Falha de Comunicação;Falha de comunicação;21/04/2025;;336;Normalizada
+HER29;Alta;08/05/2025;Falha de Comunicação;Falha de comunicação.;07/05/2025;14/05/2025;7;Normalizada
+VDB13;Baixa;13/05/2025;Sensores / DataLogger;Ruído nas medições do barômetro. Intervenção realizada em 21/05, acompanhar se as medições normalizam.;09/05/2025;21/05/2025;12;Normalizada
+ASD13;Media;13/05/2025;Sensores / DataLogger;Lidar apresentando perda de dados. Programar intervenção preventiva.;13/05/2025;04/06/2025;22;Normalizada
+CER06;Alta;13/05/2025;Falha de Comunicação;"Tensão de alimentação do sistema de comunicação está caindo. Agendar visita para verificar funcionamento, pois a torre é link para outras 5 torres, via rádio.
+Time substituiu a bateria em 28/05 junto com a controladora.";13/05/2025;;314;Normalizada
+CHU07;Alta;14/05/2025;Falha de Comunicação;Falha de comunicação. Dados para o ONS também estão indisponíveis.;12/05/2025;21/05/2025;9;Normalizada
+GER02;Alta;15/05/2025;Sensores / DataLogger;Trocar bateria de lithium do Datalogger.;15/05/2025;08/07/2025;54;Normalizada
+GER08;Alta;16/05/2025;Comunicação SCADA;Bateria 1 com quedas de tensão abaixo de 12v;14/05/2025;20/05/2025;6;Normalizada
+CHU06;Alta;19/05/2025;Falha de Comunicação;Falha de comunicação.;16/05/2025;30/05/2025;14;Normalizada
+ART03;Alta;20/05/2025;Falha de Alimentação;Quedas intermitentes nas tensões da bateria abaixo de 12v. Se tornaram mais constantes a partir do dia 21.;17/05/2025;01/07/2025;45;Normalizada
+ART03;Alta;20/05/2025;Sensores / DataLogger;Valores de temperatura inconsistentes. Intervenção realizada em 06/06/2025, monitorar medições.;17/05/2025;06/06/2025;20;Normalizada
+HER27;Alta;20/05/2025;Comunicação SCADA;Baterias 1 e 2 marcando tensão abaixo de 12v.;18/05/2025;;309;Normalizada
+HER29;Alta;20/05/2025;Sensores / DataLogger;Ruído nas medições do barômetro. Se intensificaram a partir do dia 16/07.;14/05/2025;;313;Normalizada
+DT302;Alta;20/05/2025;Comunicação SCADA;Tensão abaixo de 12v na bateria principal. Intervenção realizada em 02/06/2025, monitorar medições.;17/05/2025;02/06/2025;16;Normalizada
+VDB18;Alta;20/05/2025;Sensores / DataLogger;Higrômetro marcando valores inconsistentes. Intervenção em 22/05/25, monitorar dados.;16/05/2025;22/05/2025;6;Normalizada
+GER09;Media;23/05/2025;Sensores / DataLogger;Cabo do TH está com emendas e já apresenta novos pontos de rompimento por conta dos pássaros na torre. Realizar troca do cabo.;23/05/2025;;9;Falha Ativa
+ART02;Media;23/05/2025;Sensores / DataLogger;Divergência entre as medições dos piranômetros.;21/05/2025;;306;Normalizada
+ART02;Media;23/05/2025;Falha de Alimentação;Valores de tensão intermitentes marcando abaixo de 12v na bateria 1.;21/05/2025;01/07/2025;41;Normalizada
+DIA03;Alta;26/05/2025;Falha de Comunicação;Torre sem comunicação;23/05/2025;26/05/2025;3;Normalizada
+GER07;Alta;26/05/2025;Falha de Comunicação;Torre sem comunicação;24/05/2025;24/05/2025;0;Normalizada
+HER30;Alta;26/05/2025;Falha de Comunicação;Torre sem comunicação, comunicação proveniente de radio na HER35;24/05/2025;17/06/2025;24;Normalizada
+HER35;Alta;26/05/2025;Falha de Comunicação;Torre sem comunicação;24/05/2025;;303;Normalizada
+GER04;Alta;27/05/2025;Sensores / DataLogger;Anemo2 parou de funcionar. Em 05/06/2025 foi realizada intervenção, normalizando as medições.;25/05/2025;05/06/2025;11;Normalizada
+VDB23;Media;27/05/2025;Sensores / DataLogger;Anemo2 apresentando alguns picos de valor mínimo igual a zero.;22/05/2025;10/06/2025;19;Normalizada
+CER19;Media;29/05/2025;Sensores / DataLogger;Energy Assessment indicou que a direção predominante do vento está fora do esperado (direção predominante esperada 112º, direção predominante medida 90º). Realizar verificação de alinhamento do norte da WV com procedimento de alinhamento manual, e realizar revisão do georreferencimento.;29/05/2025;;1199;Falha Ativa
+GER04;Media;30/05/2025;Comunicação SCADA;Bateria 1 com tensão abaixo de 12v nos dias 28 e 29/05;28/05/2025;;299;Normalizada
+HER36;Alta;30/05/2025;Comunicação SCADA;Bateria 1 e 2 com desligamentos intermitentes quando atingem tensão de 11v.;26/05/2025;31/05/2025;5;Normalizada
+DT302;Alta;30/05/2025;Sensores / DataLogger;Anemômetro 3 com falha total. Intervenção realizada em 02/06/2025, monitorar medições.;28/05/2025;02/06/2025;5;Normalizada
+HER28;Alta;02/06/2025;Falha de Comunicação;Bateria 2 desligada.;01/06/2025;18/06/2025;17;Normalizada
+DT501;Urgente;05/06/2025;Sensores / DataLogger;Falha no cartão de memória com perda de dados;02/06/2025;17/06/2025;15;Normalizada
+DT306;Alta;05/06/2025;Sensores / DataLogger;Falha no cartão de memória;02/06/2025;17/06/2025;15;Normalizada
+TBR01;Urgente;05/06/2025;Falha de Comunicação;Torre sem comunicação. Torre que envia dados para o SCADA;04/06/2025;13/06/2025;9;Normalizada
+VDB13;Alta;06/06/2025;Falha de Comunicação;Torre sem comunicação. Não responde a ping.;05/06/2025;10/06/2025;5;Normalizada
+HER35;Alta;06/06/2025;Falha de Comunicação;Torre não responde a ping.;05/06/2025;17/06/2025;12;Normalizada
+HER30;Alta;06/06/2025;Falha de Comunicação;Torre não responde a ping.;05/06/2025;17/06/2025;12;Normalizada
+ART03;Alta;06/06/2025;Sensores / DataLogger;Valores nas medições do higrômetro inconsistentes.;02/06/2025;06/06/2025;4;Normalizada
+ASU07;Alta;06/06/2025;Comunicação SCADA;Bateria 2 parou de funcionar. A partir do dia 9, parece ter normalizado.;05/06/2025;09/06/2025;4;Normalizada
+CER06;Urgente;06/06/2025;Comunicação SCADA;Bateria 2 marcando valores abaixo de 0v.;02/06/2025;12/06/2025;10;Normalizada
+ART01;Media;10/06/2025;Sensores / DataLogger;Valores inconsistentes de medição da mínima da WV1. Foi feito o alinhamento da WV1, acompanhar.;;01/07/2025;0;Normalizada
+CER06;Urgente;09/06/2025;Falha de Comunicação;Torre sem comunicação e não responde a ping, devido desligamento da bateria 2. Também está travando a comunicação de outras torres via rádio.;07/06/2025;12/06/2025;5;Normalizada
+CHU09;Alta;01/07/2025;Sensores / DataLogger;Falha geral nas medições do anemômetro 2.;30/06/2025;08/07/2025;8;Normalizada
+AS501;Alta;11/06/2025;Falha de Comunicação;Falha de Comunicação;10/06/2025;14/06/2025;4;Normalizada
+CHU04;Alta;11/06/2025;Falha de Comunicação;Torre sem comunicação;10/06/2025;;286;Normalizada
+HER28;Alta;11/06/2025;Falha de Comunicação;Torre sem comunicação;07/06/2025;18/06/2025;11;Normalizada
+LAJ09;Alta;11/06/2025;Falha de Comunicação;Torre sem comunicação;07/06/2025;16/06/2025;9;Normalizada
+ASU07;Alta;16/06/2025;Falha de Comunicação;Torre sem comunicação;14/06/2025;16/06/2025;2;Normalizada
+GER04;Alta;17/06/2025;Falha de Alimentação;Bateria 1 marcando valores abaixo de 12v.;15/06/2025;;281;Normalizada
+HER27;Media;17/06/2025;Comunicação SCADA;Bateria 1 marcando valores abaixo de 12v de maneira intermitente.;15/06/2025;;281;Normalizada
+DT302;Alta;17/06/2025;Comunicação SCADA;Bateria 2 marcando valores abaixo de 12x.;14/06/2025;19/06/2025;5;Normalizada
+TBR03;Alta;17/06/2025;Sensores / DataLogger;Valores de medição do barômetro acima do esperado e muito elevado comparado a outras torres próximas.;13/06/2025;07/07/2025;24;Normalizada
+GER04;Alta;18/06/2025;Falha de Comunicação;Torre sem comunicação;18/06/2025;18/06/2025;0;Normalizada
+GER07;Alta;18/06/2025;Falha de Comunicação;Torre sem comunicação;16/05/2025;26/06/2025;41;Normalizada
+VDB14;Media;18/06/2025;Sensores / DataLogger;Anemômetro principal com picos no valor máximo;01/06/2025;;295;Normalizada
+CHU09;Alta;20/06/2025;Falha de Comunicação;Falha de comunicação.;18/06/2025;26/06/2025;8;Normalizada
+CAP03;Alta;20/06/2025;Falha de Comunicação;Torre sem comunicação.;19/06/2025;;277;Normalizada
+CHU05;Media;20/06/2025;Falha de Comunicação;Torre com falha de comunicação intermitente.;19/06/2025;08/07/2025;19;Normalizada
+CHU04;Alta;20/06/2025;Comunicação SCADA;Bateria 1 marcando valores abaixo de 12v.;18/06/2025;30/06/2025;12;Normalizada
+CHU06;Alta;20/06/2025;Comunicação SCADA;Queda intermitente progressiva da bateria 1, marcando valores abaixo de 12v. Analisar se irá persistir/agravar.;19/06/2025;30/06/2025;11;Normalizada
+HER28;Alta;20/06/2025;Falha de Alimentação;Bateria 1 abaixo de 12v.;19/06/2025;11/07/2025;22;Normalizada
+VDB14;Media;20/06/2025;Sensores / DataLogger;Windvane 1 com ruídos nas máximas e mínimas. Realizada a substituição do sensor na data 31-07-2025;12/06/2025;01/08/2025;50;Normalizada
+ART01;Media;24/06/2025;Sensores / DataLogger;O sensor Albedômetro_UP_Avg_1 está apresentando, de forma intermitente, valores divergentes em comparação com as células calibradas.;22/06/2025;01/07/2025;9;Normalizada
+GER10;Baixa;24/06/2025;Sensores / DataLogger;Ruídos nas medições de máxima e mínima do barômetro.;23/06/2025;09/07/2025;16;Normalizada
+CHU05;Alta;25/06/2025;Falha de Comunicação;Torre sem comunicação. Não responde a ping.;24/06/2025;08/07/2025;14;Normalizada
+ASU03;Alta;25/06/2025;Falha de Comunicação;Torre sem comunicação. Não responde a ping. WTG desenergizado para manutenção, manutenção finalizada na data do dia 30-06-25;24/06/2025;30/06/2025;6;Normalizada
+CAP03;Alta;27/06/2025;Falha de Comunicação;Torre sem comunicação. Substituição Datalogger (travamento NL121) 30-06-25.;26/06/2025;04/07/2025;8;Normalizada
+CHU09;Alta;27/06/2025;Sensores / DataLogger;Barômetro passou a medir inconsistente após intervenção, com valores acima do esperado comparado a outras torres.;25/06/2025;08/07/2025;13;Normalizada
+PPA01;Alta;01/07/2025;Falha de Comunicação;Torre sem comunicação com o tempo real. conexão está intermitente.;01/07/2025;02/07/2025;1;Normalizada
+TBR03;Alta;02/07/2025;Sensores / DataLogger;Falha no cartão de memória.;02/07/2025;08/07/2025;6;Normalizada
+HER35;Alta;03/07/2025;Falha de Comunicação;Falhas nas tentativas de coleta de maneira intermitente.;02/07/2025;11/07/2025;9;Normalizada
+AS506;Alta;04/07/2025;Falha de Alimentação;Queda nos valores de tensão da bateria 2 abaixo de 12v.;03/07/2025;08/07/2025;5;Normalizada
+VDB23;Alta;04/07/2025;Sensores / DataLogger;Anemo 2 com falhas esporádicas de dados. Sem sinais de ocorrência a partir do dia 11/07.;10/06/2025;11/07/2025;31;Normalizada
+TBR03;Alta;08/07/2025;Falha de Comunicação;Torre com falha de coleta.;07/07/2025;11/07/2025;4;Normalizada
+ART01;Baixa;19/06/2025;Sensores / DataLogger;Valores inconsistentes de medição da mínima da WV1. Foi feito o alinhamento da WV1.;;05/07/2025;0;Normalizada
+AS506;Urgente;08/07/2025;Falha de Comunicação;Falha de comunicação devido a falha de tensão na bateria 2.;07/07/2025;08/07/2025;1;Normalizada
+GER01;Alta;08/07/2025;Sensores / DataLogger;Windvane1, barômetro, termômetro e higrômetro pararam de funcionar.;04/07/2025;09/07/2025;5;Normalizada
+HER28;Alta;11/07/2025;Falha de Comunicação;Torre não responde a ping. Suspeita de falha de bateria.;10/07/2025;11/07/2025;1;Normalizada
+TBR03;Alta;11/07/2025;Falha de Alimentação;Bateria marcando valores abaixo de 12v.;04/07/2025;21/07/2025;17;Normalizada
+TBR03;Alta;11/07/2025;Sensores / DataLogger;Temperatura medindo de maneira inconsistente em relação as outras torres próximas.;04/07/2025;07/07/2025;3;Normalizada
+GND03;Media;11/07/2025;Sensores / DataLogger;Noise in the temperature readings of the GND03 main sensor.;05/07/2025;;261;Falha Ativa
+GND07;Alta;11/07/2025;Sensores / DataLogger;A sudden change in the measurement heater values from the albedometers and pyranometers was observed starting on the July, 7th after site intervention. The logger was reset and signal normalized;07/07/2025;11/07/2025;4;Normalizada
+VDB13;Media;11/07/2025;Sensores / DataLogger;Barômetro medindo valores acima de 910hPa de maneira intermitente. Realizada a substituição do sensor na data 30-07-2025;04/07/2025;;262;Normalizada
+CHU06;Alta;14/07/2025;Falha de Comunicação;Torre sem comunicação;13/07/2025;15/07/2025;2;Normalizada
+CHU06;Alta;16/07/2025;Falha de Comunicação;Torre com início de falha de coleta.;16/07/2025;17/07/2025;1;Normalizada
+GER04;Alta;16/07/2025;Falha de Comunicação;Início de falha de coleta.;16/07/2025;;250;Normalizada
+CHU04;Alta;16/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;13/07/2025;18/07/2025;5;Normalizada
+CHU06;Alta;16/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12.;12/07/2025;18/07/2025;6;Normalizada
+GER04;Alta;16/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v de maneira intermitente. Time Operacional realizou intervenção e substituiu a bateria e voltou a comunicação.;11/07/2025;29/07/2025;18;Normalizada
+GER10;Alta;16/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v de maneira intermitente. Em 29-jul-25 equipe Operacional realizou a substituição das baterias e adição de painel solar.;11/07/2025;29/07/2025;18;Normalizada
+HER31;Alta;16/07/2025;Sensores / DataLogger;Termo-higrômetro marcando valores inconsistentes.;11/07/2025;22/07/2025;11;Normalizada
+TBR01;Alta;16/07/2025;Falha de Alimentação;Bateria 2 com valores abaixo de 12v.;15/07/2025;16/07/2025;1;Normalizada
+TBR01;Alta;16/07/2025;Sensores / DataLogger;Ruídos severos no barômetro. Troca do medidor dia 15/07.;13/07/2025;15/07/2025;2;Normalizada
+TBR03;Alta;16/07/2025;Sensores / DataLogger;Ruído considerável nas medições do termômetro.;11/07/2025;;255;Falha Ativa
+ASD12;Baixa;18/07/2025;Sensores / DataLogger;Pluviômetro medindo valores acima do esperado e alta variação em um curto período de tempo.;17/07/2025;;249;Falha Ativa
+GER02;Alta;18/07/2025;Sensores / DataLogger;Falha total nas medições da WV1.;16/07/2025;22/07/2025;6;Normalizada
+GER06;Alta;22/07/2025;Sensores / DataLogger;Higrômetro 1 marcando valores inconsistentes.;10/07/2025;;256;Normalizada
+HER25;Media;18/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;18/07/2025;18/07/2025;0;Normalizada
+HER27;Alta;18/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;18/07/2025;18/07/2025;0;Normalizada
+HER31;Alta;18/07/2025;Falha de Alimentação;Valores de medição da bateria principal abaixo de 12v.;17/07/2025;22/07/2025;5;Normalizada
+HER28;Alta;18/07/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;17/07/2025;;249;Normalizada
+AS405;Baixa;22/07/2025;Sensores / DataLogger;Ruido nas medições do barômetro.  Realizado verificação, adequação conexão haste e troca DPS 01-08-2025.;15/07/2025;01/08/2025;17;Normalizada
+LAJ09;Baixa;22/07/2025;Sensores / DataLogger;Ruido leve no barômetro. Realizado verificação, adequação conexão haste e troca DPS 01-08-2025.;15/07/2025;01/08/2025;17;Normalizada
+CHU06;Baixa;22/07/2025;Sensores / DataLogger;Ruido na Temperatura;16/07/2025;24/07/2025;8;Normalizada
+HER27;Media;22/07/2025;Sensores / DataLogger;Anemômetro 2 com falha intermitente nas medições da mínima. Os dados apresentam uma intervenção no dia 17/08/2025;20/07/2025;17/08/2025;28;Normalizada
+VDB23;Media;22/07/2025;Sensores / DataLogger;Anemômetro 2 com falhas de medição intermitentes. Realizada a substituição do sensor na data 31-07-2025;21/07/2025;31/07/2025;10;Normalizada
+DT101;Alta;23/07/2025;Sensores / DataLogger;Falha total nas medições do higrômetro.;18/07/2025;30/07/2025;12;Normalizada
+ASD13;Alta;23/07/2025;Sensores / DataLogger;Limpador sendo utilizado de maneira exacerbada, necessidade de intervenção. Identificado que a lente está arranhada;;18/08/2025;0;Normalizada
+ASU07;Alta;25/07/2025;Sensores / DataLogger;Falha no barômetro, medindo valores inconsistentes.;25/07/2025;;241;Normalizada
+GER08;Urgente;25/07/2025;Sensores / DataLogger;Falha total nas medições de temperatura.;24/07/2025;15/08/2025;22;Normalizada
+HER28;Media;25/07/2025;Sensores / DataLogger;Barômetro marcou valores acima do esperado em 23/07, sensor substituído em 15/09. Estamos aguardando relatório de manutenção para normalizar a pendencia. em 24/09 sensor novamente medindo acima do patamar do nível do mar (1025 hPa);23/07/2025;15/09/2025;54;Normalizada
+GND04;Alta;25/07/2025;Sensores / DataLogger;Windvane 1 stopped working.;22/07/2025;;244;Falha Ativa
+PBA01;Alta;28/07/2025;Falha de Comunicação;Torre sem comunicação;25/07/2025;07/08/2025;13;Normalizada
+GER04;Alta;28/07/2025;Falha de Comunicação;Torre sem comunicação;26/07/2025;30/07/2025;4;Normalizada
+GER07;Urgente;29/07/2025;Sensores / DataLogger;Falha total nas medições da WV2. Intervenção no dia 16/08/2025. Aguardando mais dados para avaliar o alinhamento do sensor.;25/07/2025;16/08/2025;22;Normalizada
+HER28;Alta;30/07/2025;Falha de Alimentação;Torre com queda de bateria e perda de dados. ultimo valor <12 em 11/08/2025;25/07/2025;11/08/2025;17;Normalizada
+CHU04;Alta;30/07/2025;Falha de Alimentação;Tensão abaixo de 12v de maneira intermitente na bateria principal. Aparentemente uma intervenção no dia 20/08;24/07/2025;20/08/2025;27;Normalizada
+VDB09;Media;30/07/2025;Sensores / DataLogger;Ruído nas medições da máxima do higrômetro. normalizado por falta de recorrencia;24/07/2025;04/09/2025;42;Normalizada
+HER35;Alta;31/07/2025;Falha de Comunicação;Falha de comunicação.;30/07/2025;01/08/2025;2;Normalizada
+PPA01;Media;01/08/2025;Sensores / DataLogger;Cabo de aterramento do datalogger está rompido.;01/08/2025;13/10/2025;73;Normalizada
+GND05;Alta;04/08/2025;Sensores / DataLogger;Total failure of anemometer 1;30/07/2025;07/08/2025;8;Normalizada
+VDB14;Alta;04/08/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v;02/08/2025;10/09/2025;39;Normalizada
+PPA01;Alta;06/08/2025;Falha de Comunicação;Torre com falha de coleta e erro durante a tentativa de coleta manual.;05/08/2025;07/08/2025;2;Normalizada
+HER35;Alta;07/08/2025;Falha de Comunicação;Torre sem comunicação;06/08/2025;09/08/2025;3;Normalizada
+ART01;Baixa;08/08/2025;Sensores / DataLogger;Ruído nas medições de mínima da WindVane.;01/08/2025;;234;Normalizada
+ART02;Baixa;08/08/2025;Sensores / DataLogger;Ruído nas medições de mínima da WindVane.;01/08/2025;;234;Normalizada
+ASD13;Alta;08/08/2025;Sensores / DataLogger;Perda de dados intermitentes e constantes;;;0;Normalizada
+CHU07;Alta;08/08/2025;Sensores / DataLogger;"Falha Geral Barômetro. Valores de máxima e mínima inconsistentes no barômetro.
+sensor em falha geral a partir de 29/10/2025. voltou sozinho em 29/11. Precisa verificar, deve ser mal contato no cabo. Voltou a registrar falha.";02/08/2025;29/11/2025;119;Normalizada
+GER05;Media;08/08/2025;Sensores / DataLogger;Ruído nas medições de máximas e mínimas do termômetro de maneira intermitente. Normalizado por falta de recorrência;01/08/2025;19/09/2025;49;Normalizada
+BVI01;Media;08/08/2025;Sensores / DataLogger;Inconsistência intermitente nas medições de mínima do anemômetro 3;02/08/2025;02/09/2025;31;Normalizada
+DT501;Alta;08/08/2025;Falha de Comunicação;Torre sem comunicação;07/08/2025;12/08/2025;5;Normalizada
+CHU04;Alta;11/08/2025;Falha de Comunicação;Torre sem comunicação;10/08/2025;11/08/2025;1;Normalizada
+HER35;Media;12/08/2025;Falha de Alimentação;Quedas bruscas de tensão da bateria;08/08/2025;26/08/2025;18;Normalizada
+HER35;Alta;14/08/2025;Falha de Comunicação;Torre com falha de comunicação.;13/08/2025;15/08/2025;2;Normalizada
+HER35;Alta;18/08/2025;Falha de Comunicação;Falha de comunicação.;16/08/2025;26/08/2025;10;Normalizada
+ART01;Alta;18/08/2025;Falha de Alimentação;Bateria com queda de tensão forte. intervenção em 26/08;14/08/2025;26/08/2025;12;Normalizada
+DT303;Alta;18/08/2025;Falha de Alimentação;Bateria do sistema de comunicação abaixo de 12v, causando falha de comunicação no dia 04/12.;12/08/2025;;223;Falha Ativa
+GER09;Alta;18/08/2025;Sensores / DataLogger;Falha total do Barômetro e Termo-higrômetro;17/08/2025;15/09/2025;29;Normalizada
+GER10;Media;18/08/2025;Sensores / DataLogger;Falhas esporádicas para Anemômetro 1. Valores mínimos = 0;13/08/2025;26/08/2025;13;Normalizada
+PPA01;Alta;18/08/2025;Falha de Comunicação;Torre sem comunicação e sem resposta de ping;16/08/2025;25/08/2025;9;Normalizada
+HER28;Alta;20/08/2025;Sensores / DataLogger;Valores de pressão sendo medidos acima de 1025 hPa. dados fora da faixa de pressão. Necessário a troca do sensor.;13/08/2025;;222;Normalizada
+VDB23;Urgente;20/08/2025;Falha de Comunicação;Torre sem comunicação. A torre estava apresentando falhas de comunicação durante a noite e agora parou tudo.;20/08/2025;10/09/2025;21;Normalizada
+GER07;Alta;22/08/2025;Falha de Comunicação;Falha de coleta;20/08/2025;05/09/2025;16;Normalizada
+HER27;Alta;22/08/2025;Falha de Alimentação;Ambas as baterias apresentam queda de tensão com risco de parar o sistema;19/08/2025;;216;Normalizada
+ASD06;Alta;22/08/2025;Falha de Comunicação;Torre sem comunicação;21/08/2025;25/08/2025;4;Normalizada
+ASD07;Alta;22/08/2025;Falha de Comunicação;Torre sem comunicação;21/08/2025;28/08/2025;7;Normalizada
+ASD10;Alta;22/08/2025;Falha de Comunicação;Torre sem comunicação;21/08/2025;25/08/2025;4;Normalizada
+CER18;Alta;22/08/2025;Falha de Comunicação;Torre sem comunicação;21/08/2025;;214;Normalizada
+CER19;Alta;22/08/2025;Falha de Comunicação;Torre sem comunicação;21/08/2025;;214;Normalizada
+CHU04;Media;26/08/2025;Sensores / DataLogger;Ruído nas medições de mínima e máxima do anemômetro principal.;20/08/2025;23/09/2025;34;Normalizada
+DT701;Alta;26/08/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;24/08/2025;04/09/2025;11;Normalizada
+GNW01;Alta;26/08/2025;Sensores / DataLogger;Relative humidity consistently reading 100%RH;25/08/2025;26/08/2025;1;Normalizada
+DIA02;Alta;28/08/2025;Falha de Comunicação;Torre sem comunicação. Realizado a verificação WTG D-II-06 em corretiva sem energização, realizar bypass para WTG seguinte ou anterior.;27/08/2025;08/09/2025;12;Normalizada
+ASD10;Alta;01/09/2025;Falha de Comunicação;Torre sem comunicação.;31/08/2025;11/09/2025;11;Normalizada
+ASD06;Alta;01/09/2025;Falha de Comunicação;Torre sem comunicação.;31/08/2025;02/09/2025;2;Normalizada
+ASD07;Alta;01/09/2025;Falha de Comunicação;Torre sem comunicação.;31/08/2025;09/09/2025;9;Normalizada
+DT702;Alta;02/09/2025;Falha de Alimentação;Bateria da comunicação com queda brusca de tensão;29/08/2025;;206;Falha Ativa
+TBR01;Alta;02/09/2025;Falha de Alimentação;Bateria da comunicação com queda brusca de tensão;30/08/2025;04/12/2025;96;Normalizada
+VDB23;Urgente;02/09/2025;Sensores / DataLogger;Anemômetro 2 com falha intermitente. Realizado a troca do sensor.;29/08/2025;10/09/2025;12;Normalizada
+CHU02;Media;04/09/2025;Sensores / DataLogger;Windvane 1 com offset muito diferente da windvane 2, muito provável o sensor está mal fixado. Ajuste bruto feito no programa do logger;02/09/2025;04/09/2025;2;Normalizada
+CHU04;Alta;04/09/2025;Sensores / DataLogger;Falha Geral para o anemômetro 1. Até o dia 18 estava intermitente;04/09/2025;23/09/2025;19;Normalizada
+CHU06;Media;04/09/2025;Falha de Alimentação;Queda de tensão na bateria principal;04/09/2025;17/09/2025;13;Normalizada
+GER04;Media;04/09/2025;Falha de Alimentação;Bateria principal com queda de tensão, normalizada por falta de recorrência.;04/09/2025;13/09/2025;9;Normalizada
+HER25;Media;04/09/2025;Falha de Alimentação;Bateria principal com queda de tensão;04/09/2025;05/09/2025;1;Normalizada
+HER28;Media;04/09/2025;Falha de Alimentação;Bateria com queda de tensão;03/09/2025;15/09/2025;12;Normalizada
+GER02;Alta;05/09/2025;Falha de Comunicação;Torre sem comunicação;04/09/2025;15/09/2025;11;Normalizada
+LAJ02;Alta;05/09/2025;Falha de Comunicação;Torre sem comunicação.;05/09/2025;06/09/2025;1;Normalizada
+CHU09;Alta;08/09/2025;Sensores / DataLogger;"Máximas da WV2 com ruído e com lacunas de dados intermitentes.
+A partir do dia 15/10 falha total";30/08/2025;08/10/2025;39;Falha Ativa
+HER28;Alta;08/09/2025;Sensores / DataLogger;Barômetro com valores acima do patamar esperado.;04/09/2025;;200;Normalizada
+VDB09;Media;08/09/2025;Sensores / DataLogger;Ruído nas medições do higrômetro. Realizado a substituição do sensor.;04/09/2025;23/09/2025;19;Normalizada
+VDB14;Baixa;10/09/2025;Falha de Alimentação;Realizar substituição da bateria principal DF500 por uma bateria DF1500 ou superior. Adicionar ou substituir painel solar capacidade de geração pois atual não é adequado.;10/09/2025;23/09/2025;13;Normalizada
+AS506;Alta;12/09/2025;Falha de Comunicação;Torre sem comunicação;11/09/2025;10/10/2025;29;Normalizada
+HER25;Urgente;12/09/2025;Falha de Alimentação;Bateria principal com queda de tensão e perdas de dados;09/09/2025;;195;Falha Ativa
+VDB23;Alta;11/09/2025;Falha de Comunicação;Torre sem comunicação após a intervenção;10/09/2025;18/09/2025;8;Normalizada
+ASU05;Alta;16/09/2025;Sensores / DataLogger;Ruido severo no Termo-higrômetro e Barômetro com perda de dados.;14/09/2025;;190;Normalizada
+ASD06;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47 da ASD10.;17/09/2025;30/09/2025;13;Normalizada
+ASD10;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47.;17/09/2025;30/09/2025;13;Normalizada
+AS506;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação, não responde a ping.;17/09/2025;10/10/2025;23;Normalizada
+ASD07;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47 da ASD10.;17/09/2025;30/09/2025;13;Normalizada
+ASD11;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47 da ASD10.;17/09/2025;30/09/2025;13;Normalizada
+CER05;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47 da ASD10.;17/09/2025;30/09/2025;13;Normalizada
+ASD13;Alta;22/09/2025;Falha de Comunicação;Torre sem comunicação. Rádio sem comunicação a partir do client 10.75.91.47 da ASD10.;17/09/2025;30/09/2025;13;Normalizada
+ART01;Alta;23/09/2025;Sensores / DataLogger;"O Piranometro 3 está medindo abaixo do esperado entre as 13 e 15 horas. 
+fazer uma inspeção para verificar se tem algum sombreamento, ou desalinhamento do sensor.";01/09/2025;08/10/2025;37;Normalizada
+CHU09;Alta;23/09/2025;Sensores / DataLogger;Anemômetros 2 e 3 em falha geral;22/09/2025;08/09/2025;-14;Normalizada
+CHU09;Alta;23/09/2025;Sensores / DataLogger;Anemômetro 1 medindo valores inconsistentes;22/09/2025;08/09/2025;-14;Normalizada
+DIA02;Alta;26/09/2025;Falha de Comunicação;Falha de comunicação.;22/09/2025;30/09/2025;8;Normalizada
+GER09;Alta;26/09/2025;Falha de Comunicação;Falha de comunicação.;22/09/2025;10/10/2025;18;Normalizada
+CAP03;Urgente;26/09/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v, com ruído severo em todos os sensores.;25/09/2025;26/09/2025;1;Normalizada
+CHU01;Media;26/09/2025;Sensores / DataLogger;Barômetro marcando valores acima do patamar esperado. Dia 24 e 25, observar se vai manter recorrência.;24/09/2025;24/09/2025;0;Normalizada
+CHU02;Media;26/09/2025;Sensores / DataLogger;Barômetro marcando valores acima do patamar esperado. Dia 24 e 25, observar se vai manter recorrência.;24/09/2025;24/09/2025;0;Normalizada
+CHU04;Media;26/09/2025;Sensores / DataLogger;Barômetro marcando valores acima do patamar esperado. Dia 24 e 25, observar se vai manter recorrência.;24/09/2025;24/09/2025;0;Normalizada
+CHU06;Urgente;26/09/2025;Sensores / DataLogger;Falha total na medição de todos os anemômetros.;25/09/2025;08/09/2025;-17;Normalizada
+CHU06;Urgente;26/09/2025;Sensores / DataLogger;Medições inconsistentes das windvanes.;25/09/2025;08/10/2025;13;Normalizada
+VDB13;Media;26/09/2025;Sensores / DataLogger;Ruído nas medições de máxima do termômetro. Sensor não apresentando mais ruído.;22/09/2025;03/10/2025;11;Normalizada
+VDB27;Alta;26/09/2025;Falha de Comunicação;Bateria principal medindo abaixo de 12v. Realizada a substituição da bateria e controladora de carga.;23/09/2025;09/10/2025;16;Normalizada
+CAP03;Alta;29/09/2025;Falha de Comunicação;Falha na fibra de conexão.;29/09/2025;30/09/2025;1;Normalizada
+HER25;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;28/09/2025;18/12/2025;81;Normalizada
+ASD08;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;25/09/2025;06/10/2025;11;Normalizada
+ASD09;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;25/09/2025;06/10/2025;11;Normalizada
+ASD14;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;25/09/2025;06/10/2025;11;Normalizada
+PEC01;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;25/09/2025;06/10/2025;11;Normalizada
+CER06;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;24/09/2025;06/10/2025;12;Normalizada
+CER18;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;28/09/2025;30/09/2025;2;Normalizada
+CER19;Alta;30/09/2025;Falha de Comunicação;Falha de comunicação.;24/09/2025;06/10/2025;12;Normalizada
+PPA01;Alta;02/10/2025;Falha de Alimentação;Bateria 2 marcando abaixo de 12v.;30/09/2025;13/10/2025;13;Normalizada
+HER35;Alta;06/10/2025;Falha de Comunicação;Falha de comunicação.;05/10/2025;;169;Falha Ativa
+CHU09;Alta;06/10/2025;Falha de Comunicação;Falha de comunicação.;04/10/2025;08/09/2025;-26;Normalizada
+GER06;Media;06/10/2025;Sensores / DataLogger;Higrômetro com valores acima do patamar durante o dia 4/10 e 5/10.;03/10/2025;06/10/2025;3;Normalizada
+DT601;Alta;06/10/2025;Sensores / DataLogger;Falha total no anemômetro 2.;02/10/2025;27/02/2026;148;Normalizada
+HER30;Alta;07/10/2025;Falha de Comunicação;Falha de comunicação.;05/10/2025;;169;Falha Ativa
+ASU04;Media;08/10/2025;Sensores / DataLogger;Anemômetros 1 e 2 marcando valores de 0 m/s de maneira repentina entre os dias 6 e 7/10.;06/10/2025;08/10/2025;2;Normalizada
+CHU04;Alta;10/10/2025;Falha de Alimentação;Bateria principal medindo abaixo de 12v.;09/10/2025;;165;Falha Ativa
+CHU06;Urgente;10/10/2025;Sensores / DataLogger;Falha total nas medições de ambas windvanes.;09/10/2025;;165;Falha Ativa
+CHU09;Alta;10/10/2025;Sensores / DataLogger;Falha total nas medições do anemômetro 2.;09/10/2025;;165;Falha Ativa
+GER07;Alta;10/10/2025;Sensores / DataLogger;Ruído nas medições do barômetro com exclusão de dados a partir de 19/01/2026;07/10/2025;;167;Falha Ativa
+GER07;Alta;13/10/2025;Falha de Comunicação;Torre sem comunicação;12/10/2025;14/10/2025;2;Normalizada
+CER18;Alta;13/10/2025;Sensores / DataLogger;Falha Geral para Termo-higrômetro e barômetro. Manutenção realizada 14/10/2025.;10/10/2025;15/10/2025;5;Normalizada
+CHU06;Alta;14/10/2025;Sensores / DataLogger;Termômetro passou a ter ruído nos valores de máxima do medidor após o dia 08/10 de maneira recorrente.;08/10/2025;;166;Falha Ativa
+CHU09;Alta;14/10/2025;Sensores / DataLogger;Windvane 1 com medições inconsistente e completamente divergentes das medições de Windvane 2.;12/10/2025;;162;Falha Ativa
+HER36;Alta;14/10/2025;Sensores / DataLogger;Ruído e medições de mínima inconsistentes da Windvane 1.;12/10/2025;;162;Falha Ativa
+ASD13;Alta;17/10/2025;Falha de Comunicação;Client 10.75.91.4 não responde a ping. Dados atualizados 21-10-2025;16/10/2025;21/10/2025;5;Normalizada
+CHU09;Alta;20/10/2025;Falha de Comunicação;Falha de comunicação. voltou sozinho;16/10/2025;28/02/2026;135;Normalizada
+AS501;Alta;21/10/2025;Falha de Comunicação;Falha de comunicação, não responde a ping.;20/10/2025;;154;Normalizada
+ASU05;Alta;21/10/2025;Falha de Comunicação;Falha de comunicação.;20/10/2025;23/10/2025;3;Normalizada
+GER07;Alta;22/10/2025;Falha de Comunicação;Falha de comunicação.;20/10/2025;27/10/2025;7;Normalizada
+PEC01;Alta;24/10/2025;Sensores / DataLogger;Falha geral anemômetro 1;20/10/2025;;154;Falha Ativa
+HER26;Alta;24/10/2025;Falha de Alimentação;Bateria com valores de máximo e mínimos inconsistentes e bateria 1 com valores abaixo de 12v.;17/10/2025;;157;Falha Ativa
+DIA03;Alta;27/10/2025;Falha de Comunicação;Torre sem comunicação;26/10/2025;27/10/2025;1;Normalizada
+HER26;Urgente;27/10/2025;Sensores / DataLogger;"Falha no hardware do datalogger e leitura do anemômetro 3. Muito provável causado pelas oscilações de tensão. 
+""Hardware fault: C1 bus.C1 OS.C3 bus.C3 OS.C5 bus.C5 OS.CPU:HRM5326_V6.CR1X """;21/10/2025;;153;Falha Ativa
+PDD01;Urgente;17/10/2025;Falha de Comunicação;Torre Colapsada;17/10/2025;26/02/2026;132;Normalizada
+CHU06;Alta;28/10/2025;Sensores / DataLogger;Falha total para Anemômetro 2;24/10/2025;;150;Falha Ativa
+CHU06;Urgente;28/10/2025;Sensores / DataLogger;Falha total para Anemômetro 1, Anemômetro 3, Windvane 1 e Windvane 2;28/10/2025;;146;Falha Ativa
+VDB13;Media;28/10/2025;Sensores / DataLogger;Ruido elevado no Termômetro com mudanças de patamares.;23/10/2025;09/12/2025;47;Normalizada
+ART03;Alta;30/10/2025;Falha de Comunicação;Falha de comunicação.;28/10/2025;31/10/2025;3;Normalizada
+DIA02;Alta;31/10/2025;Sensores / DataLogger;Falhas recorrentes do Barômetro, começou com Ruido no Barômetro com perda de dados.;26/10/2025;;148;Falha Ativa
+ASD13;Alta;31/10/2025;Falha de Comunicação;Sem comunicação.;28/10/2025;17/11/2025;20;Normalizada
+ASD13;Media;31/10/2025;Sensores / DataLogger;Lacunas frequentes nas medições. Suspeita de vidro arranhado.;20/10/2025;;154;Normalizada
+HER26;Alta;31/10/2025;Sensores / DataLogger;Falha total na WindVane 1 e valores inconsistentes na máximas da WindVane 2.;27/10/2025;01/11/2025;5;Normalizada
+HER26;Alta;31/10/2025;Sensores / DataLogger;O anemômetro 1, 2 e 3 registrando valores de 0 m/s de maneira repentina e recorrente.;28/10/2025;;146;Falha Ativa
+VDB13;Alta;31/10/2025;Sensores / DataLogger;Termômetro tendo mudanças de patamar intermitente.;26/10/2025;09/12/2025;44;Normalizada
+PBA01;Alta;03/11/2025;Falha de Comunicação;Falha de comunicação, torre não responde a ping.;02/11/2025;20/12/2025;48;Normalizada
+GER07;Alta;05/11/2025;Falha de Comunicação;Torre sem comunicação;03/11/2025;19/11/2025;16;Normalizada
+DT303;Alta;05/11/2025;Falha de Comunicação;Torre sem comunicação;04/11/2025;29/11/2025;25;Normalizada
+ASU07;Baixa;05/11/2025;Sensores / DataLogger;Ruido Leve na temperatura. Realizado verificação 06-03-2026;30/10/2025;06/03/2026;127;Normalizada
+DIA02;Alta;05/11/2025;Falha de Alimentação;Bateria de comunicação medindo abaixo de 12v.;02/11/2025;;141;Falha Ativa
+PPA01;Média;05/11/2025;Falha de Alimentação;Bateria de comunicação com queda forte, aparentemente bateria não segura carga;01/11/2025;;142;Falha Ativa
+PPA01;Alta;06/11/2025;Falha de Comunicação;Torre sem comunicação. Mostrava problemas de carga de bateria antes de perder a comunicação.;05/11/2025;02/12/2025;27;Normalizada
+COL01;Alta;10/11/2025;Falha de Comunicação;Torre sem comunicação;07/11/2025;05/12/2025;28;Normalizada
+COL01;Alta;12/11/2025;Falha de Comunicação;Falha de comunicação.;11/11/2025;05/12/2025;24;Normalizada
+DT502;Alta;14/11/2025;Falha de Comunicação;Torre sem comunicação;13/11/2025;21/11/2025;8;Normalizada
+ASD12;Media;18/04/2025;Sensores / DataLogger;Necessário substituição do Datalogger devido, saidas de conexão de sensores está apresentando falhas.;18/04/2025;;339;Falha Ativa
+ASD07;Alta;19/11/2025;Sensores / DataLogger;Falha nas medições de máxima e/ou mínima do termômetro, barômetro e higrômetro, tendo quedas nas medições.;08/11/2025;25/11/2025;17;Normalizada
+LAJ03;Urgente;19/11/2025;Falha de Alimentação;Bateria principal medindo abaixo de 12v. Com perda de dados.;17/11/2025;15/12/2025;28;Normalizada
+HER26;Urgente;21/11/2025;Falha de Alimentação;Bateria 1 e 2 medindo abaixo de 12v.;12/11/2025;;131;Falha Ativa
+HER26;Alta;21/11/2025;Sensores / DataLogger;Falha total no anemômetro 3.;06/11/2025;;137;Falha Ativa
+HER26;Media;21/11/2025;Sensores / DataLogger;Ruído nos valores de max e min do higrômetro.;01/11/2025;;142;Falha Ativa
+DT602;Media;21/11/2025;Falha de Alimentação;Bateria 2 medindo abaixo de 12v.;16/11/2025;;127;Falha Ativa
+DT101;Alta;21/11/2025;Falha de Alimentação;Bateria principal tendo quedas de medição abaixo de 12v.;16/11/2025;01/12/2025;15;Normalizada
+DT102;Alta;21/11/2025;Sensores / DataLogger;Higrômetro com medições inconsistentes e ruído.;16/11/2025;;127;Falha Ativa
+ASD09;Urgente;21/11/2025;Sensores / DataLogger;Falha total nas medições do anemômetro 1.;20/11/2025;;123;Falha Ativa
+AS401;Alta;24/11/2025;Falha de Comunicação;Falha de comunicação.;20/11/2025;09/12/2025;19;Normalizada
+VDB01;Alta;05/11/2025;Sensores / DataLogger;Troca periódica de anemômetro;05/11/2025;28/11/2025;23;Normalizada
+AS501;Alta;22/10/2025;Falha de Comunicação;Falha de comunicação.;20/10/2025;;154;Falha Ativa
+ASD08;Urgente;27/11/2025;Sensores / DataLogger;Falha total nas medições dos anemômetros 1 e 2.;26/11/2025;16/12/2025;20;Normalizada
+ASD14;Baixa;27/11/2025;Sensores / DataLogger;Higrômetro 2 marcando valores acima do patamar entre os dias 19 e 22, algumas ocorrências em outros dias também, mas bem pontuais. Em observação.;20/11/2025;16/12/2025;26;Normalizada
+CAP03;Alta;27/11/2025;Sensores / DataLogger;Ruídos extremos nas medições das Windvanes 1 e 2. Obs.: A velocidade do vento está bem baixa, continuar observando.;15/10/2025;15/11/2025;31;Normalizada
+CER06;Media;27/11/2025;Sensores / DataLogger;Higrômetro com valores acima do patamar esperado entre os dias 20 e 22, observar.;20/11/2025;05/12/2025;15;Normalizada
+VDB01;Alta;01/12/2025;Falha de Comunicação;Sem comunicação.;20/11/2025;06/12/2025;16;Normalizada
+VDB27;Alta;01/12/2025;Falha de Comunicação;Falha de Comunicação.;20/11/2025;06/01/2025;-318;Normalizada
+LAJ03;Urgente;01/12/2025;Falha de Comunicação;Falha de comunicação devido a falha da na bateria.;27/11/2025;15/12/2025;18;Normalizada
+ASU05;Alta;02/12/2025;Falha de Comunicação;Torre sem comunicação;01/12/2025;09/12/2025;8;Normalizada
+BVI01;Urgente;02/12/2025;Falha de Comunicação;Torre sem comunicação com rompimento de Fibra;20/11/2025;02/12/2025;12;Normalizada
+GER07;Alta;02/12/2025;Falha de Comunicação;Torre sem comunicação;29/11/2025;09/12/2025;10;Normalizada
+HER24;Urgente;20/11/2025;Falha de Comunicação;Torre sem comunicação, falha no switch. Afetando HER24-HER36;19/11/2025;05/12/2025;16;Normalizada
+LAJ03;Urgente;02/12/2025;Sensores / DataLogger;Anemômetro 3 em falha Geral;25/11/2025;15/12/2025;20;Normalizada
+SRD01;Alta;02/12/2025;Falha de Comunicação;Torre sem comunicação;26/11/2025;03/12/2025;7;Normalizada
+DT102;Media;02/12/2025;Sensores / DataLogger;Ruido alto com invalidação de dados no TH;01/12/2025;;112;Falha Ativa
+HER25;Alta;04/12/2025;Falha de Comunicação;Sem comunicação devido a fibra (sem potencia na fibra);04/12/2025;18/12/2025;14;Normalizada
+HER35;Alta;04/12/2025;Falha de Comunicação;Sem comunicação devido a fibra (sem potencia na fibra);04/12/2025;;109;Falha Ativa
+DT502;Alta;05/12/2025;Falha de Comunicação;Torre com falha de comunicação.;03/12/2025;04/12/2025;1;Normalizada
+HER31;Alta;05/12/2025;Falha de Comunicação;Falha de comunicação.;04/12/2025;18/12/2025;14;Normalizada
+HER28;Alta;05/12/2025;Falha de Comunicação;Falha de comunicação.;04/12/2025;18/12/2025;14;Normalizada
+HER34;Alta;05/12/2025;Falha de Comunicação;Falha de comunicação.;04/12/2025;18/12/2025;14;Normalizada
+ASD08;Alta;05/12/2025;Sensores / DataLogger;A Windvane 1 está com o comportamento divergente e com valores muito abaixo da Windvane 2 e com ruídos nos valores de máxima a partir do dia 28/11. sensor parou de funcionar;28/11/2025;;115;Falha Ativa
+HER26;Media;05/12/2025;Sensores / DataLogger;Ruído nos valores de máxima do termômetro.;30/11/2025;;113;Falha Ativa
+HER34;Urgente;05/12/2025;Sensores / DataLogger;Falha total no anemômetro 1.;01/12/2025;;112;Falha Ativa
+DT102;Urgente;05/12/2025;Sensores / DataLogger;Ruído extremo no termo-higrômetro, perda total de dados.;01/12/2025;;112;Falha Ativa
+SRD01;Baixa;05/12/2025;Sensores / DataLogger;Anemometer 4 was broken during the installation. A new sensor will be provided by the met mast installer;21/11/2025;04/02/2026;75;Normalizada
+HER26;Alta;09/12/2025;Falha de Comunicação;Falha de comunicação.;04/12/2025;18/12/2025;14;Normalizada
+HER27;Alta;09/12/2025;Falha de Comunicação;Falha de comunicação.;04/12/2025;18/12/2025;14;Normalizada
+DIA03;Media;09/12/2025;Sensores / DataLogger;Os valores de média, máxima e mínima das Windvane 1 e 2 estão tendo perda de dados e ocorrências de ruídos.;04/12/2025;;109;Falha Ativa
+DIA02;Media;09/12/2025;Sensores / DataLogger;Os valores de média, máxima e mínima das Windvane 1 e 2 estão tendo perda de dados e ocorrências de ruídos.;04/12/2025;;109;Normalizada
+CER06;Alta;09/12/2025;Falha de Alimentação;Bateria principal abaixo de 12v.;05/12/2025;19/01/2026;45;Normalizada
+CER19;Alta;09/12/2025;Falha de Alimentação;Bateria principal marcando valores abaixo de 12v.;05/12/2025;;108;Falha Ativa
+CER18;Media;09/12/2025;Sensores / DataLogger;Higrômetro marcando valores acima do patamar nos dias 6 e 7/12.;06/12/2025;;107;Falha Ativa
+HER27;Media;09/12/2025;Sensores / DataLogger;Windvane 1 com ruído nos valores de máxima.;01/12/2025;;112;Falha Ativa
+HER29;Alta;09/12/2025;Sensores / DataLogger;Windvane 1 e 2 com valores de máxima muito distantes dos valores de média de maneira intermitente e com ruído considerável.;01/12/2025;;112;Falha Ativa
+HER29;Media;09/12/2025;Sensores / DataLogger;Ruído leve e intermitente nas medições de máxima do anemômetro 1.;01/12/2025;;112;Falha Ativa
+DT701;Alta;09/12/2025;Sensores / DataLogger;Queda brusca e intermitente da bateria 2. normalizou sozinho;04/12/2025;12/12/2025;8;Normalizada
+VDB27;Urgente;10/12/2025;Sensores / DataLogger;Falha geral de anemômetro 3. Não foi possível identificar no prazo, pois a torre estava sem comunicação até 06/12/2025;20/11/2025;06/12/2025;16;Normalizada
+VDB27;Urgente;10/12/2025;Sensores / DataLogger;Falha Geral para as duas windvanes;20/11/2025;23/01/2026;64;Normalizada
+ART03;Baixa;16/12/2025;Falha de Alimentação;Bateria principal marcando abaixo e/ou muito próximo de 12v a partir do dia 11/12.;11/12/2025;;102;Falha Ativa
+ASD14;Alta;16/12/2025;Sensores / DataLogger;Falha total no anemômetro 2.;11/12/2025;28/01/2026;48;Normalizada
+PEC01;Alta;16/12/2025;Sensores / DataLogger;Falha total no anemômetro 2B, normalizado sozinho em 16/12;07/12/2025;16/12/2025;9;Normalizada
+PEC01;Alta;16/12/2025;Sensores / DataLogger;Falha total no anemômetro 3. Parece que voltou a medir dia 16/12, observar.;07/12/2025;16/12/2025;9;Normalizada
+PEC01;Urgente;16/12/2025;Sensores / DataLogger;Falha total nas medições de WV1. WV2 falhou entre 07/12 a 16/12.;07/12/2025;;106;Falha Ativa
+PEC01;Alta;16/12/2025;Sensores / DataLogger;Falha total nas medições de termo-higrômetro. Normalizou sozinho em 16/12/2025;07/12/2025;16/12/2025;9;Normalizada
+AS504;Alta;17/12/2025;Falha de Comunicação;Torre sem comunicação;12/12/2025;;101;Falha Ativa
+ABO01;Alta;22/12/2025;Falha de Comunicação;Torre sem comunicação;21/12/2025;23/12/2025;2;Normalizada
+GER04;Alta;22/12/2025;Falha de Comunicação;Torre sem comunicação;18/12/2025;;95;Falha Ativa
+HER29;Alta;22/12/2025;Falha de Comunicação;Torre sem comunicação;14/12/2025;;99;Falha Ativa
+ASU07;Media;23/12/2025;Sensores / DataLogger;Ruido no barômetro com exclusão de dados, aumentou a recorrência em janeiro. Realizado verificação 05-03-2026;21/12/2025;06/03/2026;75;Normalizada
+ASD08;Urgente;23/12/2025;Sensores / DataLogger;Datalogger travado durante o processo de atualização do programa;23/12/2025;23/12/2025;0;Normalizada
+DT306;Alta;23/12/2025;Falha de Alimentação;Falha para bateria de comunicação, normalizou sozinho;22/12/2025;26/12/2025;4;Normalizada
+PSA01;Media;23/12/2025;Falha de Alimentação;Falha na Bateria de Comunicação, não segurando carga;12/12/2025;;101;Falha Ativa
+GND03;Media;23/12/2025;Sensores / DataLogger;Anemometer 2 showed mal function;13/12/2025;;100;Falha Ativa
+VDB18;Media;23/12/2025;Falha de Alimentação;Bateria de comunicação não segurando carga;09/12/2025;;104;Normalizada
+CPS02;Alta;26/12/2025;Falha de Comunicação;Torre sem comunicação;24/12/2025;29/12/2025;5;Normalizada
+LAJ03;Alta;26/12/2025;Falha de Comunicação;Torre sem comunicação;23/12/2025;29/12/2025;6;Normalizada
+LAJ09;Alta;26/12/2025;Falha de Comunicação;Torre sem comunicação;22/12/2025;16/01/2026;25;Normalizada
+VDB09;Alta;26/12/2025;Falha de Alimentação;Torre perdendo a comunicação durante a noite.;09/12/2025;19/01/2026;41;Normalizada
+ABO01;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;28/12/2025;30/12/2025;2;Normalizada
+AS403;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;27/12/2025;;86;Falha Ativa
+AS405;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;27/12/2025;;86;Falha Ativa
+CHU04;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;27/12/2025;;86;Falha Ativa
+DT101;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;27/12/2025;;86;Falha Ativa
+HER26;Alta;29/12/2025;Falha de Comunicação;Torre sem comunicação;27/12/2025;;86;Falha Ativa
+HER26;Alta;26/12/2025;Sensores / DataLogger;WindVane 01 apresentando medições inconsistente.;25/12/2025;;88;Falha Ativa
+ART03;Media;30/12/2025;Sensores / DataLogger;Piranometro 1 medindo abaixo do esperado entre 14 e 15 horas;17/12/2025;;96;Falha Ativa
+AS406;Alta;05/01/2026;Falha de Comunicação;Torre sem comunicação;30/12/2025;;83;Falha Ativa
+AS502;Alta;05/01/2026;Falha de Comunicação;Torre sem comunicação;30/12/2025;;83;Falha Ativa
+PPA01;Alta;05/01/2025;Falha de Comunicação;Torre sem comunicação;04/01/2026;;78;Normalizada
+LAJ03;Alta;05/01/2026;Falha de Comunicação;Torre sem comunicação;01/01/2026;08/01/2026;7;Normalizada
+PEC01;Alta;05/01/2026;Falha de Comunicação;Torre sem comunicação;01/01/2026;10/01/2026;9;Normalizada
+SRD01;Alta;26/12/2025;Falha de Comunicação;Torre sem comunicação.;24/12/2025;06/01/2026;13;Normalizada
+ASU07;Alta;06/01/2026;Falha de Comunicação;Torre sem comunicação;05/01/2026;16/01/2026;11;Normalizada
+GER02;Alta;12/01/2026;Falha de Comunicação;Torre sem comunicação;09/01/2026;14/01/2026;5;Normalizada
+DIA02;Alta;12/01/2026;Falha de Comunicação;Torre sem comunicação;10/01/2026;14/01/2026;4;Normalizada
+ABO01;Alta;19/01/2026;Falha de Comunicação;Torre com comunicação intermitente;18/01/2026;10/02/2026;23;Normalizada
+CHU06;Alta;23/01/2026;Falha de Comunicação;Torre não envia os dados desde as 20h de 22/01/2026;22/01/2026;23/01/2026;1;Normalizada
+PEC01;Urgente;26/01/2026;Falha de Comunicação;Torre não comunica desde 21/12/2026 às 9h03;21/01/2026;;61;Falha Ativa
+CHU06;Urgente;29/01/2026;Falha de Comunicação;Falha de comunicação (fibra), última coleta: 28/01/2026 às 18h;28/01/2026;;54;Falha Ativa
+AS505;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+ASD05;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+ASD06;Alta;03/02/2026;Falha de Comunicação;Torre sem comunicação;31/01/2026;;51;Normalizada
+ASD07;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+ASD08;Alta;31/01/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Falha Ativa
+ASD09;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Falha Ativa
+ASD10;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+ASD11;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+ASD13;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;13/03/2026;41;Normalizada
+ASD14;Alta;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Falha Ativa
+CER05;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;31/01/2026;;51;Normalizada
+CER06;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;30/01/2026;;52;Falha Ativa
+CER18;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;29/01/2026;12/03/2026;42;Normalizada
+CER19;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;29/01/2026;;53;Falha Ativa
+DT602;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;02/02/2026;;49;Normalizada
+HER31;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;02/02/2026;;49;Falha Ativa
+VDB18;Urgente;03/02/2026;Falha de Comunicação;Torre não comunica;02/02/2026;;49;Normalizada
+VDB09;Alta;05/02/2026;Falha de Comunicação;Torre sem comunicação porque foi derrubada para troca.;29/01/2026;26/02/2026;28;Normalizada
+ASD12;Media;05/02/2026;Falha de Alimentação;Bateria não segurando carga, ainda sem perdas de dados;23/01/2026;;59;Falha Ativa
+ASU03;Media;05/02/2026;Falha de Alimentação;Bateria principal não segurando carga e sem percas de dados;27/01/2026;;55;Falha Ativa
+CHU06;Media;05/02/2026;Falha de Alimentação;Tensão da bateria consistentemente abaixo de 12V;01/02/2026;;50;Falha Ativa
+TBR01;Media;05/02/2026;Falha de Alimentação;Bateria de comunicação apresenta queda de tensão anormal.;02/02/2026;;49;Falha Ativa
+VDB27;Baixa;05/02/2026;Sensores / DataLogger;Leve ruído no TH01 pós substituição de Wind Vane;26/01/2026;;56;Falha Ativa
+ABO01;Alta;06/02/2026;Falha de Comunicação;Há uma falha contínua dos dados dos sensores.;21/01/2026;10/02/2026;20;Normalizada
+CAP03;Media;09/02/2026;Sensores / DataLogger;Baixa correlação entre as windvanes;16/01/2026;;66;Falha Ativa
+DT305;Media;11/02/2026;Falha de Alimentação;Bateria 2 apresenta queda de tensão abaixo dos 12V durante a noite.;05/02/2026;;46;Falha Ativa
+DT602;Alta;12/02/2026;Falha de Comunicação;Torre não comunica.;11/02/2026;;40;Normalizada
+PBA01;Alta;11/02/2026;Falha de Comunicação;Falha de comunicação,;11/02/2026;;40;Falha Ativa
+ART02;Baixa;18/02/2026;Falha de Alimentação;Bateria 1 registrando valores abaixo de 12V.;12/02/2026;;39;Falha Ativa
+ART01;Baixa;18/02/2026;Falha de Alimentação;Bateria 1 frequentemente atingindo picos abaixo dos 12V;13/02/2026;;38;Falha Ativa
+AS506;Media;18/02/2026;Sensores / DataLogger;Pluviômetro com registros de dados inconsistentes.;04/02/2026;;47;Falha Ativa
+CHU06;Urgente;18/02/2026;Falha de Comunicação;Falha de comunicação dos sensores, última coleta: 07/02/2026 às 09h50;07/02/2026;;44;Falha Ativa
+HER25;Media;18/02/2026;Sensores / DataLogger;Bateria 1 apresenta valores de tensão menores que 11V desde o dia 03 de fevereiro.;03/02/2026;;48;Falha Ativa
+DT801;Media;19/02/2026;Falha de Comunicação;Entre às 09h10 e 10h do dia 09 de fevereiro não há dados disponíveis da bateria 2.;09/02/2026;09/02/2026;0;Normalizada
+PDD01;Urgente;19/02/2026;Falha de Comunicação;Falha total de comunicação dos sensores desde o dia 06 de fevereiro às 14h30.;06/02/2026;06/02/2026;0;Normalizada
+PPA01;Alta;19/02/2026;Falha de Alimentação;Não há dados de tensão da bateria 2 durante os períodos: 16:00-17:50 do dia 04 de fevereiro e 10:00-11:50 do dia 09 de fevereiro. Durante essas falhas, os sensores não registraram dados;04/02/2026;;47;Falha Ativa
+TBR03;Alta;19/02/2026;Falha de Alimentação;Nã há dados de tensão entre às 22:00-23:50 do dia 12 de fevereiro.;12/02/2026;12/02/2026;0;Normalizada
+TBR03;Alta;19/02/2026;Falha de Comunicação;Nã há dados disponíveis do barômetro entre às 20:00-23:50 do dia 12 de fevereiro.;12/02/2026;12/02/2026;0;Normalizada
+GNW01;Baixa;19/02/2026;Sensores / DataLogger;The pluviometer recorded abnormal rainfall values ??between February 13th and 14th.;13/02/2026;14/02/2026;1;Normalizada
+CPS02;Alta;19/02/2026;Falha de Comunicação;Torre não comunica desde 18 Feb 2026 08:00:00;18/02/2026;;33;Normalizada
+DIA02;Alta;19/02/2026;Falha de Comunicação;Torre sem comunicação;18/02/2026;;33;Normalizada
+VDB18;Urgente;20/02/2026;Falha de Comunicação;Torre sem comunicação desde o dia 19 de fevereiro às 14h30.;19/02/2026;20/02/2026;1;Normalizada
+BVI01;Urgente;20/02/2026;Falha de Comunicação;Torre sem comunicação desde o dia 19 de fevereiro às 14h.;19/02/2026;;32;Falha Ativa
+HER36;Media;20/02/2026;Sensores / DataLogger;Bateria 2 registrando valores médios próximos a 14V desde outubro de 2024.;;;0;Falha Ativa
+GER07;Urgente;26/02/2026;Falha de Comunicação;Torre com falha de comunicação desde o dia 24 de fevereiro às 09h.;24/02/2026;26/02/2026;2;Normalizada
+VDB18;Alta;26/02/2026;Falha de Comunicação;Torre com falha de comunicação desde o dia 24 de fevereiro às 10h.;24/02/2026;;27;Normalizada
+DT602;Alta;26/02/2026;Falha de Comunicação;Torre com falha de comunicação desde o dia 25 de fevereiro às 18h.;25/02/2026;26/02/2026;1;Normalizada
+CHU07;Alta;03/03/2026;Sensores / DataLogger;Barômetro com falha total. Pendência anterior menciona que o sensor voltou a funcionar, mas isso não se refletiu nos dados;29/10/2025;;145;Falha Ativa
+DT601-R;Alta;03/03/2026;Sensores / DataLogger;Falha no registro dos dados dos sensores a partir do dia 01 de março às 21h.;01/03/2026;;22;Falha Ativa
+LAJ01;Media;04/03/2026;Sensores / DataLogger;Higrômetro registrando dados acima da normalidade desde o dia 25 de fevereiro.;25/02/2026;;26;Normalizada
+PPA01;Alta;04/03/2026;Sensores / DataLogger;Falha total para Windvane 1;28/02/2026;;23;Falha Ativa
+CHU01;Media;04/03/2026;Sensores / DataLogger;Windvane 1 com falha intermitente. Valores indo para zero.;16/02/2026;;35;Falha Ativa
+GER01;Media;05/03/2026;Falha de Alimentação;Bateria ultrapassando limite de tensão inferior;08/02/2026;;43;Falha Ativa
+VDB01;Urgente;10/03/2026;Falha de Comunicação;Os sensores da torre não retornam dados desde o dia 06 de março às 18h.;06/03/2026;;17;Normalizada
+ASD12;Media;10/03/2026;Sensores / DataLogger;Os dados do albedômetro, pireliômetro e piranômetro registraram dados inconsistentes;06/03/2026;;17;Falha Ativa
+ASU07;Media;10/03/2026;Sensores / DataLogger;Anemômetro 1 registrou valores inconsistentes entre às 12h40 e 13h40 do dia 03 de março de 2026. Identificação de Urubu sentando no sensor ANE1.;03/03/2026;04/03/2026;1;Normalizada
+CHU09;Alta;10/03/2026;Sensores / DataLogger;"Os registros do anemômetro 3; Windvanes 1 e 2 aptresentam medições inconsistentes;";;;0;Falha Ativa
+DT602;Media;11/03/2026;Falha de Comunicação;Os sensores da torre não registraram dados entre às 08h e 10h10 do dia 08 de março de 2026.;08/03/2026;08/03/2026;0;Falha Ativa
+DT303;Media;12/03/2026;Sensores / DataLogger;Windvanes 1 e 2 registraram valores inconsistentes no dia 02 de março de 2026 às 07h20.;02/03/2026;02/03/2026;0;Falha Ativa
+DT306;Alta;12/03/2026;Falha de Alimentação;Bateria 2 registrou tensão abaixo de 12v entre os dias 03 e 07 de março de 2026.;03/03/2026;07/03/2026;4;Falha Ativa
+PSA01;Media;12/03/2026;Falha de Alimentação;Bateria do datalogger está registrando valores menores que 12v.;;;0;Falha Ativa
+COL01;Media;12/03/2026;Falha de Alimentação;Bateria de comunicação registrando valores abaixo de 12v desde o dia 03 de março de 2026.;03/03/2026;;20;Falha Ativa
+SRD01;Media;12/03/2026;Sensores / DataLogger;Anemômetro 4 registrou dados inconsistentes entre o dia 11 e 12 de março de 2026.;;;0;Falha Ativa
+CPS01;Urgente;16/03/2026;Falha de Comunicação;Falha de comunicação dos sensores.;12/03/2026;;11;Falha Ativa
+DT601-R;Urgente;16/03/2026;Falha de Comunicação;Falha de comunicação dos sensores.;11/03/2026;;12;Falha Ativa
+PPA01;Media;18/03/2026;Sensores / DataLogger;Lacuna nos dados dos sensores desde o dia 16/03/2026.;16/03/2026;;7;Falha Ativa
+DIA02;Urgente;18/03/2026;Falha de Comunicação;Torre sem comunicação.;17/03/2026;;6;Falha Ativa
+AS505;Media;18/03/2026;Sensores / DataLogger;Pluviômetro com registros de dados inconsistentes.;;;0;Falha Ativa
+DIA02;Media;18/03/2026;Sensores / DataLogger;Windvanes 1 e 2 apresentam lacunas na serie temporal.;;;0;Falha Ativa
+ASD13;Media;18/03/2026;Sensores / DataLogger;Sensores apresentam lacunas nas suas séries temporais.;;;0;Falha Ativa
+DT701;Media;18/03/2026;Sensores / DataLogger;Bateria 2 apresenta valores de tensão abaixo do limite inferior de 12v.;;;0;Falha Ativa
+PPA01;Urgente;20/03/2026;Falha de Comunicação;Falha de comunicação da torre desde o dia 18/03/2026 10:00;18/03/2026;;5;Falha Ativa
+CAP03;Alta;20/03/2026;Sensores / DataLogger;Lacunas recorrentes nos dados de Windvane 1 e 2.;;;0;Falha Ativa
+SRD02;Baixa;20/03/2026;Sensores / DataLogger;Dados de CNR com lacunas recorrentes.;;;0;Falha Ativa
+SRD03;Baixa;20/03/2026;Sensores / DataLogger;Dados de CNR com lacunas recorrentes.;;;0;Falha Ativa
+SRD04;Baixa;20/03/2026;Sensores / DataLogger;Dados de CNR com lacunas recorrentes.;;;0;Falha Ativa
+SRD05;Baixa;20/03/2026;Sensores / DataLogger;Dados de CNR com lacunas recorrentes.;;;0;Falha Ativa
+SRD01;Baixa;20/03/2026;Sensores / DataLogger;Dados de CNR com lacunas recorrentes.;;;0;Falha Ativa
+CPS02;Media;20/03/2026;Sensores / DataLogger;Lacunas recorrentes nos dados de Windvane 1 e 2 desde o dia 13/03/2026.;;;0;Falha Ativa
+ASU02;Urgente;23/03/2026;Falha de Comunicação;Torre sem comunicação;21/03/2026;;2;Falha Ativa
+ASU04;Urgente;23/03/2026;Falha de Comunicação;Torre sem comunicação;22/03/2026;;1;Falha Ativa
+CHU09;Urgente;23/03/2026;Falha de Comunicação;Torre sem comunicação;21/03/2026;;2;Falha Ativa
+VDB01;Urgente;23/03/2026;Falha de Comunicação;Torre sem comunicação;21/03/2026;;2;Falha Ativa
