@@ -233,7 +233,8 @@ ________________________________________
 -	*Não há uma priorização de falha vs falha visto sensor impactado, a nota máxima por score de cada falha é 333, falhas com mesma nota são consideradas com mesma prioridade (nesse caso, se houver uma priorização de falhas visto um determinado budget, será necessário um olhar mais criterioso e manual)
 ________________________________________
 # 📁 Estrutura do Projeto
-.
+
+```
 ├── inputs/
 │   ├── pendencias_torres.csv
 │   └── torre_uso.csv
@@ -249,3 +250,4 @@ ________________________________________
 │
 │
 └── README.md
+```
